@@ -33,7 +33,7 @@ while True:
     if rec.AcceptWaveform(data):
         res = json.loads(rec.Result())
         print (res['text'])
-        f.write(res['text'] + "\n")
+        f.write(res['text'])
 
 
 res = json.loads(rec.FinalResult())
