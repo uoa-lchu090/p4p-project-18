@@ -9,7 +9,7 @@ def sort(input_folder, output_folder):
     notfound = 0
 
     for i in range(len(df)):
-        file=df.get("Column1").tolist()[0]
+        file=df.get("Column1").tolist()[i]
         try:
             shutil.copy(input_folder+"//"+file, output_folder+"//"+file)
         except FileNotFoundError:
