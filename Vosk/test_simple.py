@@ -9,8 +9,8 @@ import json
 SetLogLevel(0)
 
 if not os.path.exists("model"):
-    print ("Please download the model from https://alphacephei.com/vosk/models and unpack as 'model' in the current folder.")
-    exit (1)
+    print("Please download the model from https://alphacephei.com/vosk/models and unpack as 'model' in the current folder.")
+    exit(1)
 
 wf = wave.open(sys.argv[1], "rb")
 if wf.getnchannels() != 1 or wf.getsampwidth() != 2 or wf.getcomptype() != "NONE":
@@ -32,12 +32,12 @@ while True:
         break
     if rec.AcceptWaveform(data):
         res = json.loads(rec.Result())
-        print (res['text'])
+        print(res['text'])
         f.write(res['text'])
 
 
 res = json.loads(rec.FinalResult())
-print (res['text'])
+print(res['text'])
              
 f.write(res['text'] + "\n")
 
