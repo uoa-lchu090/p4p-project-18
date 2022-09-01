@@ -1,0 +1,601 @@
+ID,file_path,words
+0,./testing/JL_test/female1_angry_10a_1.wav,Water harms the new born boy.
+1,./testing/JL_test/female1_angry_11a_1.wav,I have not seen my tooth.
+2,./testing/JL_test/female1_angry_12a_1.wav,Work hard or you lose.
+3,./testing/JL_test/female1_angry_13a_1.wav,Jim saw the port.
+4,./testing/JL_test/female1_angry_14a_1.wav,They should start to talk.
+5,./testing/JL_test/female1_angry_15a_1.wav,Sound the horn if you need more.
+6,./testing/JL_test/female1_angry_1a_1.wav,Tom beats that farmer.
+7,./testing/JL_test/female1_angry_2a_1.wav,John laughs like your father.
+8,./testing/JL_test/female1_angry_3a_1.wav,The seed is buried in deep.
+9,./testing/JL_test/female1_angry_4a_1.wav,Taylor likes stewed Asian food.
+10,./testing/JL_test/female1_angry_5a_1.wav,The lord swims in the sea.
+11,./testing/JL_test/female1_angry_6a_1.wav,Jack views an art piece.
+12,./testing/JL_test/female1_angry_7a_1.wav,Carl leaps into a jeep.
+13,./testing/JL_test/female1_angry_8a_1.wav,Linda asks for more darts.
+14,./testing/JL_test/female1_angry_9a_1.wav,Find your boot in this shute.
+15,./testing/JL_test/female1_anxious_10a_1.wav,Water harms the new born boy.
+16,./testing/JL_test/female1_anxious_11a_1.wav,Your results are unbelievable.
+17,./testing/JL_test/female1_anxious_12a_1.wav,We were away a year ago.
+18,./testing/JL_test/female1_anxious_13a_1.wav,How are you doing?
+19,./testing/JL_test/female1_anxious_14a_1.wav,I am so worried about my exam results.
+20,./testing/JL_test/female1_anxious_15a_1.wav,I am not sure how severe the wound is!
+21,./testing/JL_test/female1_anxious_1a_1.wav,Tom beats that farmer.
+22,./testing/JL_test/female1_anxious_2a_1.wav,John laughs like your father.
+23,./testing/JL_test/female1_anxious_3a_1.wav,The seed is buried in deep.
+24,./testing/JL_test/female1_anxious_4a_1.wav,Taylor likes stewed asian food.
+25,./testing/JL_test/female1_anxious_5a_1.wav,The lord swims in the sea.
+26,./testing/JL_test/female1_anxious_6a_1.wav,Jack views an art piece.
+27,./testing/JL_test/female1_anxious_7a_1.wav,Carl leaps into a jeep.
+28,./testing/JL_test/female1_anxious_8a_1.wav,Linda asks for more darts.
+29,./testing/JL_test/female1_anxious_9a_1.wav,Find your boot in this shute.
+30,./testing/JL_test/female1_apologetic_10a_1.wav,Water harms the new born boy.
+31,./testing/JL_test/female1_apologetic_11a_1.wav,Your results are unbelievable.
+32,./testing/JL_test/female1_apologetic_12a_1.wav,We were away a year ago.
+33,./testing/JL_test/female1_apologetic_13a_1.wav,How are you doing?
+34,./testing/JL_test/female1_apologetic_14a_1.wav,I owe you an apology.
+35,./testing/JL_test/female1_apologetic_15a_1.wav,"Forgive me, but I must leave now"
+36,./testing/JL_test/female1_apologetic_1a_1.wav,Tom beats that farmer.
+37,./testing/JL_test/female1_apologetic_2a_1.wav,John laughs like your father.
+38,./testing/JL_test/female1_apologetic_3a_1.wav,The seed is buried in deep.
+39,./testing/JL_test/female1_apologetic_4a_1.wav,Taylor likes stewed asian food.
+40,./testing/JL_test/female1_apologetic_5a_1.wav,The lord swims in the sea.
+41,./testing/JL_test/female1_apologetic_6a_1.wav,Jack views an art piece.
+42,./testing/JL_test/female1_apologetic_7a_1.wav,Carl leaps into a jeep.
+43,./testing/JL_test/female1_apologetic_8a_1.wav,Linda asks for more darts.
+44,./testing/JL_test/female1_apologetic_9a_1.wav,Find your boot in this shute.
+45,./testing/JL_test/female1_assertive_10a_1.wav,Water harms the new born boy.
+46,./testing/JL_test/female1_assertive_11a_1.wav,Your results are unbelievable.
+47,./testing/JL_test/female1_assertive_12a_1.wav,We were away a year ago.
+48,./testing/JL_test/female1_assertive_13a_1.wav,How are you doing?
+49,./testing/JL_test/female1_assertive_14a_1.wav,Please try to do your exercises next time.
+50,./testing/JL_test/female1_assertive_15a_1.wav,I will think about it and get back to you.
+51,./testing/JL_test/female1_assertive_1a_1.wav,Tom beats that farmer.
+52,./testing/JL_test/female1_assertive_2a_1.wav,John laughs like your father.
+53,./testing/JL_test/female1_assertive_3a_1.wav,The seed is buried in deep.
+54,./testing/JL_test/female1_assertive_4a_1.wav,Taylor likes stewed asian food.
+55,./testing/JL_test/female1_assertive_5a_1.wav,The lord swims in the sea.
+56,./testing/JL_test/female1_assertive_6a_1.wav,Jack views an art piece.
+57,./testing/JL_test/female1_assertive_7a_1.wav,Carl leaps into a jeep.
+58,./testing/JL_test/female1_assertive_8a_1.wav,Linda asks for more darts.
+59,./testing/JL_test/female1_assertive_9a_1.wav,Find your boot in this shute.
+60,./testing/JL_test/female1_concerned_10a_1.wav,Water harms the new born boy.
+61,./testing/JL_test/female1_concerned_11a_1.wav,Your results are unbelievable.
+62,./testing/JL_test/female1_concerned_12a_1.wav,We were away a year ago.
+63,./testing/JL_test/female1_concerned_13a_1.wav,How are you doing?
+64,./testing/JL_test/female1_concerned_14a_1.wav,It seems like you are taking a long time.
+65,./testing/JL_test/female1_concerned_15a_1.wav,I know how frustrating it can be.
+66,./testing/JL_test/female1_concerned_1a_1.wav,Tom beats that farmer.
+67,./testing/JL_test/female1_concerned_2a_1.wav,John laughs like your father.
+68,./testing/JL_test/female1_concerned_3a_1.wav,The seed is buried in deep.
+69,./testing/JL_test/female1_concerned_4a_1.wav,Taylor likes stewed asian food.
+70,./testing/JL_test/female1_concerned_5a_1.wav,The lord swims in the sea.
+71,./testing/JL_test/female1_concerned_6a_1.wav,Jack views an art piece.
+72,./testing/JL_test/female1_concerned_7a_1.wav,Carl leaps into a jeep.
+73,./testing/JL_test/female1_concerned_8a_1.wav,Linda asks for more darts.
+74,./testing/JL_test/female1_concerned_9a_1.wav,Find your boot in this shute.
+75,./testing/JL_test/female1_encouraging_10a_1.wav,Water harms the new born boy.
+76,./testing/JL_test/female1_encouraging_11a_1.wav,Your results are unbelievable.
+77,./testing/JL_test/female1_encouraging_12a_1.wav,We were away a year ago.
+78,./testing/JL_test/female1_encouraging_13a_1.wav,How are you doing?
+79,./testing/JL_test/female1_encouraging_14a_1.wav,Thank you for your help!
+80,./testing/JL_test/female1_encouraging_15a_1.wav,You should be proud of yourself!
+81,./testing/JL_test/female1_encouraging_1a_1.wav,Tom beats that farmer.
+82,./testing/JL_test/female1_encouraging_2a_1.wav,John laughs like your father.
+83,./testing/JL_test/female1_encouraging_3a_1.wav,The seed is buried in deep.
+84,./testing/JL_test/female1_encouraging_4a_1.wav,Taylor likes stewed asian food.
+85,./testing/JL_test/female1_encouraging_5a_1.wav,The lord swims in the sea.
+86,./testing/JL_test/female1_encouraging_6a_1.wav,Jack views an art piece.
+87,./testing/JL_test/female1_encouraging_7a_1.wav,Carl leaps into a jeep.
+88,./testing/JL_test/female1_encouraging_8a_1.wav,Linda asks for more darts.
+89,./testing/JL_test/female1_encouraging_9a_1.wav,Find your boot in this shute.
+90,./testing/JL_test/female1_excited_10a_1.wav,Water harms the new born boy.
+91,./testing/JL_test/female1_excited_11a_1.wav,I have not seen my tooth.
+92,./testing/JL_test/female1_excited_12a_1.wav,Work hard or you lose.
+93,./testing/JL_test/female1_excited_13a_1.wav,Jim saw the port.
+94,./testing/JL_test/female1_excited_14a_1.wav,They should start to talk.
+95,./testing/JL_test/female1_excited_15a_1.wav,Sound the horn if you need more.
+96,./testing/JL_test/female1_excited_1a_1.wav,Tom beats that farmer.
+97,./testing/JL_test/female1_excited_2a_1.wav,John laughs like your father.
+98,./testing/JL_test/female1_excited_3a_1.wav,The seed is buried in deep.
+99,./testing/JL_test/female1_excited_4a_1.wav,Taylor likes stewed Asian food.
+100,./testing/JL_test/female1_excited_5a_1.wav,The lord swims in the sea.
+101,./testing/JL_test/female1_excited_6a_1.wav,Jack views an art piece.
+102,./testing/JL_test/female1_excited_7a_1.wav,Carl leaps into a jeep.
+103,./testing/JL_test/female1_excited_8a_1.wav,Linda asks for more darts.
+104,./testing/JL_test/female1_excited_9a_1.wav,Find your boot in this shute.
+105,./testing/JL_test/female1_happy_10a_1.wav,Water harms the new born boy.
+106,./testing/JL_test/female1_happy_11a_1.wav,I have not seen my tooth.
+107,./testing/JL_test/female1_happy_12a_1.wav,Work hard or you lose.
+108,./testing/JL_test/female1_happy_13a_1.wav,Jim saw the port.
+109,./testing/JL_test/female1_happy_14a_1.wav,They should start to talk.
+110,./testing/JL_test/female1_happy_15a_1.wav,Sound the horn if you need more.
+111,./testing/JL_test/female1_happy_1a_1.wav,Tom beats that farmer.
+112,./testing/JL_test/female1_happy_2a_1.wav,John laughs like your father.
+113,./testing/JL_test/female1_happy_3a_1.wav,The seed is buried in deep.
+114,./testing/JL_test/female1_happy_4a_1.wav,Taylor likes stewed Asian food.
+115,./testing/JL_test/female1_happy_5a_1.wav,The lord swims in the sea.
+116,./testing/JL_test/female1_happy_6a_1.wav,Jack views an art piece.
+117,./testing/JL_test/female1_happy_7a_1.wav,Carl leaps into a jeep.
+118,./testing/JL_test/female1_happy_8a_1.wav,Linda asks for more darts.
+119,./testing/JL_test/female1_happy_9a_1.wav,Find your boot in this shute.
+120,./testing/JL_test/female1_neutral_10a_1.wav,Water harms the new born boy.
+121,./testing/JL_test/female1_neutral_11a_1.wav,I have not seen my tooth.
+122,./testing/JL_test/female1_neutral_12a_1.wav,Work hard or you lose.
+123,./testing/JL_test/female1_neutral_13a_1.wav,Jim saw the port.
+124,./testing/JL_test/female1_neutral_14a_1.wav,They should start to talk.
+125,./testing/JL_test/female1_neutral_15a_1.wav,Sound the horn if you need more.
+126,./testing/JL_test/female1_neutral_1a_1.wav,Tom beats that farmer.
+127,./testing/JL_test/female1_neutral_2a_1.wav,John laughs like your father.
+128,./testing/JL_test/female1_neutral_3a_1.wav,The seed is buried in deep.
+129,./testing/JL_test/female1_neutral_4a_1.wav,Taylor likes stewed Asian food.
+130,./testing/JL_test/female1_neutral_5a_1.wav,The lord swims in the sea.
+131,./testing/JL_test/female1_neutral_6a_1.wav,Jack views an art piece.
+132,./testing/JL_test/female1_neutral_7a_1.wav,Carl leaps into a jeep.
+133,./testing/JL_test/female1_neutral_8a_1.wav,Linda asks for more darts.
+134,./testing/JL_test/female1_neutral_9a_1.wav,Find your boot in this shute.
+135,./testing/JL_test/female1_sad_10a_1.wav,Water harms the new born boy.
+136,./testing/JL_test/female1_sad_11a_1.wav,I have not seen my tooth.
+137,./testing/JL_test/female1_sad_12a_1.wav,Work hard or you lose.
+138,./testing/JL_test/female1_sad_13a_1.wav,Jim saw the port.
+139,./testing/JL_test/female1_sad_14a_1.wav,They should start to talk.
+140,./testing/JL_test/female1_sad_15a_1.wav,Sound the horn if you need more.
+141,./testing/JL_test/female1_sad_1a_1.wav,Tom beats that farmer.
+142,./testing/JL_test/female1_sad_2a_1.wav,John laughs like your father.
+143,./testing/JL_test/female1_sad_3a_1.wav,The seed is buried in deep.
+144,./testing/JL_test/female1_sad_4a_1.wav,Taylor likes stewed Asian food.
+145,./testing/JL_test/female1_sad_5a_1.wav,The lord swims in the sea.
+146,./testing/JL_test/female1_sad_6a_1.wav,Jack views an art piece.
+147,./testing/JL_test/female1_sad_7a_1.wav,Carl leaps into a jeep.
+148,./testing/JL_test/female1_sad_8a_1.wav,Linda asks for more darts.
+149,./testing/JL_test/female1_sad_9a_1.wav,Find your boot in this shute.
+150,./testing/JL_test/female2_angry_10a_1.wav,Water harms the new born boy.
+151,./testing/JL_test/female2_angry_11a_1.wav,I have not seen my tooth.
+152,./testing/JL_test/female2_angry_12a_1.wav,Work hard or you lose.
+153,./testing/JL_test/female2_angry_13a_1.wav,Jim saw the port.
+154,./testing/JL_test/female2_angry_14a_1.wav,They should start to talk.
+155,./testing/JL_test/female2_angry_15a_1.wav,Sound the horn if you need more.
+156,./testing/JL_test/female2_angry_1a_1.wav,Tom beats that farmer.
+157,./testing/JL_test/female2_angry_2a_1.wav,John laughs like your father.
+158,./testing/JL_test/female2_angry_3a_1.wav,The seed is buried in deep.
+159,./testing/JL_test/female2_angry_4a_1.wav,Taylor likes stewed Asian food.
+160,./testing/JL_test/female2_angry_5a_1.wav,The lord swims in the sea.
+161,./testing/JL_test/female2_angry_6a_1.wav,Jack views an art piece.
+162,./testing/JL_test/female2_angry_7a_1.wav,Carl leaps into a jeep.
+163,./testing/JL_test/female2_angry_8a_1.wav,Linda asks for more darts.
+164,./testing/JL_test/female2_angry_9a_1.wav,Find your boot in this shute.
+165,./testing/JL_test/female2_anxious_10a_1.wav,Water harms the new born boy.
+166,./testing/JL_test/female2_anxious_11a_1.wav,Your results are unbelievable.
+167,./testing/JL_test/female2_anxious_12a_1.wav,We were away a year ago.
+168,./testing/JL_test/female2_anxious_13a_1.wav,How are you doing?
+169,./testing/JL_test/female2_anxious_14a_1.wav,I am so worried about my exam results.
+170,./testing/JL_test/female2_anxious_15a_1.wav,I am not sure how severe the wound is!
+171,./testing/JL_test/female2_anxious_1a_1.wav,Tom beats that farmer.
+172,./testing/JL_test/female2_anxious_2a_1.wav,John laughs like your father.
+173,./testing/JL_test/female2_anxious_3a_1.wav,The seed is buried in deep.
+174,./testing/JL_test/female2_anxious_4a_1.wav,Taylor likes stewed asian food.
+175,./testing/JL_test/female2_anxious_5a_1.wav,The lord swims in the sea.
+176,./testing/JL_test/female2_anxious_6a_1.wav,Jack views an art piece.
+177,./testing/JL_test/female2_anxious_7a_1.wav,Carl leaps into a jeep.
+178,./testing/JL_test/female2_anxious_8a_1.wav,Linda asks for more darts.
+179,./testing/JL_test/female2_anxious_9a_1.wav,Find your boot in this shute.
+180,./testing/JL_test/female2_apologetic_10a_1.wav,Water harms the new born boy.
+181,./testing/JL_test/female2_apologetic_11a_1.wav,Your results are unbelievable.
+182,./testing/JL_test/female2_apologetic_12a_1.wav,We were away a year ago.
+183,./testing/JL_test/female2_apologetic_13a_1.wav,How are you doing?
+184,./testing/JL_test/female2_apologetic_14a_1.wav,I owe you an apology.
+185,./testing/JL_test/female2_apologetic_15a_1.wav,"Forgive me, but I must leave now"
+186,./testing/JL_test/female2_apologetic_1a_1.wav,Tom beats that farmer.
+187,./testing/JL_test/female2_apologetic_2a_1.wav,John laughs like your father.
+188,./testing/JL_test/female2_apologetic_3a_1.wav,The seed is buried in deep.
+189,./testing/JL_test/female2_apologetic_4a_1.wav,Taylor likes stewed asian food.
+190,./testing/JL_test/female2_apologetic_5a_1.wav,The lord swims in the sea.
+191,./testing/JL_test/female2_apologetic_6a_1.wav,Jack views an art piece.
+192,./testing/JL_test/female2_apologetic_7a_1.wav,Carl leaps into a jeep.
+193,./testing/JL_test/female2_apologetic_8a_1.wav,Linda asks for more darts.
+194,./testing/JL_test/female2_apologetic_9a_1.wav,Find your boot in this shute.
+195,./testing/JL_test/female2_assertive_10a_1.wav,Water harms the new born boy.
+196,./testing/JL_test/female2_assertive_11a_1.wav,Your results are unbelievable.
+197,./testing/JL_test/female2_assertive_12a_1.wav,We were away a year ago.
+198,./testing/JL_test/female2_assertive_13a_1.wav,How are you doing?
+199,./testing/JL_test/female2_assertive_14a_1.wav,Please try to do your exercises next time.
+200,./testing/JL_test/female2_assertive_15a_1.wav,I will think about it and get back to you.
+201,./testing/JL_test/female2_assertive_1a_1.wav,Tom beats that farmer.
+202,./testing/JL_test/female2_assertive_2a_1.wav,John laughs like your father.
+203,./testing/JL_test/female2_assertive_3a_1.wav,The seed is buried in deep.
+204,./testing/JL_test/female2_assertive_4a_1.wav,Taylor likes stewed asian food.
+205,./testing/JL_test/female2_assertive_5a_1.wav,The lord swims in the sea.
+206,./testing/JL_test/female2_assertive_6a_1.wav,Jack views an art piece.
+207,./testing/JL_test/female2_assertive_7a_1.wav,Carl leaps into a jeep.
+208,./testing/JL_test/female2_assertive_8a_1.wav,Linda asks for more darts.
+209,./testing/JL_test/female2_assertive_9a_1.wav,Find your boot in this shute.
+210,./testing/JL_test/female2_concerned_10a_1.wav,Water harms the new born boy.
+211,./testing/JL_test/female2_concerned_11a_1.wav,Your results are unbelievable.
+212,./testing/JL_test/female2_concerned_12a_1.wav,We were away a year ago.
+213,./testing/JL_test/female2_concerned_13a_1.wav,How are you doing?
+214,./testing/JL_test/female2_concerned_14a_1.wav,It seems like you are taking a long time.
+215,./testing/JL_test/female2_concerned_15a_1.wav,I know how frustrating it can be.
+216,./testing/JL_test/female2_concerned_1a_1.wav,Tom beats that farmer.
+217,./testing/JL_test/female2_concerned_2a_1.wav,John laughs like your father.
+218,./testing/JL_test/female2_concerned_3a_1.wav,The seed is buried in deep.
+219,./testing/JL_test/female2_concerned_4a_1.wav,Taylor likes stewed asian food.
+220,./testing/JL_test/female2_concerned_5a_1.wav,The lord swims in the sea.
+221,./testing/JL_test/female2_concerned_6a_1.wav,Jack views an art piece.
+222,./testing/JL_test/female2_concerned_7a_1.wav,Carl leaps into a jeep.
+223,./testing/JL_test/female2_concerned_8a_1.wav,Linda asks for more darts.
+224,./testing/JL_test/female2_concerned_9a_1.wav,Find your boot in this shute.
+225,./testing/JL_test/female2_encouraging_10a_1.wav,Water harms the new born boy.
+226,./testing/JL_test/female2_encouraging_11a_1.wav,Your results are unbelievable.
+227,./testing/JL_test/female2_encouraging_12a_1.wav,We were away a year ago.
+228,./testing/JL_test/female2_encouraging_13a_1.wav,How are you doing?
+229,./testing/JL_test/female2_encouraging_14a_1.wav,Thank you for your help!
+230,./testing/JL_test/female2_encouraging_15a_1.wav,You should be proud of yourself!
+231,./testing/JL_test/female2_encouraging_1a_1.wav,Tom beats that farmer.
+232,./testing/JL_test/female2_encouraging_2a_1.wav,John laughs like your father.
+233,./testing/JL_test/female2_encouraging_3a_1.wav,The seed is buried in deep.
+234,./testing/JL_test/female2_encouraging_4a_1.wav,Taylor likes stewed asian food.
+235,./testing/JL_test/female2_encouraging_5a_1.wav,The lord swims in the sea.
+236,./testing/JL_test/female2_encouraging_6a_1.wav,Jack views an art piece.
+237,./testing/JL_test/female2_encouraging_7a_1.wav,Carl leaps into a jeep.
+238,./testing/JL_test/female2_encouraging_8a_1.wav,Linda asks for more darts.
+239,./testing/JL_test/female2_encouraging_9a_1.wav,Find your boot in this shute.
+240,./testing/JL_test/female2_excited_10a_1.wav,Water harms the new born boy.
+241,./testing/JL_test/female2_excited_11a_1.wav,I have not seen my tooth.
+242,./testing/JL_test/female2_excited_12a_1.wav,Work hard or you lose.
+243,./testing/JL_test/female2_excited_13a_1.wav,Jim saw the port.
+244,./testing/JL_test/female2_excited_14a_1.wav,They should start to talk.
+245,./testing/JL_test/female2_excited_15a_1.wav,Sound the horn if you need more.
+246,./testing/JL_test/female2_excited_1a_1.wav,Tom beats that farmer.
+247,./testing/JL_test/female2_excited_2a_1.wav,John laughs like your father.
+248,./testing/JL_test/female2_excited_3a_1.wav,The seed is buried in deep.
+249,./testing/JL_test/female2_excited_4a_1.wav,Taylor likes stewed Asian food.
+250,./testing/JL_test/female2_excited_5a_1.wav,The lord swims in the sea.
+251,./testing/JL_test/female2_excited_6a_1.wav,Jack views an art piece.
+252,./testing/JL_test/female2_excited_7a_1.wav,Carl leaps into a jeep.
+253,./testing/JL_test/female2_excited_8a_1.wav,Linda asks for more darts.
+254,./testing/JL_test/female2_excited_9a_1.wav,Find your boot in this shute.
+255,./testing/JL_test/female2_happy_10a_1.wav,Water harms the new born boy.
+256,./testing/JL_test/female2_happy_11a_1.wav,I have not seen my tooth.
+257,./testing/JL_test/female2_happy_12a_1.wav,Work hard or you lose.
+258,./testing/JL_test/female2_happy_13a_1.wav,Jim saw the port.
+259,./testing/JL_test/female2_happy_14a_1.wav,They should start to talk.
+260,./testing/JL_test/female2_happy_15a_1.wav,Sound the horn if you need more.
+261,./testing/JL_test/female2_happy_1a_1.wav,Tom beats that farmer.
+262,./testing/JL_test/female2_happy_2a_1.wav,John laughs like your father.
+263,./testing/JL_test/female2_happy_3a_1.wav,The seed is buried in deep.
+264,./testing/JL_test/female2_happy_4a_1.wav,Taylor likes stewed Asian food.
+265,./testing/JL_test/female2_happy_5a_1.wav,The lord swims in the sea.
+266,./testing/JL_test/female2_happy_6a_1.wav,Jack views an art piece.
+267,./testing/JL_test/female2_happy_7a_1.wav,Carl leaps into a jeep.
+268,./testing/JL_test/female2_happy_8a_1.wav,Linda asks for more darts.
+269,./testing/JL_test/female2_happy_9a_1.wav,Find your boot in this shute.
+270,./testing/JL_test/female2_neutral_10a_1.wav,Water harms the new born boy.
+271,./testing/JL_test/female2_neutral_11a_1.wav,I have not seen my tooth.
+272,./testing/JL_test/female2_neutral_12a_1.wav,Work hard or you lose.
+273,./testing/JL_test/female2_neutral_13a_1.wav,Jim saw the port.
+274,./testing/JL_test/female2_neutral_14a_1.wav,They should start to talk.
+275,./testing/JL_test/female2_neutral_15a_1.wav,Sound the horn if you need more.
+276,./testing/JL_test/female2_neutral_1a_1.wav,Tom beats that farmer.
+277,./testing/JL_test/female2_neutral_2a_1.wav,John laughs like your father.
+278,./testing/JL_test/female2_neutral_3a_1.wav,The seed is buried in deep.
+279,./testing/JL_test/female2_neutral_4a_1.wav,Taylor likes stewed Asian food.
+280,./testing/JL_test/female2_neutral_5a_1.wav,The lord swims in the sea.
+281,./testing/JL_test/female2_neutral_6a_1.wav,Jack views an art piece.
+282,./testing/JL_test/female2_neutral_7a_1.wav,Carl leaps into a jeep.
+283,./testing/JL_test/female2_neutral_8a_1.wav,Linda asks for more darts.
+284,./testing/JL_test/female2_neutral_9a_1.wav,Find your boot in this shute.
+285,./testing/JL_test/female2_sad_10a_1.wav,Water harms the new born boy.
+286,./testing/JL_test/female2_sad_11a_1.wav,I have not seen my tooth.
+287,./testing/JL_test/female2_sad_12a_1.wav,Work hard or you lose.
+288,./testing/JL_test/female2_sad_13a_1.wav,Jim saw the port.
+289,./testing/JL_test/female2_sad_14a_1.wav,They should start to talk.
+290,./testing/JL_test/female2_sad_15a_1.wav,Sound the horn if you need more.
+291,./testing/JL_test/female2_sad_1a_1.wav,Tom beats that farmer.
+292,./testing/JL_test/female2_sad_2a_1.wav,John laughs like your father.
+293,./testing/JL_test/female2_sad_3a_1.wav,The seed is buried in deep.
+294,./testing/JL_test/female2_sad_4a_1.wav,Taylor likes stewed Asian food.
+295,./testing/JL_test/female2_sad_5a_1.wav,The lord swims in the sea.
+296,./testing/JL_test/female2_sad_6a_1.wav,Jack views an art piece.
+297,./testing/JL_test/female2_sad_7a_1.wav,Carl leaps into a jeep.
+298,./testing/JL_test/female2_sad_8a_1.wav,Linda asks for more darts.
+299,./testing/JL_test/female2_sad_9a_1.wav,Find your boot in this shute.
+300,./testing/JL_test/male1_angry_10a_1.wav,Water harms the new born boy.
+301,./testing/JL_test/male1_angry_11a_1.wav,I have not seen my tooth.
+302,./testing/JL_test/male1_angry_12a_1.wav,Work hard or you lose.
+303,./testing/JL_test/male1_angry_13a_1.wav,Jim saw the port.
+304,./testing/JL_test/male1_angry_14a_1.wav,They should start to talk.
+305,./testing/JL_test/male1_angry_15a_1.wav,Sound the horn if you need more.
+306,./testing/JL_test/male1_angry_1a_1.wav,Tom beats that farmer.
+307,./testing/JL_test/male1_angry_2a_1.wav,John laughs like your father.
+308,./testing/JL_test/male1_angry_3a_1.wav,The seed is buried in deep.
+309,./testing/JL_test/male1_angry_4a_1.wav,Taylor likes stewed Asian food.
+310,./testing/JL_test/male1_angry_5a_1.wav,The lord swims in the sea.
+311,./testing/JL_test/male1_angry_6a_1.wav,Jack views an art piece.
+312,./testing/JL_test/male1_angry_7a_1.wav,Carl leaps into a jeep.
+313,./testing/JL_test/male1_angry_8a_1.wav,Linda asks for more darts.
+314,./testing/JL_test/male1_angry_9a_1.wav,Find your boot in this shute.
+315,./testing/JL_test/male1_anxious_10a_1.wav,Water harms the new born boy.
+316,./testing/JL_test/male1_anxious_11a_1.wav,Your results are unbelievable.
+317,./testing/JL_test/male1_anxious_12a_1.wav,We were away a year ago.
+318,./testing/JL_test/male1_anxious_13a_1.wav,How are you doing?
+319,./testing/JL_test/male1_anxious_14a_1.wav,I am so worried about my exam results.
+320,./testing/JL_test/male1_anxious_15a_1.wav,I am not sure how severe the wound is!
+321,./testing/JL_test/male1_anxious_1a_1.wav,Tom beats that farmer.
+322,./testing/JL_test/male1_anxious_2a_1.wav,John laughs like your father.
+323,./testing/JL_test/male1_anxious_3a_1.wav,The seed is buried in deep.
+324,./testing/JL_test/male1_anxious_4a_1.wav,Taylor likes stewed asian food.
+325,./testing/JL_test/male1_anxious_5a_1.wav,The lord swims in the sea.
+326,./testing/JL_test/male1_anxious_6a_1.wav,Jack views an art piece.
+327,./testing/JL_test/male1_anxious_7a_1.wav,Carl leaps into a jeep.
+328,./testing/JL_test/male1_anxious_8a_1.wav,Linda asks for more darts.
+329,./testing/JL_test/male1_anxious_9a_1.wav,Find your boot in this shute.
+330,./testing/JL_test/male1_apologetic_10a_1.wav,Water harms the new born boy.
+331,./testing/JL_test/male1_apologetic_11a_1.wav,Your results are unbelievable.
+332,./testing/JL_test/male1_apologetic_12a_1.wav,We were away a year ago.
+333,./testing/JL_test/male1_apologetic_13a_1.wav,How are you doing?
+334,./testing/JL_test/male1_apologetic_14a_1.wav,I owe you an apology.
+335,./testing/JL_test/male1_apologetic_15a_1.wav,"Forgive me, but I must leave now"
+336,./testing/JL_test/male1_apologetic_1a_1.wav,Tom beats that farmer.
+337,./testing/JL_test/male1_apologetic_2a_1.wav,John laughs like your father.
+338,./testing/JL_test/male1_apologetic_3a_1.wav,The seed is buried in deep.
+339,./testing/JL_test/male1_apologetic_4a_1.wav,Taylor likes stewed asian food.
+340,./testing/JL_test/male1_apologetic_5a_1.wav,The lord swims in the sea.
+341,./testing/JL_test/male1_apologetic_6a_1.wav,Jack views an art piece.
+342,./testing/JL_test/male1_apologetic_7a_1.wav,Carl leaps into a jeep.
+343,./testing/JL_test/male1_apologetic_8a_1.wav,Linda asks for more darts.
+344,./testing/JL_test/male1_apologetic_9a_1.wav,Find your boot in this shute.
+345,./testing/JL_test/male1_assertive_10a_1.wav,Water harms the new born boy.
+346,./testing/JL_test/male1_assertive_11a_1.wav,Your results are unbelievable.
+347,./testing/JL_test/male1_assertive_12a_1.wav,We were away a year ago.
+348,./testing/JL_test/male1_assertive_13a_1.wav,How are you doing?
+349,./testing/JL_test/male1_assertive_14a_1.wav,Please try to do your exercises next time.
+350,./testing/JL_test/male1_assertive_15a_1.wav,I will think about it and get back to you.
+351,./testing/JL_test/male1_assertive_1a_1.wav,Tom beats that farmer.
+352,./testing/JL_test/male1_assertive_2a_1.wav,John laughs like your father.
+353,./testing/JL_test/male1_assertive_3a_1.wav,The seed is buried in deep.
+354,./testing/JL_test/male1_assertive_4a_1.wav,Taylor likes stewed asian food.
+355,./testing/JL_test/male1_assertive_5a_1.wav,The lord swims in the sea.
+356,./testing/JL_test/male1_assertive_6a_1.wav,Jack views an art piece.
+357,./testing/JL_test/male1_assertive_7a_1.wav,Carl leaps into a jeep.
+358,./testing/JL_test/male1_assertive_8a_1.wav,Linda asks for more darts.
+359,./testing/JL_test/male1_assertive_9a_1.wav,Find your boot in this shute.
+360,./testing/JL_test/male1_concerned_10a_1.wav,Water harms the new born boy.
+361,./testing/JL_test/male1_concerned_11a_1.wav,Your results are unbelievable.
+362,./testing/JL_test/male1_concerned_12a_1.wav,We were away a year ago.
+363,./testing/JL_test/male1_concerned_13a_1.wav,How are you doing?
+364,./testing/JL_test/male1_concerned_14a_1.wav,It seems like you are taking a long time.
+365,./testing/JL_test/male1_concerned_15a_1.wav,I know how frustrating it can be.
+366,./testing/JL_test/male1_concerned_1a_1.wav,Tom beats that farmer.
+367,./testing/JL_test/male1_concerned_2a_1.wav,John laughs like your father.
+368,./testing/JL_test/male1_concerned_3a_1.wav,The seed is buried in deep.
+369,./testing/JL_test/male1_concerned_4a_1.wav,Taylor likes stewed asian food.
+370,./testing/JL_test/male1_concerned_5a_1.wav,The lord swims in the sea.
+371,./testing/JL_test/male1_concerned_6a_1.wav,Jack views an art piece.
+372,./testing/JL_test/male1_concerned_7a_1.wav,Carl leaps into a jeep.
+373,./testing/JL_test/male1_concerned_8a_1.wav,Linda asks for more darts.
+374,./testing/JL_test/male1_concerned_9a_1.wav,Find your boot in this shute.
+375,./testing/JL_test/male1_encouraging_10a_1.wav,Water harms the new born boy.
+376,./testing/JL_test/male1_encouraging_11a_1.wav,Your results are unbelievable.
+377,./testing/JL_test/male1_encouraging_12a_1.wav,We were away a year ago.
+378,./testing/JL_test/male1_encouraging_13a_1.wav,How are you doing?
+379,./testing/JL_test/male1_encouraging_14a_1.wav,Thank you for your help!
+380,./testing/JL_test/male1_encouraging_15a_1.wav,You should be proud of yourself!
+381,./testing/JL_test/male1_encouraging_1a_1.wav,Tom beats that farmer.
+382,./testing/JL_test/male1_encouraging_2a_1.wav,John laughs like your father.
+383,./testing/JL_test/male1_encouraging_3a_1.wav,The seed is buried in deep.
+384,./testing/JL_test/male1_encouraging_4a_1.wav,Taylor likes stewed asian food.
+385,./testing/JL_test/male1_encouraging_5a_1.wav,The lord swims in the sea.
+386,./testing/JL_test/male1_encouraging_6a_1.wav,Jack views an art piece.
+387,./testing/JL_test/male1_encouraging_7a_1.wav,Carl leaps into a jeep.
+388,./testing/JL_test/male1_encouraging_8a_1.wav,Linda asks for more darts.
+389,./testing/JL_test/male1_encouraging_9a_1.wav,Find your boot in this shute.
+390,./testing/JL_test/male1_excited_10a_1.wav,Water harms the new born boy.
+391,./testing/JL_test/male1_excited_11a_1.wav,I have not seen my tooth.
+392,./testing/JL_test/male1_excited_12a_1.wav,Work hard or you lose.
+393,./testing/JL_test/male1_excited_13a_1.wav,Jim saw the port.
+394,./testing/JL_test/male1_excited_14a_1.wav,They should start to talk.
+395,./testing/JL_test/male1_excited_15a_1.wav,Sound the horn if you need more.
+396,./testing/JL_test/male1_excited_1a_1.wav,Tom beats that farmer.
+397,./testing/JL_test/male1_excited_2a_1.wav,John laughs like your father.
+398,./testing/JL_test/male1_excited_3a_1.wav,The seed is buried in deep.
+399,./testing/JL_test/male1_excited_4a_1.wav,Taylor likes stewed Asian food.
+400,./testing/JL_test/male1_excited_5a_1.wav,The lord swims in the sea.
+401,./testing/JL_test/male1_excited_6a_1.wav,Jack views an art piece.
+402,./testing/JL_test/male1_excited_7a_1.wav,Carl leaps into a jeep.
+403,./testing/JL_test/male1_excited_8a_1.wav,Linda asks for more darts.
+404,./testing/JL_test/male1_excited_9a_1.wav,Find your boot in this shute.
+405,./testing/JL_test/male1_happy_10a_1.wav,Water harms the new born boy.
+406,./testing/JL_test/male1_happy_11a_1.wav,I have not seen my tooth.
+407,./testing/JL_test/male1_happy_12a_1.wav,Work hard or you lose.
+408,./testing/JL_test/male1_happy_13a_1.wav,Jim saw the port.
+409,./testing/JL_test/male1_happy_14a_1.wav,They should start to talk.
+410,./testing/JL_test/male1_happy_15a_1.wav,Sound the horn if you need more.
+411,./testing/JL_test/male1_happy_1a_1.wav,Tom beats that farmer.
+412,./testing/JL_test/male1_happy_2a_1.wav,John laughs like your father.
+413,./testing/JL_test/male1_happy_3a_1.wav,The seed is buried in deep.
+414,./testing/JL_test/male1_happy_4a_1.wav,Taylor likes stewed Asian food.
+415,./testing/JL_test/male1_happy_5a_1.wav,The lord swims in the sea.
+416,./testing/JL_test/male1_happy_6a_1.wav,Jack views an art piece.
+417,./testing/JL_test/male1_happy_7a_1.wav,Carl leaps into a jeep.
+418,./testing/JL_test/male1_happy_8a_1.wav,Linda asks for more darts.
+419,./testing/JL_test/male1_happy_9a_1.wav,Find your boot in this shute.
+420,./testing/JL_test/male1_neutral_10a_1.wav,Water harms the new born boy.
+421,./testing/JL_test/male1_neutral_11a_1.wav,I have not seen my tooth.
+422,./testing/JL_test/male1_neutral_12a_1.wav,Work hard or you lose.
+423,./testing/JL_test/male1_neutral_13a_1.wav,Jim saw the port.
+424,./testing/JL_test/male1_neutral_14a_1.wav,They should start to talk.
+425,./testing/JL_test/male1_neutral_15a_1.wav,Sound the horn if you need more.
+426,./testing/JL_test/male1_neutral_1a_1.wav,Tom beats that farmer.
+427,./testing/JL_test/male1_neutral_2a_1.wav,John laughs like your father.
+428,./testing/JL_test/male1_neutral_3a_1.wav,The seed is buried in deep.
+429,./testing/JL_test/male1_neutral_4a_1.wav,Taylor likes stewed Asian food.
+430,./testing/JL_test/male1_neutral_5a_1.wav,The lord swims in the sea.
+431,./testing/JL_test/male1_neutral_6a_1.wav,Jack views an art piece.
+432,./testing/JL_test/male1_neutral_7a_1.wav,Carl leaps into a jeep.
+433,./testing/JL_test/male1_neutral_8a_1.wav,Linda asks for more darts.
+434,./testing/JL_test/male1_neutral_9a_1.wav,Find your boot in this shute.
+435,./testing/JL_test/male1_sad_10a_1.wav,Water harms the new born boy.
+436,./testing/JL_test/male1_sad_11a_1.wav,I have not seen my tooth.
+437,./testing/JL_test/male1_sad_12a_1.wav,Work hard or you lose.
+438,./testing/JL_test/male1_sad_13a_1.wav,Jim saw the port.
+439,./testing/JL_test/male1_sad_14a_1.wav,They should start to talk.
+440,./testing/JL_test/male1_sad_15a_1.wav,Sound the horn if you need more.
+441,./testing/JL_test/male1_sad_1a_1.wav,Tom beats that farmer.
+442,./testing/JL_test/male1_sad_2a_1.wav,John laughs like your father.
+443,./testing/JL_test/male1_sad_3a_1.wav,The seed is buried in deep.
+444,./testing/JL_test/male1_sad_4a_1.wav,Taylor likes stewed Asian food.
+445,./testing/JL_test/male1_sad_5a_1.wav,The lord swims in the sea.
+446,./testing/JL_test/male1_sad_6a_1.wav,Jack views an art piece.
+447,./testing/JL_test/male1_sad_7a_1.wav,Carl leaps into a jeep.
+448,./testing/JL_test/male1_sad_8a_1.wav,Linda asks for more darts.
+449,./testing/JL_test/male1_sad_9a_1.wav,Find your boot in this shute.
+450,./testing/JL_test/male2_angry_10a_1.wav,Water harms the new born boy.
+451,./testing/JL_test/male2_angry_11a_1.wav,I have not seen my tooth.
+452,./testing/JL_test/male2_angry_12a_1.wav,Work hard or you lose.
+453,./testing/JL_test/male2_angry_13a_1.wav,Jim saw the port.
+454,./testing/JL_test/male2_angry_14a_1.wav,They should start to talk.
+455,./testing/JL_test/male2_angry_15a_1.wav,Sound the horn if you need more.
+456,./testing/JL_test/male2_angry_1a_1.wav,Tom beats that farmer.
+457,./testing/JL_test/male2_angry_2a_1.wav,John laughs like your father.
+458,./testing/JL_test/male2_angry_3a_1.wav,The seed is buried in deep.
+459,./testing/JL_test/male2_angry_4a_1.wav,Taylor likes stewed Asian food.
+460,./testing/JL_test/male2_angry_5a_1.wav,The lord swims in the sea.
+461,./testing/JL_test/male2_angry_6a_1.wav,Jack views an art piece.
+462,./testing/JL_test/male2_angry_7a_1.wav,Carl leaps into a jeep.
+463,./testing/JL_test/male2_angry_8a_1.wav,Linda asks for more darts.
+464,./testing/JL_test/male2_angry_9a_1.wav,Find your boot in this shute.
+465,./testing/JL_test/male2_anxious_10a_1.wav,Water harms the new born boy.
+466,./testing/JL_test/male2_anxious_11a_1.wav,Your results are unbelievable.
+467,./testing/JL_test/male2_anxious_12a_1.wav,We were away a year ago.
+468,./testing/JL_test/male2_anxious_13a_1.wav,How are you doing?
+469,./testing/JL_test/male2_anxious_14a_1.wav,I am so worried about my exam results.
+470,./testing/JL_test/male2_anxious_15a_1.wav,I am not sure how severe the wound is!
+471,./testing/JL_test/male2_anxious_1a_1.wav,Tom beats that farmer.
+472,./testing/JL_test/male2_anxious_2a_1.wav,John laughs like your father.
+473,./testing/JL_test/male2_anxious_3a_1.wav,The seed is buried in deep.
+474,./testing/JL_test/male2_anxious_4a_1.wav,Taylor likes stewed asian food.
+475,./testing/JL_test/male2_anxious_5a_1.wav,The lord swims in the sea.
+476,./testing/JL_test/male2_anxious_6a_1.wav,Jack views an art piece.
+477,./testing/JL_test/male2_anxious_7a_1.wav,Carl leaps into a jeep.
+478,./testing/JL_test/male2_anxious_8a_1.wav,Linda asks for more darts.
+479,./testing/JL_test/male2_anxious_9a_1.wav,Find your boot in this shute.
+480,./testing/JL_test/male2_apologetic_10a_1.wav,Water harms the new born boy.
+481,./testing/JL_test/male2_apologetic_11a_1.wav,Your results are unbelievable.
+482,./testing/JL_test/male2_apologetic_12a_1.wav,We were away a year ago.
+483,./testing/JL_test/male2_apologetic_13a_1.wav,How are you doing?
+484,./testing/JL_test/male2_apologetic_14a_1.wav,I owe you an apology.
+485,./testing/JL_test/male2_apologetic_15a_1.wav,"Forgive me, but I must leave now"
+486,./testing/JL_test/male2_apologetic_1a_1.wav,Tom beats that farmer.
+487,./testing/JL_test/male2_apologetic_2a_1.wav,John laughs like your father.
+488,./testing/JL_test/male2_apologetic_3a_1.wav,The seed is buried in deep.
+489,./testing/JL_test/male2_apologetic_4a_1.wav,Taylor likes stewed asian food.
+490,./testing/JL_test/male2_apologetic_5a_1.wav,The lord swims in the sea.
+491,./testing/JL_test/male2_apologetic_6a_1.wav,Jack views an art piece.
+492,./testing/JL_test/male2_apologetic_7a_1.wav,Carl leaps into a jeep.
+493,./testing/JL_test/male2_apologetic_8a_1.wav,Linda asks for more darts.
+494,./testing/JL_test/male2_apologetic_9a_1.wav,Find your boot in this shute.
+495,./testing/JL_test/male2_assertive_10a_1.wav,Water harms the new born boy.
+496,./testing/JL_test/male2_assertive_11a_1.wav,Your results are unbelievable.
+497,./testing/JL_test/male2_assertive_12a_1.wav,We were away a year ago.
+498,./testing/JL_test/male2_assertive_13a_1.wav,How are you doing?
+499,./testing/JL_test/male2_assertive_14a_1.wav,Please try to do your exercises next time.
+500,./testing/JL_test/male2_assertive_15a_1.wav,I will think about it and get back to you.
+501,./testing/JL_test/male2_assertive_1a_1.wav,Tom beats that farmer.
+502,./testing/JL_test/male2_assertive_2a_1.wav,John laughs like your father.
+503,./testing/JL_test/male2_assertive_3a_1.wav,The seed is buried in deep.
+504,./testing/JL_test/male2_assertive_4a_1.wav,Taylor likes stewed asian food.
+505,./testing/JL_test/male2_assertive_5a_1.wav,The lord swims in the sea.
+506,./testing/JL_test/male2_assertive_6a_1.wav,Jack views an art piece.
+507,./testing/JL_test/male2_assertive_7a_1.wav,Carl leaps into a jeep.
+508,./testing/JL_test/male2_assertive_8a_1.wav,Linda asks for more darts.
+509,./testing/JL_test/male2_assertive_9a_1.wav,Find your boot in this shute.
+510,./testing/JL_test/male2_concerned_10a_1.wav,Water harms the new born boy.
+511,./testing/JL_test/male2_concerned_11a_1.wav,Your results are unbelievable.
+512,./testing/JL_test/male2_concerned_12a_1.wav,We were away a year ago.
+513,./testing/JL_test/male2_concerned_13a_1.wav,How are you doing?
+514,./testing/JL_test/male2_concerned_14a_1.wav,It seems like you are taking a long time.
+515,./testing/JL_test/male2_concerned_15a_1.wav,I know how frustrating it can be.
+516,./testing/JL_test/male2_concerned_1a_1.wav,Tom beats that farmer.
+517,./testing/JL_test/male2_concerned_2a_1.wav,John laughs like your father.
+518,./testing/JL_test/male2_concerned_3a_1.wav,The seed is buried in deep.
+519,./testing/JL_test/male2_concerned_4a_1.wav,Taylor likes stewed asian food.
+520,./testing/JL_test/male2_concerned_5a_1.wav,The lord swims in the sea.
+521,./testing/JL_test/male2_concerned_6a_1.wav,Jack views an art piece.
+522,./testing/JL_test/male2_concerned_7a_1.wav,Carl leaps into a jeep.
+523,./testing/JL_test/male2_concerned_8a_1.wav,Linda asks for more darts.
+524,./testing/JL_test/male2_concerned_9a_1.wav,Find your boot in this shute.
+525,./testing/JL_test/male2_encouraging_10a_1.wav,Water harms the new born boy.
+526,./testing/JL_test/male2_encouraging_11a_1.wav,Your results are unbelievable.
+527,./testing/JL_test/male2_encouraging_12a_1.wav,We were away a year ago.
+528,./testing/JL_test/male2_encouraging_13a_1.wav,How are you doing?
+529,./testing/JL_test/male2_encouraging_14a_1.wav,Thank you for your help!
+530,./testing/JL_test/male2_encouraging_15a_1.wav,You should be proud of yourself!
+531,./testing/JL_test/male2_encouraging_1a_1.wav,Tom beats that farmer.
+532,./testing/JL_test/male2_encouraging_2a_1.wav,John laughs like your father.
+533,./testing/JL_test/male2_encouraging_3a_1.wav,The seed is buried in deep.
+534,./testing/JL_test/male2_encouraging_4a_1.wav,Taylor likes stewed asian food.
+535,./testing/JL_test/male2_encouraging_5a_1.wav,The lord swims in the sea.
+536,./testing/JL_test/male2_encouraging_6a_1.wav,Jack views an art piece.
+537,./testing/JL_test/male2_encouraging_7a_1.wav,Carl leaps into a jeep.
+538,./testing/JL_test/male2_encouraging_8a_1.wav,Linda asks for more darts.
+539,./testing/JL_test/male2_encouraging_9a_1.wav,Find your boot in this shute.
+540,./testing/JL_test/male2_excited_10a_1.wav,Water harms the new born boy.
+541,./testing/JL_test/male2_excited_11a_1.wav,I have not seen my tooth.
+542,./testing/JL_test/male2_excited_12a_1.wav,Work hard or you lose.
+543,./testing/JL_test/male2_excited_13a_1.wav,Jim saw the port.
+544,./testing/JL_test/male2_excited_14a_1.wav,They should start to talk.
+545,./testing/JL_test/male2_excited_15a_1.wav,Sound the horn if you need more.
+546,./testing/JL_test/male2_excited_1a_1.wav,Tom beats that farmer.
+547,./testing/JL_test/male2_excited_2a_1.wav,John laughs like your father.
+548,./testing/JL_test/male2_excited_3a_1.wav,The seed is buried in deep.
+549,./testing/JL_test/male2_excited_4a_1.wav,Taylor likes stewed Asian food.
+550,./testing/JL_test/male2_excited_5a_1.wav,The lord swims in the sea.
+551,./testing/JL_test/male2_excited_6a_1.wav,Jack views an art piece.
+552,./testing/JL_test/male2_excited_7a_1.wav,Carl leaps into a jeep.
+553,./testing/JL_test/male2_excited_8a_1.wav,Linda asks for more darts.
+554,./testing/JL_test/male2_excited_9a_1.wav,Find your boot in this shute.
+555,./testing/JL_test/male2_happy_10a_1.wav,Water harms the new born boy.
+556,./testing/JL_test/male2_happy_11a_1.wav,I have not seen my tooth.
+557,./testing/JL_test/male2_happy_12a_1.wav,Work hard or you lose.
+558,./testing/JL_test/male2_happy_13a_1.wav,Jim saw the port.
+559,./testing/JL_test/male2_happy_14a_1.wav,They should start to talk.
+560,./testing/JL_test/male2_happy_15a_1.wav,Sound the horn if you need more.
+561,./testing/JL_test/male2_happy_1a_1.wav,Tom beats that farmer.
+562,./testing/JL_test/male2_happy_2a_1.wav,John laughs like your father.
+563,./testing/JL_test/male2_happy_3a_1.wav,The seed is buried in deep.
+564,./testing/JL_test/male2_happy_4a_1.wav,Taylor likes stewed Asian food.
+565,./testing/JL_test/male2_happy_5a_1.wav,The lord swims in the sea.
+566,./testing/JL_test/male2_happy_6a_1.wav,Jack views an art piece.
+567,./testing/JL_test/male2_happy_7a_1.wav,Carl leaps into a jeep.
+568,./testing/JL_test/male2_happy_8a_1.wav,Linda asks for more darts.
+569,./testing/JL_test/male2_happy_9a_1.wav,Find your boot in this shute.
+570,./testing/JL_test/male2_neutral_10a_1.wav,Water harms the new born boy.
+571,./testing/JL_test/male2_neutral_11a_1.wav,I have not seen my tooth.
+572,./testing/JL_test/male2_neutral_12a_1.wav,Work hard or you lose.
+573,./testing/JL_test/male2_neutral_13a_1.wav,Jim saw the port.
+574,./testing/JL_test/male2_neutral_14a_1.wav,They should start to talk.
+575,./testing/JL_test/male2_neutral_15a_1.wav,Sound the horn if you need more.
+576,./testing/JL_test/male2_neutral_1a_1.wav,Tom beats that farmer.
+577,./testing/JL_test/male2_neutral_2a_1.wav,John laughs like your father.
+578,./testing/JL_test/male2_neutral_3a_1.wav,The seed is buried in deep.
+579,./testing/JL_test/male2_neutral_4a_1.wav,Taylor likes stewed Asian food.
+580,./testing/JL_test/male2_neutral_5a_1.wav,The lord swims in the sea.
+581,./testing/JL_test/male2_neutral_6a_1.wav,Jack views an art piece.
+582,./testing/JL_test/male2_neutral_7a_1.wav,Carl leaps into a jeep.
+583,./testing/JL_test/male2_neutral_8a_1.wav,Linda asks for more darts.
+584,./testing/JL_test/male2_neutral_9a_1.wav,Find your boot in this shute.
+585,./testing/JL_test/male2_sad_10a_1.wav,Water harms the new born boy.
+586,./testing/JL_test/male2_sad_11a_1.wav,I have not seen my tooth.
+587,./testing/JL_test/male2_sad_12a_1.wav,Work hard or you lose.
+588,./testing/JL_test/male2_sad_13a_1.wav,Jim saw the port.
+589,./testing/JL_test/male2_sad_14a_1.wav,They should start to talk.
+590,./testing/JL_test/male2_sad_15a_1.wav,Sound the horn if you need more.
+591,./testing/JL_test/male2_sad_1a_1.wav,Tom beats that farmer.
+592,./testing/JL_test/male2_sad_2a_1.wav,John laughs like your father.
+593,./testing/JL_test/male2_sad_3a_1.wav,The seed is buried in deep.
+594,./testing/JL_test/male2_sad_4a_1.wav,Taylor likes stewed Asian food.
+595,./testing/JL_test/male2_sad_5a_1.wav,The lord swims in the sea.
+596,./testing/JL_test/male2_sad_6a_1.wav,Jack views an art piece.
+597,./testing/JL_test/male2_sad_7a_1.wav,Carl leaps into a jeep.
+598,./testing/JL_test/male2_sad_8a_1.wav,Linda asks for more darts.
+599,./testing/JL_test/male2_sad_9a_1.wav,Find your boot in this shute.

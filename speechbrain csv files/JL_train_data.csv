@@ -1,0 +1,1801 @@
+ID,file_path,words
+0,./training/JL_train/female1_angry_10a_2.wav,Water harms the new born boy.
+1,./training/JL_train/female1_angry_10b_1.wav,Water harms the new born boy.
+2,./training/JL_train/female1_angry_10b_2.wav,Water harms the new born boy.
+3,./training/JL_train/female1_angry_11a_2.wav,I have not seen my tooth.
+4,./training/JL_train/female1_angry_11b_1.wav,I have not seen my tooth.
+5,./training/JL_train/female1_angry_11b_2.wav,I have not seen my tooth.
+6,./training/JL_train/female1_angry_12a_2.wav,Work hard or you lose.
+7,./training/JL_train/female1_angry_12b_1.wav,Work hard or you lose.
+8,./training/JL_train/female1_angry_12b_2.wav,Work hard or you lose.
+9,./training/JL_train/female1_angry_13a_2.wav,Jim saw the port.
+10,./training/JL_train/female1_angry_13b_1.wav,Jim saw the port.
+11,./training/JL_train/female1_angry_13b_2.wav,Jim saw the port.
+12,./training/JL_train/female1_angry_14a_2.wav,They should start to talk.
+13,./training/JL_train/female1_angry_14b_1.wav,They should start to talk.
+14,./training/JL_train/female1_angry_14b_2.wav,They should start to talk.
+15,./training/JL_train/female1_angry_15a_2.wav,Sound the horn if you need more.
+16,./training/JL_train/female1_angry_15b_1.wav,Sound the horn if you need more.
+17,./training/JL_train/female1_angry_15b_2.wav,Sound the horn if you need more.
+18,./training/JL_train/female1_angry_1a_2.wav,Tom beats that farmer.
+19,./training/JL_train/female1_angry_1b_1.wav,Tom beats that farmer.
+20,./training/JL_train/female1_angry_1b_2.wav,Tom beats that farmer.
+21,./training/JL_train/female1_angry_2a_2.wav,John laughs like your father.
+22,./training/JL_train/female1_angry_2b_1.wav,John laughs like your father.
+23,./training/JL_train/female1_angry_2b_2.wav,John laughs like your father.
+24,./training/JL_train/female1_angry_3a_2.wav,The seed is buried in deep.
+25,./training/JL_train/female1_angry_3b_1.wav,The seed is buried in deep.
+26,./training/JL_train/female1_angry_3b_2.wav,The seed is buried in deep.
+27,./training/JL_train/female1_angry_4a_2.wav,Taylor likes stewed Asian food.
+28,./training/JL_train/female1_angry_4b_1.wav,Taylor likes stewed Asian food.
+29,./training/JL_train/female1_angry_4b_2.wav,Taylor likes stewed Asian food.
+30,./training/JL_train/female1_angry_5a_2.wav,The lord swims in the sea.
+31,./training/JL_train/female1_angry_5b_1.wav,The lord swims in the sea.
+32,./training/JL_train/female1_angry_5b_2.wav,The lord swims in the sea.
+33,./training/JL_train/female1_angry_6a_2.wav,Jack views an art piece.
+34,./training/JL_train/female1_angry_6b_1.wav,Jack views an art piece.
+35,./training/JL_train/female1_angry_6b_2.wav,Jack views an art piece.
+36,./training/JL_train/female1_angry_7a_2.wav,Carl leaps into a jeep.
+37,./training/JL_train/female1_angry_7b_1.wav,Carl leaps into a jeep.
+38,./training/JL_train/female1_angry_7b_2.wav,Carl leaps into a jeep.
+39,./training/JL_train/female1_angry_8a_2.wav,Linda asks for more darts.
+40,./training/JL_train/female1_angry_8b_1.wav,Linda asks for more darts.
+41,./training/JL_train/female1_angry_8b_2.wav,Linda asks for more darts.
+42,./training/JL_train/female1_angry_9a_2.wav,Find your boot in this shute.
+43,./training/JL_train/female1_angry_9b_1.wav,Find your boot in this shute.
+44,./training/JL_train/female1_angry_9b_2.wav,Find your boot in this shute.
+45,./training/JL_train/female1_anxious_10a_2.wav,Water harms the new born boy.
+46,./training/JL_train/female1_anxious_10b_1.wav,Water harms the new born boy.
+47,./training/JL_train/female1_anxious_10b_2.wav,Water harms the new born boy.
+48,./training/JL_train/female1_anxious_11a_2.wav,Your results are unbelievable.
+49,./training/JL_train/female1_anxious_11b_1.wav,Your results are unbelievable.
+50,./training/JL_train/female1_anxious_11b_2.wav,Your results are unbelievable.
+51,./training/JL_train/female1_anxious_12a_2.wav,We were away a year ago.
+52,./training/JL_train/female1_anxious_12b_1.wav,We were away a year ago.
+53,./training/JL_train/female1_anxious_12b_2.wav,We were away a year ago.
+54,./training/JL_train/female1_anxious_13a_2.wav,How are you doing?
+55,./training/JL_train/female1_anxious_13b_1.wav,How are you doing?
+56,./training/JL_train/female1_anxious_13b_2.wav,How are you doing?
+57,./training/JL_train/female1_anxious_14a_2.wav,I am so worried about my exam results.
+58,./training/JL_train/female1_anxious_14b_1.wav,I am so worried about my exam results.
+59,./training/JL_train/female1_anxious_14b_2.wav,I am so worried about my exam results.
+60,./training/JL_train/female1_anxious_15a_2.wav,I am not sure how severe the wound is!
+61,./training/JL_train/female1_anxious_15b_1.wav,I am not sure how severe the wound is!
+62,./training/JL_train/female1_anxious_15b_2.wav,I am not sure how severe the wound is!
+63,./training/JL_train/female1_anxious_1a_2.wav,Tom beats that farmer.
+64,./training/JL_train/female1_anxious_1b_1.wav,Tom beats that farmer.
+65,./training/JL_train/female1_anxious_1b_2.wav,Tom beats that farmer.
+66,./training/JL_train/female1_anxious_2a_2.wav,John laughs like your father.
+67,./training/JL_train/female1_anxious_2b_1.wav,John laughs like your father.
+68,./training/JL_train/female1_anxious_2b_2.wav,John laughs like your father.
+69,./training/JL_train/female1_anxious_3a_2.wav,The seed is buried in deep.
+70,./training/JL_train/female1_anxious_3b_1.wav,The seed is buried in deep.
+71,./training/JL_train/female1_anxious_3b_2.wav,The seed is buried in deep.
+72,./training/JL_train/female1_anxious_4a_2.wav,Taylor likes stewed asian food.
+73,./training/JL_train/female1_anxious_4b_1.wav,Taylor likes stewed asian food.
+74,./training/JL_train/female1_anxious_4b_2.wav,Taylor likes stewed asian food.
+75,./training/JL_train/female1_anxious_5a_2.wav,The lord swims in the sea.
+76,./training/JL_train/female1_anxious_5b_1.wav,The lord swims in the sea.
+77,./training/JL_train/female1_anxious_5b_2.wav,The lord swims in the sea.
+78,./training/JL_train/female1_anxious_6a_2.wav,Jack views an art piece.
+79,./training/JL_train/female1_anxious_6b_1.wav,Jack views an art piece.
+80,./training/JL_train/female1_anxious_6b_2.wav,Jack views an art piece.
+81,./training/JL_train/female1_anxious_7a_2.wav,Carl leaps into a jeep.
+82,./training/JL_train/female1_anxious_7b_1.wav,Carl leaps into a jeep.
+83,./training/JL_train/female1_anxious_7b_2.wav,Carl leaps into a jeep.
+84,./training/JL_train/female1_anxious_8a_2.wav,Linda asks for more darts.
+85,./training/JL_train/female1_anxious_8b_1.wav,Linda asks for more darts.
+86,./training/JL_train/female1_anxious_8b_2.wav,Linda asks for more darts.
+87,./training/JL_train/female1_anxious_9a_2.wav,Find your boot in this shute.
+88,./training/JL_train/female1_anxious_9b_1.wav,Find your boot in this shute.
+89,./training/JL_train/female1_anxious_9b_2.wav,Find your boot in this shute.
+90,./training/JL_train/female1_apologetic_10a_2.wav,Water harms the new born boy.
+91,./training/JL_train/female1_apologetic_10b_1.wav,Water harms the new born boy.
+92,./training/JL_train/female1_apologetic_10b_2.wav,Water harms the new born boy.
+93,./training/JL_train/female1_apologetic_11a_2.wav,Your results are unbelievable.
+94,./training/JL_train/female1_apologetic_11b_1.wav,Your results are unbelievable.
+95,./training/JL_train/female1_apologetic_11b_2.wav,Your results are unbelievable.
+96,./training/JL_train/female1_apologetic_12a_2.wav,We were away a year ago.
+97,./training/JL_train/female1_apologetic_12b_1.wav,We were away a year ago.
+98,./training/JL_train/female1_apologetic_12b_2.wav,We were away a year ago.
+99,./training/JL_train/female1_apologetic_13a_2.wav,How are you doing?
+100,./training/JL_train/female1_apologetic_13b_1.wav,How are you doing?
+101,./training/JL_train/female1_apologetic_13b_2.wav,How are you doing?
+102,./training/JL_train/female1_apologetic_14a_2.wav,I owe you an apology.
+103,./training/JL_train/female1_apologetic_14b_1.wav,I owe you an apology.
+104,./training/JL_train/female1_apologetic_14b_2.wav,I owe you an apology.
+105,./training/JL_train/female1_apologetic_15a_2.wav,"Forgive me, but I must leave now"
+106,./training/JL_train/female1_apologetic_15b_1.wav,"Forgive me, but I must leave now"
+107,./training/JL_train/female1_apologetic_15b_2.wav,"Forgive me, but I must leave now"
+108,./training/JL_train/female1_apologetic_1a_2.wav,Tom beats that farmer.
+109,./training/JL_train/female1_apologetic_1b_1.wav,Tom beats that farmer.
+110,./training/JL_train/female1_apologetic_1b_2.wav,Tom beats that farmer.
+111,./training/JL_train/female1_apologetic_2a_2.wav,John laughs like your father.
+112,./training/JL_train/female1_apologetic_2b_1.wav,John laughs like your father.
+113,./training/JL_train/female1_apologetic_2b_2.wav,John laughs like your father.
+114,./training/JL_train/female1_apologetic_3a_2.wav,The seed is buried in deep.
+115,./training/JL_train/female1_apologetic_3b_1.wav,The seed is buried in deep.
+116,./training/JL_train/female1_apologetic_3b_2.wav,The seed is buried in deep.
+117,./training/JL_train/female1_apologetic_4a_2.wav,Taylor likes stewed asian food.
+118,./training/JL_train/female1_apologetic_4b_1.wav,Taylor likes stewed asian food.
+119,./training/JL_train/female1_apologetic_4b_2.wav,Taylor likes stewed asian food.
+120,./training/JL_train/female1_apologetic_5a_2.wav,The lord swims in the sea.
+121,./training/JL_train/female1_apologetic_5b_1.wav,The lord swims in the sea.
+122,./training/JL_train/female1_apologetic_5b_2.wav,The lord swims in the sea.
+123,./training/JL_train/female1_apologetic_6a_2.wav,Jack views an art piece.
+124,./training/JL_train/female1_apologetic_6b_1.wav,Jack views an art piece.
+125,./training/JL_train/female1_apologetic_6b_2.wav,Jack views an art piece.
+126,./training/JL_train/female1_apologetic_7a_2.wav,Carl leaps into a jeep.
+127,./training/JL_train/female1_apologetic_7b_1.wav,Carl leaps into a jeep.
+128,./training/JL_train/female1_apologetic_7b_2.wav,Carl leaps into a jeep.
+129,./training/JL_train/female1_apologetic_8a_2.wav,Linda asks for more darts.
+130,./training/JL_train/female1_apologetic_8b_1.wav,Linda asks for more darts.
+131,./training/JL_train/female1_apologetic_8b_2.wav,Linda asks for more darts.
+132,./training/JL_train/female1_apologetic_9a_2.wav,Find your boot in this shute.
+133,./training/JL_train/female1_apologetic_9b_1.wav,Find your boot in this shute.
+134,./training/JL_train/female1_apologetic_9b_2.wav,Find your boot in this shute.
+135,./training/JL_train/female1_assertive_10a_2.wav,Water harms the new born boy.
+136,./training/JL_train/female1_assertive_10b_1.wav,Water harms the new born boy.
+137,./training/JL_train/female1_assertive_10b_2.wav,Water harms the new born boy.
+138,./training/JL_train/female1_assertive_11a_2.wav,Your results are unbelievable.
+139,./training/JL_train/female1_assertive_11b_1.wav,Your results are unbelievable.
+140,./training/JL_train/female1_assertive_11b_2.wav,Your results are unbelievable.
+141,./training/JL_train/female1_assertive_12a_2.wav,We were away a year ago.
+142,./training/JL_train/female1_assertive_12b_1.wav,We were away a year ago.
+143,./training/JL_train/female1_assertive_12b_2.wav,We were away a year ago.
+144,./training/JL_train/female1_assertive_13a_2.wav,How are you doing?
+145,./training/JL_train/female1_assertive_13b_1.wav,How are you doing?
+146,./training/JL_train/female1_assertive_13b_2.wav,How are you doing?
+147,./training/JL_train/female1_assertive_14a_2.wav,Please try to do your exercises next time.
+148,./training/JL_train/female1_assertive_14b_1.wav,Please try to do your exercises next time.
+149,./training/JL_train/female1_assertive_14b_2.wav,Please try to do your exercises next time.
+150,./training/JL_train/female1_assertive_15a_2.wav,I will think about it and get back to you.
+151,./training/JL_train/female1_assertive_15b_1.wav,I will think about it and get back to you.
+152,./training/JL_train/female1_assertive_15b_2.wav,I will think about it and get back to you.
+153,./training/JL_train/female1_assertive_1a_2.wav,Tom beats that farmer.
+154,./training/JL_train/female1_assertive_1b_1.wav,Tom beats that farmer.
+155,./training/JL_train/female1_assertive_1b_2.wav,Tom beats that farmer.
+156,./training/JL_train/female1_assertive_2a_2.wav,John laughs like your father.
+157,./training/JL_train/female1_assertive_2b_1.wav,John laughs like your father.
+158,./training/JL_train/female1_assertive_2b_2.wav,John laughs like your father.
+159,./training/JL_train/female1_assertive_3a_2.wav,The seed is buried in deep.
+160,./training/JL_train/female1_assertive_3b_1.wav,The seed is buried in deep.
+161,./training/JL_train/female1_assertive_3b_2.wav,The seed is buried in deep.
+162,./training/JL_train/female1_assertive_4a_2.wav,Taylor likes stewed asian food.
+163,./training/JL_train/female1_assertive_4b_1.wav,Taylor likes stewed asian food.
+164,./training/JL_train/female1_assertive_4b_2.wav,Taylor likes stewed asian food.
+165,./training/JL_train/female1_assertive_5a_2.wav,The lord swims in the sea.
+166,./training/JL_train/female1_assertive_5b_1.wav,The lord swims in the sea.
+167,./training/JL_train/female1_assertive_5b_2.wav,The lord swims in the sea.
+168,./training/JL_train/female1_assertive_6a_2.wav,Jack views an art piece.
+169,./training/JL_train/female1_assertive_6b_1.wav,Jack views an art piece.
+170,./training/JL_train/female1_assertive_6b_2.wav,Jack views an art piece.
+171,./training/JL_train/female1_assertive_7a_2.wav,Carl leaps into a jeep.
+172,./training/JL_train/female1_assertive_7b_1.wav,Carl leaps into a jeep.
+173,./training/JL_train/female1_assertive_7b_2.wav,Carl leaps into a jeep.
+174,./training/JL_train/female1_assertive_8a_2.wav,Linda asks for more darts.
+175,./training/JL_train/female1_assertive_8b_1.wav,Linda asks for more darts.
+176,./training/JL_train/female1_assertive_8b_2.wav,Linda asks for more darts.
+177,./training/JL_train/female1_assertive_9a_2.wav,Find your boot in this shute.
+178,./training/JL_train/female1_assertive_9b_1.wav,Find your boot in this shute.
+179,./training/JL_train/female1_assertive_9b_2.wav,Find your boot in this shute.
+180,./training/JL_train/female1_concerned_10a_2.wav,Water harms the new born boy.
+181,./training/JL_train/female1_concerned_10b_1.wav,Water harms the new born boy.
+182,./training/JL_train/female1_concerned_10b_2.wav,Water harms the new born boy.
+183,./training/JL_train/female1_concerned_11a_2.wav,Your results are unbelievable.
+184,./training/JL_train/female1_concerned_11b_1.wav,Your results are unbelievable.
+185,./training/JL_train/female1_concerned_11b_2.wav,Your results are unbelievable.
+186,./training/JL_train/female1_concerned_12a_2.wav,We were away a year ago.
+187,./training/JL_train/female1_concerned_12b_1.wav,We were away a year ago.
+188,./training/JL_train/female1_concerned_12b_2.wav,We were away a year ago.
+189,./training/JL_train/female1_concerned_13a_2.wav,How are you doing?
+190,./training/JL_train/female1_concerned_13b_1.wav,How are you doing?
+191,./training/JL_train/female1_concerned_13b_2.wav,How are you doing?
+192,./training/JL_train/female1_concerned_14a_2.wav,It seems like you are taking a long time.
+193,./training/JL_train/female1_concerned_14b_1.wav,It seems like you are taking a long time.
+194,./training/JL_train/female1_concerned_14b_2.wav,It seems like you are taking a long time.
+195,./training/JL_train/female1_concerned_15a_2.wav,I know how frustrating it can be.
+196,./training/JL_train/female1_concerned_15b_1.wav,I know how frustrating it can be.
+197,./training/JL_train/female1_concerned_15b_2.wav,I know how frustrating it can be.
+198,./training/JL_train/female1_concerned_1a_2.wav,Tom beats that farmer.
+199,./training/JL_train/female1_concerned_1b_1.wav,Tom beats that farmer.
+200,./training/JL_train/female1_concerned_1b_2.wav,Tom beats that farmer.
+201,./training/JL_train/female1_concerned_2a_2.wav,John laughs like your father.
+202,./training/JL_train/female1_concerned_2b_1.wav,John laughs like your father.
+203,./training/JL_train/female1_concerned_2b_2.wav,John laughs like your father.
+204,./training/JL_train/female1_concerned_3a_2.wav,The seed is buried in deep.
+205,./training/JL_train/female1_concerned_3b_1.wav,The seed is buried in deep.
+206,./training/JL_train/female1_concerned_3b_2.wav,The seed is buried in deep.
+207,./training/JL_train/female1_concerned_4a_2.wav,Taylor likes stewed asian food.
+208,./training/JL_train/female1_concerned_4b_1.wav,Taylor likes stewed asian food.
+209,./training/JL_train/female1_concerned_4b_2.wav,Taylor likes stewed asian food.
+210,./training/JL_train/female1_concerned_5a_2.wav,The lord swims in the sea.
+211,./training/JL_train/female1_concerned_5b_1.wav,The lord swims in the sea.
+212,./training/JL_train/female1_concerned_5b_2.wav,The lord swims in the sea.
+213,./training/JL_train/female1_concerned_6a_2.wav,Jack views an art piece.
+214,./training/JL_train/female1_concerned_6b_1.wav,Jack views an art piece.
+215,./training/JL_train/female1_concerned_6b_2.wav,Jack views an art piece.
+216,./training/JL_train/female1_concerned_7a_2.wav,Carl leaps into a jeep.
+217,./training/JL_train/female1_concerned_7b_1.wav,Carl leaps into a jeep.
+218,./training/JL_train/female1_concerned_7b_2.wav,Carl leaps into a jeep.
+219,./training/JL_train/female1_concerned_8a_2.wav,Linda asks for more darts.
+220,./training/JL_train/female1_concerned_8b_1.wav,Linda asks for more darts.
+221,./training/JL_train/female1_concerned_8b_2.wav,Linda asks for more darts.
+222,./training/JL_train/female1_concerned_9a_2.wav,Find your boot in this shute.
+223,./training/JL_train/female1_concerned_9b_1.wav,Find your boot in this shute.
+224,./training/JL_train/female1_concerned_9b_2.wav,Find your boot in this shute.
+225,./training/JL_train/female1_encouraging_10a_2.wav,Water harms the new born boy.
+226,./training/JL_train/female1_encouraging_10b_1.wav,Water harms the new born boy.
+227,./training/JL_train/female1_encouraging_10b_2.wav,Water harms the new born boy.
+228,./training/JL_train/female1_encouraging_11a_2.wav,Your results are unbelievable.
+229,./training/JL_train/female1_encouraging_11b_1.wav,Your results are unbelievable.
+230,./training/JL_train/female1_encouraging_11b_2.wav,Your results are unbelievable.
+231,./training/JL_train/female1_encouraging_12a_2.wav,We were away a year ago.
+232,./training/JL_train/female1_encouraging_12b_1.wav,We were away a year ago.
+233,./training/JL_train/female1_encouraging_12b_2.wav,We were away a year ago.
+234,./training/JL_train/female1_encouraging_13a_2.wav,How are you doing?
+235,./training/JL_train/female1_encouraging_13b_1.wav,How are you doing?
+236,./training/JL_train/female1_encouraging_13b_2.wav,How are you doing?
+237,./training/JL_train/female1_encouraging_14a_2.wav,Thank you for your help!
+238,./training/JL_train/female1_encouraging_14b_1.wav,Thank you for your help!
+239,./training/JL_train/female1_encouraging_14b_2.wav,Thank you for your help!
+240,./training/JL_train/female1_encouraging_15a_2.wav,You should be proud of yourself!
+241,./training/JL_train/female1_encouraging_15b_1.wav,You should be proud of yourself!
+242,./training/JL_train/female1_encouraging_15b_2.wav,You should be proud of yourself!
+243,./training/JL_train/female1_encouraging_1a_2.wav,Tom beats that farmer.
+244,./training/JL_train/female1_encouraging_1b_1.wav,Tom beats that farmer.
+245,./training/JL_train/female1_encouraging_1b_2.wav,Tom beats that farmer.
+246,./training/JL_train/female1_encouraging_2a_2.wav,John laughs like your father.
+247,./training/JL_train/female1_encouraging_2b_1.wav,John laughs like your father.
+248,./training/JL_train/female1_encouraging_2b_2.wav,John laughs like your father.
+249,./training/JL_train/female1_encouraging_3a_2.wav,The seed is buried in deep.
+250,./training/JL_train/female1_encouraging_3b_1.wav,The seed is buried in deep.
+251,./training/JL_train/female1_encouraging_3b_2.wav,The seed is buried in deep.
+252,./training/JL_train/female1_encouraging_4a_2.wav,Taylor likes stewed asian food.
+253,./training/JL_train/female1_encouraging_4b_1.wav,Taylor likes stewed asian food.
+254,./training/JL_train/female1_encouraging_4b_2.wav,Taylor likes stewed asian food.
+255,./training/JL_train/female1_encouraging_5a_2.wav,The lord swims in the sea.
+256,./training/JL_train/female1_encouraging_5b_1.wav,The lord swims in the sea.
+257,./training/JL_train/female1_encouraging_5b_2.wav,The lord swims in the sea.
+258,./training/JL_train/female1_encouraging_6a_2.wav,Jack views an art piece.
+259,./training/JL_train/female1_encouraging_6b_1.wav,Jack views an art piece.
+260,./training/JL_train/female1_encouraging_6b_2.wav,Jack views an art piece.
+261,./training/JL_train/female1_encouraging_7a_2.wav,Carl leaps into a jeep.
+262,./training/JL_train/female1_encouraging_7b_1.wav,Carl leaps into a jeep.
+263,./training/JL_train/female1_encouraging_7b_2.wav,Carl leaps into a jeep.
+264,./training/JL_train/female1_encouraging_8a_2.wav,Linda asks for more darts.
+265,./training/JL_train/female1_encouraging_8b_1.wav,Linda asks for more darts.
+266,./training/JL_train/female1_encouraging_8b_2.wav,Linda asks for more darts.
+267,./training/JL_train/female1_encouraging_9a_2.wav,Find your boot in this shute.
+268,./training/JL_train/female1_encouraging_9b_1.wav,Find your boot in this shute.
+269,./training/JL_train/female1_encouraging_9b_2.wav,Find your boot in this shute.
+270,./training/JL_train/female1_excited_10a_2.wav,Water harms the new born boy.
+271,./training/JL_train/female1_excited_10b_1.wav,Water harms the new born boy.
+272,./training/JL_train/female1_excited_10b_2.wav,Water harms the new born boy.
+273,./training/JL_train/female1_excited_11a_2.wav,I have not seen my tooth.
+274,./training/JL_train/female1_excited_11b_1.wav,I have not seen my tooth.
+275,./training/JL_train/female1_excited_11b_2.wav,I have not seen my tooth.
+276,./training/JL_train/female1_excited_12a_2.wav,Work hard or you lose.
+277,./training/JL_train/female1_excited_12b_1.wav,Work hard or you lose.
+278,./training/JL_train/female1_excited_12b_2.wav,Work hard or you lose.
+279,./training/JL_train/female1_excited_13a_2.wav,Jim saw the port.
+280,./training/JL_train/female1_excited_13b_1.wav,Jim saw the port.
+281,./training/JL_train/female1_excited_13b_2.wav,Jim saw the port.
+282,./training/JL_train/female1_excited_14a_2.wav,They should start to talk.
+283,./training/JL_train/female1_excited_14b_1.wav,They should start to talk.
+284,./training/JL_train/female1_excited_14b_2.wav,They should start to talk.
+285,./training/JL_train/female1_excited_15a_2.wav,Sound the horn if you need more.
+286,./training/JL_train/female1_excited_15b_1.wav,Sound the horn if you need more.
+287,./training/JL_train/female1_excited_15b_2.wav,Sound the horn if you need more.
+288,./training/JL_train/female1_excited_1a_2.wav,Tom beats that farmer.
+289,./training/JL_train/female1_excited_1b_1.wav,Tom beats that farmer.
+290,./training/JL_train/female1_excited_1b_2.wav,Tom beats that farmer.
+291,./training/JL_train/female1_excited_2a_2.wav,John laughs like your father.
+292,./training/JL_train/female1_excited_2b_1.wav,John laughs like your father.
+293,./training/JL_train/female1_excited_2b_2.wav,John laughs like your father.
+294,./training/JL_train/female1_excited_3a_2.wav,The seed is buried in deep.
+295,./training/JL_train/female1_excited_3b_1.wav,The seed is buried in deep.
+296,./training/JL_train/female1_excited_3b_2.wav,The seed is buried in deep.
+297,./training/JL_train/female1_excited_4a_2.wav,Taylor likes stewed Asian food.
+298,./training/JL_train/female1_excited_4b_1.wav,Taylor likes stewed Asian food.
+299,./training/JL_train/female1_excited_4b_2.wav,Taylor likes stewed Asian food.
+300,./training/JL_train/female1_excited_5a_2.wav,The lord swims in the sea.
+301,./training/JL_train/female1_excited_5b_1.wav,The lord swims in the sea.
+302,./training/JL_train/female1_excited_5b_2.wav,The lord swims in the sea.
+303,./training/JL_train/female1_excited_6a_2.wav,Jack views an art piece.
+304,./training/JL_train/female1_excited_6b_1.wav,Jack views an art piece.
+305,./training/JL_train/female1_excited_6b_2.wav,Jack views an art piece.
+306,./training/JL_train/female1_excited_7a_2.wav,Carl leaps into a jeep.
+307,./training/JL_train/female1_excited_7b_1.wav,Carl leaps into a jeep.
+308,./training/JL_train/female1_excited_7b_2.wav,Carl leaps into a jeep.
+309,./training/JL_train/female1_excited_8a_2.wav,Linda asks for more darts.
+310,./training/JL_train/female1_excited_8b_1.wav,Linda asks for more darts.
+311,./training/JL_train/female1_excited_8b_2.wav,Linda asks for more darts.
+312,./training/JL_train/female1_excited_9a_2.wav,Find your boot in this shute.
+313,./training/JL_train/female1_excited_9b_1.wav,Find your boot in this shute.
+314,./training/JL_train/female1_excited_9b_2.wav,Find your boot in this shute.
+315,./training/JL_train/female1_happy_10a_2.wav,Water harms the new born boy.
+316,./training/JL_train/female1_happy_10b_1.wav,Water harms the new born boy.
+317,./training/JL_train/female1_happy_10b_2.wav,Water harms the new born boy.
+318,./training/JL_train/female1_happy_11a_2.wav,I have not seen my tooth.
+319,./training/JL_train/female1_happy_11b_1.wav,I have not seen my tooth.
+320,./training/JL_train/female1_happy_11b_2.wav,I have not seen my tooth.
+321,./training/JL_train/female1_happy_12a_2.wav,Work hard or you lose.
+322,./training/JL_train/female1_happy_12b_1.wav,Work hard or you lose.
+323,./training/JL_train/female1_happy_12b_2.wav,Work hard or you lose.
+324,./training/JL_train/female1_happy_13a_2.wav,Jim saw the port.
+325,./training/JL_train/female1_happy_13b_1.wav,Jim saw the port.
+326,./training/JL_train/female1_happy_13b_2.wav,Jim saw the port.
+327,./training/JL_train/female1_happy_14a_2.wav,They should start to talk.
+328,./training/JL_train/female1_happy_14b_1.wav,They should start to talk.
+329,./training/JL_train/female1_happy_14b_2.wav,They should start to talk.
+330,./training/JL_train/female1_happy_15a_2.wav,Sound the horn if you need more.
+331,./training/JL_train/female1_happy_15b_1.wav,Sound the horn if you need more.
+332,./training/JL_train/female1_happy_15b_2.wav,Sound the horn if you need more.
+333,./training/JL_train/female1_happy_1a_2.wav,Tom beats that farmer.
+334,./training/JL_train/female1_happy_1b_1.wav,Tom beats that farmer.
+335,./training/JL_train/female1_happy_1b_2.wav,Tom beats that farmer.
+336,./training/JL_train/female1_happy_2a_2.wav,John laughs like your father.
+337,./training/JL_train/female1_happy_2b_1.wav,John laughs like your father.
+338,./training/JL_train/female1_happy_2b_2.wav,John laughs like your father.
+339,./training/JL_train/female1_happy_3a_2.wav,The seed is buried in deep.
+340,./training/JL_train/female1_happy_3b_1.wav,The seed is buried in deep.
+341,./training/JL_train/female1_happy_3b_2.wav,The seed is buried in deep.
+342,./training/JL_train/female1_happy_4a_2.wav,Taylor likes stewed Asian food.
+343,./training/JL_train/female1_happy_4b_1.wav,Taylor likes stewed Asian food.
+344,./training/JL_train/female1_happy_4b_2.wav,Taylor likes stewed Asian food.
+345,./training/JL_train/female1_happy_5a_2.wav,The lord swims in the sea.
+346,./training/JL_train/female1_happy_5b_1.wav,The lord swims in the sea.
+347,./training/JL_train/female1_happy_5b_2.wav,The lord swims in the sea.
+348,./training/JL_train/female1_happy_6a_2.wav,Jack views an art piece.
+349,./training/JL_train/female1_happy_6b_1.wav,Jack views an art piece.
+350,./training/JL_train/female1_happy_6b_2.wav,Jack views an art piece.
+351,./training/JL_train/female1_happy_7a_2.wav,Carl leaps into a jeep.
+352,./training/JL_train/female1_happy_7b_1.wav,Carl leaps into a jeep.
+353,./training/JL_train/female1_happy_7b_2.wav,Carl leaps into a jeep.
+354,./training/JL_train/female1_happy_8a_2.wav,Linda asks for more darts.
+355,./training/JL_train/female1_happy_8b_1.wav,Linda asks for more darts.
+356,./training/JL_train/female1_happy_8b_2.wav,Linda asks for more darts.
+357,./training/JL_train/female1_happy_9a_2.wav,Find your boot in this shute.
+358,./training/JL_train/female1_happy_9b_1.wav,Find your boot in this shute.
+359,./training/JL_train/female1_happy_9b_2.wav,Find your boot in this shute.
+360,./training/JL_train/female1_neutral_10a_2.wav,Water harms the new born boy.
+361,./training/JL_train/female1_neutral_10b_1.wav,Water harms the new born boy.
+362,./training/JL_train/female1_neutral_10b_2.wav,Water harms the new born boy.
+363,./training/JL_train/female1_neutral_11a_2.wav,I have not seen my tooth.
+364,./training/JL_train/female1_neutral_11b_1.wav,I have not seen my tooth.
+365,./training/JL_train/female1_neutral_11b_2.wav,I have not seen my tooth.
+366,./training/JL_train/female1_neutral_12a_2.wav,Work hard or you lose.
+367,./training/JL_train/female1_neutral_12b_1.wav,Work hard or you lose.
+368,./training/JL_train/female1_neutral_12b_2.wav,Work hard or you lose.
+369,./training/JL_train/female1_neutral_13a_2.wav,Jim saw the port.
+370,./training/JL_train/female1_neutral_13b_1.wav,Jim saw the port.
+371,./training/JL_train/female1_neutral_13b_2.wav,Jim saw the port.
+372,./training/JL_train/female1_neutral_14a_2.wav,They should start to talk.
+373,./training/JL_train/female1_neutral_14b_1.wav,They should start to talk.
+374,./training/JL_train/female1_neutral_14b_2.wav,They should start to talk.
+375,./training/JL_train/female1_neutral_15a_2.wav,Sound the horn if you need more.
+376,./training/JL_train/female1_neutral_15b_1.wav,Sound the horn if you need more.
+377,./training/JL_train/female1_neutral_15b_2.wav,Sound the horn if you need more.
+378,./training/JL_train/female1_neutral_1a_2.wav,Tom beats that farmer.
+379,./training/JL_train/female1_neutral_1b_1.wav,Tom beats that farmer.
+380,./training/JL_train/female1_neutral_1b_2.wav,Tom beats that farmer.
+381,./training/JL_train/female1_neutral_2a_2.wav,John laughs like your father.
+382,./training/JL_train/female1_neutral_2b_1.wav,John laughs like your father.
+383,./training/JL_train/female1_neutral_2b_2.wav,John laughs like your father.
+384,./training/JL_train/female1_neutral_3a_2.wav,The seed is buried in deep.
+385,./training/JL_train/female1_neutral_3b_1.wav,The seed is buried in deep.
+386,./training/JL_train/female1_neutral_3b_2.wav,The seed is buried in deep.
+387,./training/JL_train/female1_neutral_4a_2.wav,Taylor likes stewed Asian food.
+388,./training/JL_train/female1_neutral_4b_1.wav,Taylor likes stewed Asian food.
+389,./training/JL_train/female1_neutral_4b_2.wav,Taylor likes stewed Asian food.
+390,./training/JL_train/female1_neutral_5a_2.wav,The lord swims in the sea.
+391,./training/JL_train/female1_neutral_5b_1.wav,The lord swims in the sea.
+392,./training/JL_train/female1_neutral_5b_2.wav,The lord swims in the sea.
+393,./training/JL_train/female1_neutral_6a_2.wav,Jack views an art piece.
+394,./training/JL_train/female1_neutral_6b_1.wav,Jack views an art piece.
+395,./training/JL_train/female1_neutral_6b_2.wav,Jack views an art piece.
+396,./training/JL_train/female1_neutral_7a_2.wav,Carl leaps into a jeep.
+397,./training/JL_train/female1_neutral_7b_1.wav,Carl leaps into a jeep.
+398,./training/JL_train/female1_neutral_7b_2.wav,Carl leaps into a jeep.
+399,./training/JL_train/female1_neutral_8a_2.wav,Linda asks for more darts.
+400,./training/JL_train/female1_neutral_8b_1.wav,Linda asks for more darts.
+401,./training/JL_train/female1_neutral_8b_2.wav,Linda asks for more darts.
+402,./training/JL_train/female1_neutral_9a_2.wav,Find your boot in this shute.
+403,./training/JL_train/female1_neutral_9b_1.wav,Find your boot in this shute.
+404,./training/JL_train/female1_neutral_9b_2.wav,Find your boot in this shute.
+405,./training/JL_train/female1_sad_10a_2.wav,Water harms the new born boy.
+406,./training/JL_train/female1_sad_10b_1.wav,Water harms the new born boy.
+407,./training/JL_train/female1_sad_10b_2.wav,Water harms the new born boy.
+408,./training/JL_train/female1_sad_11a_2.wav,I have not seen my tooth.
+409,./training/JL_train/female1_sad_11b_1.wav,I have not seen my tooth.
+410,./training/JL_train/female1_sad_11b_2.wav,I have not seen my tooth.
+411,./training/JL_train/female1_sad_12a_2.wav,Work hard or you lose.
+412,./training/JL_train/female1_sad_12b_1.wav,Work hard or you lose.
+413,./training/JL_train/female1_sad_12b_2.wav,Work hard or you lose.
+414,./training/JL_train/female1_sad_13a_2.wav,Jim saw the port.
+415,./training/JL_train/female1_sad_13b_1.wav,Jim saw the port.
+416,./training/JL_train/female1_sad_13b_2.wav,Jim saw the port.
+417,./training/JL_train/female1_sad_14a_2.wav,They should start to talk.
+418,./training/JL_train/female1_sad_14b_1.wav,They should start to talk.
+419,./training/JL_train/female1_sad_14b_2.wav,They should start to talk.
+420,./training/JL_train/female1_sad_15a_2.wav,Sound the horn if you need more.
+421,./training/JL_train/female1_sad_15b_1.wav,Sound the horn if you need more.
+422,./training/JL_train/female1_sad_15b_2.wav,Sound the horn if you need more.
+423,./training/JL_train/female1_sad_1a_2.wav,Tom beats that farmer.
+424,./training/JL_train/female1_sad_1b_1.wav,Tom beats that farmer.
+425,./training/JL_train/female1_sad_1b_2.wav,Tom beats that farmer.
+426,./training/JL_train/female1_sad_2a_2.wav,John laughs like your father.
+427,./training/JL_train/female1_sad_2b_1.wav,John laughs like your father.
+428,./training/JL_train/female1_sad_2b_2.wav,John laughs like your father.
+429,./training/JL_train/female1_sad_3a_2.wav,The seed is buried in deep.
+430,./training/JL_train/female1_sad_3b_1.wav,The seed is buried in deep.
+431,./training/JL_train/female1_sad_3b_2.wav,The seed is buried in deep.
+432,./training/JL_train/female1_sad_4a_2.wav,Taylor likes stewed Asian food.
+433,./training/JL_train/female1_sad_4b_1.wav,Taylor likes stewed Asian food.
+434,./training/JL_train/female1_sad_4b_2.wav,Taylor likes stewed Asian food.
+435,./training/JL_train/female1_sad_5a_2.wav,The lord swims in the sea.
+436,./training/JL_train/female1_sad_5b_1.wav,The lord swims in the sea.
+437,./training/JL_train/female1_sad_5b_2.wav,The lord swims in the sea.
+438,./training/JL_train/female1_sad_6a_2.wav,Jack views an art piece.
+439,./training/JL_train/female1_sad_6b_1.wav,Jack views an art piece.
+440,./training/JL_train/female1_sad_6b_2.wav,Jack views an art piece.
+441,./training/JL_train/female1_sad_7a_2.wav,Carl leaps into a jeep.
+442,./training/JL_train/female1_sad_7b_1.wav,Carl leaps into a jeep.
+443,./training/JL_train/female1_sad_7b_2.wav,Carl leaps into a jeep.
+444,./training/JL_train/female1_sad_8a_2.wav,Linda asks for more darts.
+445,./training/JL_train/female1_sad_8b_1.wav,Linda asks for more darts.
+446,./training/JL_train/female1_sad_8b_2.wav,Linda asks for more darts.
+447,./training/JL_train/female1_sad_9a_2.wav,Find your boot in this shute.
+448,./training/JL_train/female1_sad_9b_1.wav,Find your boot in this shute.
+449,./training/JL_train/female1_sad_9b_2.wav,Find your boot in this shute.
+450,./training/JL_train/female2_angry_10a_2.wav,Water harms the new born boy.
+451,./training/JL_train/female2_angry_10b_1.wav,Water harms the new born boy.
+452,./training/JL_train/female2_angry_10b_2.wav,Water harms the new born boy.
+453,./training/JL_train/female2_angry_11a_2.wav,I have not seen my tooth.
+454,./training/JL_train/female2_angry_11b_1.wav,I have not seen my tooth.
+455,./training/JL_train/female2_angry_11b_2.wav,I have not seen my tooth.
+456,./training/JL_train/female2_angry_12a_2.wav,Work hard or you lose.
+457,./training/JL_train/female2_angry_12b_1.wav,Work hard or you lose.
+458,./training/JL_train/female2_angry_12b_2.wav,Work hard or you lose.
+459,./training/JL_train/female2_angry_13a_2.wav,Jim saw the port.
+460,./training/JL_train/female2_angry_13b_1.wav,Jim saw the port.
+461,./training/JL_train/female2_angry_13b_2.wav,Jim saw the port.
+462,./training/JL_train/female2_angry_14a_2.wav,They should start to talk.
+463,./training/JL_train/female2_angry_14b_1.wav,They should start to talk.
+464,./training/JL_train/female2_angry_14b_2.wav,They should start to talk.
+465,./training/JL_train/female2_angry_15a_2.wav,Sound the horn if you need more.
+466,./training/JL_train/female2_angry_15b_1.wav,Sound the horn if you need more.
+467,./training/JL_train/female2_angry_15b_2.wav,Sound the horn if you need more.
+468,./training/JL_train/female2_angry_1a_2.wav,Tom beats that farmer.
+469,./training/JL_train/female2_angry_1b_1.wav,Tom beats that farmer.
+470,./training/JL_train/female2_angry_1b_2.wav,Tom beats that farmer.
+471,./training/JL_train/female2_angry_2a_2.wav,John laughs like your father.
+472,./training/JL_train/female2_angry_2b_1.wav,John laughs like your father.
+473,./training/JL_train/female2_angry_2b_2.wav,John laughs like your father.
+474,./training/JL_train/female2_angry_3a_2.wav,The seed is buried in deep.
+475,./training/JL_train/female2_angry_3b_1.wav,The seed is buried in deep.
+476,./training/JL_train/female2_angry_3b_2.wav,The seed is buried in deep.
+477,./training/JL_train/female2_angry_4a_2.wav,Taylor likes stewed Asian food.
+478,./training/JL_train/female2_angry_4b_1.wav,Taylor likes stewed Asian food.
+479,./training/JL_train/female2_angry_4b_2.wav,Taylor likes stewed Asian food.
+480,./training/JL_train/female2_angry_5a_2.wav,The lord swims in the sea.
+481,./training/JL_train/female2_angry_5b_1.wav,The lord swims in the sea.
+482,./training/JL_train/female2_angry_5b_2.wav,The lord swims in the sea.
+483,./training/JL_train/female2_angry_6a_2.wav,Jack views an art piece.
+484,./training/JL_train/female2_angry_6b_1.wav,Jack views an art piece.
+485,./training/JL_train/female2_angry_6b_2.wav,Jack views an art piece.
+486,./training/JL_train/female2_angry_7a_2.wav,Carl leaps into a jeep.
+487,./training/JL_train/female2_angry_7b_1.wav,Carl leaps into a jeep.
+488,./training/JL_train/female2_angry_7b_2.wav,Carl leaps into a jeep.
+489,./training/JL_train/female2_angry_8a_2.wav,Linda asks for more darts.
+490,./training/JL_train/female2_angry_8b_1.wav,Linda asks for more darts.
+491,./training/JL_train/female2_angry_8b_2.wav,Linda asks for more darts.
+492,./training/JL_train/female2_angry_9a_2.wav,Find your boot in this shute.
+493,./training/JL_train/female2_angry_9b_1.wav,Find your boot in this shute.
+494,./training/JL_train/female2_angry_9b_2.wav,Find your boot in this shute.
+495,./training/JL_train/female2_anxious_10a_2.wav,Water harms the new born boy.
+496,./training/JL_train/female2_anxious_10b_1.wav,Water harms the new born boy.
+497,./training/JL_train/female2_anxious_10b_2.wav,Water harms the new born boy.
+498,./training/JL_train/female2_anxious_11a_2.wav,Your results are unbelievable.
+499,./training/JL_train/female2_anxious_11b_1.wav,Your results are unbelievable.
+500,./training/JL_train/female2_anxious_11b_2.wav,Your results are unbelievable.
+501,./training/JL_train/female2_anxious_12a_2.wav,We were away a year ago.
+502,./training/JL_train/female2_anxious_12b_1.wav,We were away a year ago.
+503,./training/JL_train/female2_anxious_12b_2.wav,We were away a year ago.
+504,./training/JL_train/female2_anxious_13a_2.wav,How are you doing?
+505,./training/JL_train/female2_anxious_13b_1.wav,How are you doing?
+506,./training/JL_train/female2_anxious_13b_2.wav,How are you doing?
+507,./training/JL_train/female2_anxious_14a_2.wav,I am so worried about my exam results.
+508,./training/JL_train/female2_anxious_14b_1.wav,I am so worried about my exam results.
+509,./training/JL_train/female2_anxious_14b_2.wav,I am so worried about my exam results.
+510,./training/JL_train/female2_anxious_15a_2.wav,I am not sure how severe the wound is!
+511,./training/JL_train/female2_anxious_15b_1.wav,I am not sure how severe the wound is!
+512,./training/JL_train/female2_anxious_15b_2.wav,I am not sure how severe the wound is!
+513,./training/JL_train/female2_anxious_1a_2.wav,Tom beats that farmer.
+514,./training/JL_train/female2_anxious_1b_1.wav,Tom beats that farmer.
+515,./training/JL_train/female2_anxious_1b_2.wav,Tom beats that farmer.
+516,./training/JL_train/female2_anxious_2a_2.wav,John laughs like your father.
+517,./training/JL_train/female2_anxious_2b_1.wav,John laughs like your father.
+518,./training/JL_train/female2_anxious_2b_2.wav,John laughs like your father.
+519,./training/JL_train/female2_anxious_3a_2.wav,The seed is buried in deep.
+520,./training/JL_train/female2_anxious_3b_1.wav,The seed is buried in deep.
+521,./training/JL_train/female2_anxious_3b_2.wav,The seed is buried in deep.
+522,./training/JL_train/female2_anxious_4a_2.wav,Taylor likes stewed asian food.
+523,./training/JL_train/female2_anxious_4b_1.wav,Taylor likes stewed asian food.
+524,./training/JL_train/female2_anxious_4b_2.wav,Taylor likes stewed asian food.
+525,./training/JL_train/female2_anxious_5a_2.wav,The lord swims in the sea.
+526,./training/JL_train/female2_anxious_5b_1.wav,The lord swims in the sea.
+527,./training/JL_train/female2_anxious_5b_2.wav,The lord swims in the sea.
+528,./training/JL_train/female2_anxious_6a_2.wav,Jack views an art piece.
+529,./training/JL_train/female2_anxious_6b_1.wav,Jack views an art piece.
+530,./training/JL_train/female2_anxious_6b_2.wav,Jack views an art piece.
+531,./training/JL_train/female2_anxious_7a_2.wav,Carl leaps into a jeep.
+532,./training/JL_train/female2_anxious_7b_1.wav,Carl leaps into a jeep.
+533,./training/JL_train/female2_anxious_7b_2.wav,Carl leaps into a jeep.
+534,./training/JL_train/female2_anxious_8a_2.wav,Linda asks for more darts.
+535,./training/JL_train/female2_anxious_8b_1.wav,Linda asks for more darts.
+536,./training/JL_train/female2_anxious_8b_2.wav,Linda asks for more darts.
+537,./training/JL_train/female2_anxious_9a_2.wav,Find your boot in this shute.
+538,./training/JL_train/female2_anxious_9b_1.wav,Find your boot in this shute.
+539,./training/JL_train/female2_anxious_9b_2.wav,Find your boot in this shute.
+540,./training/JL_train/female2_apologetic_10a_2.wav,Water harms the new born boy.
+541,./training/JL_train/female2_apologetic_10b_1.wav,Water harms the new born boy.
+542,./training/JL_train/female2_apologetic_10b_2.wav,Water harms the new born boy.
+543,./training/JL_train/female2_apologetic_11a_2.wav,Your results are unbelievable.
+544,./training/JL_train/female2_apologetic_11b_1.wav,Your results are unbelievable.
+545,./training/JL_train/female2_apologetic_11b_2.wav,Your results are unbelievable.
+546,./training/JL_train/female2_apologetic_12a_2.wav,We were away a year ago.
+547,./training/JL_train/female2_apologetic_12b_1.wav,We were away a year ago.
+548,./training/JL_train/female2_apologetic_12b_2.wav,We were away a year ago.
+549,./training/JL_train/female2_apologetic_13a_2.wav,How are you doing?
+550,./training/JL_train/female2_apologetic_13b_1.wav,How are you doing?
+551,./training/JL_train/female2_apologetic_13b_2.wav,How are you doing?
+552,./training/JL_train/female2_apologetic_14a_2.wav,I owe you an apology.
+553,./training/JL_train/female2_apologetic_14b_1.wav,I owe you an apology.
+554,./training/JL_train/female2_apologetic_14b_2.wav,I owe you an apology.
+555,./training/JL_train/female2_apologetic_15a_2.wav,"Forgive me, but I must leave now"
+556,./training/JL_train/female2_apologetic_15b_1.wav,"Forgive me, but I must leave now"
+557,./training/JL_train/female2_apologetic_15b_2.wav,"Forgive me, but I must leave now"
+558,./training/JL_train/female2_apologetic_1a_2.wav,Tom beats that farmer.
+559,./training/JL_train/female2_apologetic_1b_1.wav,Tom beats that farmer.
+560,./training/JL_train/female2_apologetic_1b_2.wav,Tom beats that farmer.
+561,./training/JL_train/female2_apologetic_2a_2.wav,John laughs like your father.
+562,./training/JL_train/female2_apologetic_2b_1.wav,John laughs like your father.
+563,./training/JL_train/female2_apologetic_2b_2.wav,John laughs like your father.
+564,./training/JL_train/female2_apologetic_3a_2.wav,The seed is buried in deep.
+565,./training/JL_train/female2_apologetic_3b_1.wav,The seed is buried in deep.
+566,./training/JL_train/female2_apologetic_3b_2.wav,The seed is buried in deep.
+567,./training/JL_train/female2_apologetic_4a_2.wav,Taylor likes stewed asian food.
+568,./training/JL_train/female2_apologetic_4b_1.wav,Taylor likes stewed asian food.
+569,./training/JL_train/female2_apologetic_4b_2.wav,Taylor likes stewed asian food.
+570,./training/JL_train/female2_apologetic_5a_2.wav,The lord swims in the sea.
+571,./training/JL_train/female2_apologetic_5b_1.wav,The lord swims in the sea.
+572,./training/JL_train/female2_apologetic_5b_2.wav,The lord swims in the sea.
+573,./training/JL_train/female2_apologetic_6a_2.wav,Jack views an art piece.
+574,./training/JL_train/female2_apologetic_6b_1.wav,Jack views an art piece.
+575,./training/JL_train/female2_apologetic_6b_2.wav,Jack views an art piece.
+576,./training/JL_train/female2_apologetic_7a_2.wav,Carl leaps into a jeep.
+577,./training/JL_train/female2_apologetic_7b_1.wav,Carl leaps into a jeep.
+578,./training/JL_train/female2_apologetic_7b_2.wav,Carl leaps into a jeep.
+579,./training/JL_train/female2_apologetic_8a_2.wav,Linda asks for more darts.
+580,./training/JL_train/female2_apologetic_8b_1.wav,Linda asks for more darts.
+581,./training/JL_train/female2_apologetic_8b_2.wav,Linda asks for more darts.
+582,./training/JL_train/female2_apologetic_9a_2.wav,Find your boot in this shute.
+583,./training/JL_train/female2_apologetic_9b_1.wav,Find your boot in this shute.
+584,./training/JL_train/female2_apologetic_9b_2.wav,Find your boot in this shute.
+585,./training/JL_train/female2_assertive_10a_2.wav,Water harms the new born boy.
+586,./training/JL_train/female2_assertive_10b_1.wav,Water harms the new born boy.
+587,./training/JL_train/female2_assertive_10b_2.wav,Water harms the new born boy.
+588,./training/JL_train/female2_assertive_11a_2.wav,Your results are unbelievable.
+589,./training/JL_train/female2_assertive_11b_1.wav,Your results are unbelievable.
+590,./training/JL_train/female2_assertive_11b_2.wav,Your results are unbelievable.
+591,./training/JL_train/female2_assertive_12a_2.wav,We were away a year ago.
+592,./training/JL_train/female2_assertive_12b_1.wav,We were away a year ago.
+593,./training/JL_train/female2_assertive_12b_2.wav,We were away a year ago.
+594,./training/JL_train/female2_assertive_13a_2.wav,How are you doing?
+595,./training/JL_train/female2_assertive_13b_1.wav,How are you doing?
+596,./training/JL_train/female2_assertive_13b_2.wav,How are you doing?
+597,./training/JL_train/female2_assertive_14a_2.wav,Please try to do your exercises next time.
+598,./training/JL_train/female2_assertive_14b_1.wav,Please try to do your exercises next time.
+599,./training/JL_train/female2_assertive_14b_2.wav,Please try to do your exercises next time.
+600,./training/JL_train/female2_assertive_15a_2.wav,I will think about it and get back to you.
+601,./training/JL_train/female2_assertive_15b_1.wav,I will think about it and get back to you.
+602,./training/JL_train/female2_assertive_15b_2.wav,I will think about it and get back to you.
+603,./training/JL_train/female2_assertive_1a_2.wav,Tom beats that farmer.
+604,./training/JL_train/female2_assertive_1b_1.wav,Tom beats that farmer.
+605,./training/JL_train/female2_assertive_1b_2.wav,Tom beats that farmer.
+606,./training/JL_train/female2_assertive_2a_2.wav,John laughs like your father.
+607,./training/JL_train/female2_assertive_2b_1.wav,John laughs like your father.
+608,./training/JL_train/female2_assertive_2b_2.wav,John laughs like your father.
+609,./training/JL_train/female2_assertive_3a_2.wav,The seed is buried in deep.
+610,./training/JL_train/female2_assertive_3b_1.wav,The seed is buried in deep.
+611,./training/JL_train/female2_assertive_3b_2.wav,The seed is buried in deep.
+612,./training/JL_train/female2_assertive_4a_2.wav,Taylor likes stewed asian food.
+613,./training/JL_train/female2_assertive_4b_1.wav,Taylor likes stewed asian food.
+614,./training/JL_train/female2_assertive_4b_2.wav,Taylor likes stewed asian food.
+615,./training/JL_train/female2_assertive_5a_2.wav,The lord swims in the sea.
+616,./training/JL_train/female2_assertive_5b_1.wav,The lord swims in the sea.
+617,./training/JL_train/female2_assertive_5b_2.wav,The lord swims in the sea.
+618,./training/JL_train/female2_assertive_6a_2.wav,Jack views an art piece.
+619,./training/JL_train/female2_assertive_6b_1.wav,Jack views an art piece.
+620,./training/JL_train/female2_assertive_6b_2.wav,Jack views an art piece.
+621,./training/JL_train/female2_assertive_7a_2.wav,Carl leaps into a jeep.
+622,./training/JL_train/female2_assertive_7b_1.wav,Carl leaps into a jeep.
+623,./training/JL_train/female2_assertive_7b_2.wav,Carl leaps into a jeep.
+624,./training/JL_train/female2_assertive_8a_2.wav,Linda asks for more darts.
+625,./training/JL_train/female2_assertive_8b_1.wav,Linda asks for more darts.
+626,./training/JL_train/female2_assertive_8b_2.wav,Linda asks for more darts.
+627,./training/JL_train/female2_assertive_9a_2.wav,Find your boot in this shute.
+628,./training/JL_train/female2_assertive_9b_1.wav,Find your boot in this shute.
+629,./training/JL_train/female2_assertive_9b_2.wav,Find your boot in this shute.
+630,./training/JL_train/female2_concerned_10a_2.wav,Water harms the new born boy.
+631,./training/JL_train/female2_concerned_10b_1.wav,Water harms the new born boy.
+632,./training/JL_train/female2_concerned_10b_2.wav,Water harms the new born boy.
+633,./training/JL_train/female2_concerned_11a_2.wav,Your results are unbelievable.
+634,./training/JL_train/female2_concerned_11b_1.wav,Your results are unbelievable.
+635,./training/JL_train/female2_concerned_11b_2.wav,Your results are unbelievable.
+636,./training/JL_train/female2_concerned_12a_2.wav,We were away a year ago.
+637,./training/JL_train/female2_concerned_12b_1.wav,We were away a year ago.
+638,./training/JL_train/female2_concerned_12b_2.wav,We were away a year ago.
+639,./training/JL_train/female2_concerned_13a_2.wav,How are you doing?
+640,./training/JL_train/female2_concerned_13b_1.wav,How are you doing?
+641,./training/JL_train/female2_concerned_13b_2.wav,How are you doing?
+642,./training/JL_train/female2_concerned_14a_2.wav,It seems like you are taking a long time.
+643,./training/JL_train/female2_concerned_14b_1.wav,It seems like you are taking a long time.
+644,./training/JL_train/female2_concerned_14b_2.wav,It seems like you are taking a long time.
+645,./training/JL_train/female2_concerned_15a_2.wav,I know how frustrating it can be.
+646,./training/JL_train/female2_concerned_15b_1.wav,I know how frustrating it can be.
+647,./training/JL_train/female2_concerned_15b_2.wav,I know how frustrating it can be.
+648,./training/JL_train/female2_concerned_1a_2.wav,Tom beats that farmer.
+649,./training/JL_train/female2_concerned_1b_1.wav,Tom beats that farmer.
+650,./training/JL_train/female2_concerned_1b_2.wav,Tom beats that farmer.
+651,./training/JL_train/female2_concerned_2a_2.wav,John laughs like your father.
+652,./training/JL_train/female2_concerned_2b_1.wav,John laughs like your father.
+653,./training/JL_train/female2_concerned_2b_2.wav,John laughs like your father.
+654,./training/JL_train/female2_concerned_3a_2.wav,The seed is buried in deep.
+655,./training/JL_train/female2_concerned_3b_1.wav,The seed is buried in deep.
+656,./training/JL_train/female2_concerned_3b_2.wav,The seed is buried in deep.
+657,./training/JL_train/female2_concerned_4a_2.wav,Taylor likes stewed asian food.
+658,./training/JL_train/female2_concerned_4b_1.wav,Taylor likes stewed asian food.
+659,./training/JL_train/female2_concerned_4b_2.wav,Taylor likes stewed asian food.
+660,./training/JL_train/female2_concerned_5a_2.wav,The lord swims in the sea.
+661,./training/JL_train/female2_concerned_5b_1.wav,The lord swims in the sea.
+662,./training/JL_train/female2_concerned_5b_2.wav,The lord swims in the sea.
+663,./training/JL_train/female2_concerned_6a_2.wav,Jack views an art piece.
+664,./training/JL_train/female2_concerned_6b_1.wav,Jack views an art piece.
+665,./training/JL_train/female2_concerned_6b_2.wav,Jack views an art piece.
+666,./training/JL_train/female2_concerned_7a_2.wav,Carl leaps into a jeep.
+667,./training/JL_train/female2_concerned_7b_1.wav,Carl leaps into a jeep.
+668,./training/JL_train/female2_concerned_7b_2.wav,Carl leaps into a jeep.
+669,./training/JL_train/female2_concerned_8a_2.wav,Linda asks for more darts.
+670,./training/JL_train/female2_concerned_8b_1.wav,Linda asks for more darts.
+671,./training/JL_train/female2_concerned_8b_2.wav,Linda asks for more darts.
+672,./training/JL_train/female2_concerned_9a_2.wav,Find your boot in this shute.
+673,./training/JL_train/female2_concerned_9b_1.wav,Find your boot in this shute.
+674,./training/JL_train/female2_concerned_9b_2.wav,Find your boot in this shute.
+675,./training/JL_train/female2_encouraging_10a_2.wav,Water harms the new born boy.
+676,./training/JL_train/female2_encouraging_10b_1.wav,Water harms the new born boy.
+677,./training/JL_train/female2_encouraging_10b_2.wav,Water harms the new born boy.
+678,./training/JL_train/female2_encouraging_11a_2.wav,Your results are unbelievable.
+679,./training/JL_train/female2_encouraging_11b_1.wav,Your results are unbelievable.
+680,./training/JL_train/female2_encouraging_11b_2.wav,Your results are unbelievable.
+681,./training/JL_train/female2_encouraging_12a_2.wav,We were away a year ago.
+682,./training/JL_train/female2_encouraging_12b_1.wav,We were away a year ago.
+683,./training/JL_train/female2_encouraging_12b_2.wav,We were away a year ago.
+684,./training/JL_train/female2_encouraging_13a_2.wav,How are you doing?
+685,./training/JL_train/female2_encouraging_13b_1.wav,How are you doing?
+686,./training/JL_train/female2_encouraging_13b_2.wav,How are you doing?
+687,./training/JL_train/female2_encouraging_14a_2.wav,Thank you for your help!
+688,./training/JL_train/female2_encouraging_14b_1.wav,Thank you for your help!
+689,./training/JL_train/female2_encouraging_14b_2.wav,Thank you for your help!
+690,./training/JL_train/female2_encouraging_15a_2.wav,You should be proud of yourself!
+691,./training/JL_train/female2_encouraging_15b_1.wav,You should be proud of yourself!
+692,./training/JL_train/female2_encouraging_15b_2.wav,You should be proud of yourself!
+693,./training/JL_train/female2_encouraging_1a_2.wav,Tom beats that farmer.
+694,./training/JL_train/female2_encouraging_1b_1.wav,Tom beats that farmer.
+695,./training/JL_train/female2_encouraging_1b_2.wav,Tom beats that farmer.
+696,./training/JL_train/female2_encouraging_2a_2.wav,John laughs like your father.
+697,./training/JL_train/female2_encouraging_2b_1.wav,John laughs like your father.
+698,./training/JL_train/female2_encouraging_2b_2.wav,John laughs like your father.
+699,./training/JL_train/female2_encouraging_3a_2.wav,The seed is buried in deep.
+700,./training/JL_train/female2_encouraging_3b_1.wav,The seed is buried in deep.
+701,./training/JL_train/female2_encouraging_3b_2.wav,The seed is buried in deep.
+702,./training/JL_train/female2_encouraging_4a_2.wav,Taylor likes stewed asian food.
+703,./training/JL_train/female2_encouraging_4b_1.wav,Taylor likes stewed asian food.
+704,./training/JL_train/female2_encouraging_4b_2.wav,Taylor likes stewed asian food.
+705,./training/JL_train/female2_encouraging_5a_2.wav,The lord swims in the sea.
+706,./training/JL_train/female2_encouraging_5b_1.wav,The lord swims in the sea.
+707,./training/JL_train/female2_encouraging_5b_2.wav,The lord swims in the sea.
+708,./training/JL_train/female2_encouraging_6a_2.wav,Jack views an art piece.
+709,./training/JL_train/female2_encouraging_6b_1.wav,Jack views an art piece.
+710,./training/JL_train/female2_encouraging_6b_2.wav,Jack views an art piece.
+711,./training/JL_train/female2_encouraging_7a_2.wav,Carl leaps into a jeep.
+712,./training/JL_train/female2_encouraging_7b_1.wav,Carl leaps into a jeep.
+713,./training/JL_train/female2_encouraging_7b_2.wav,Carl leaps into a jeep.
+714,./training/JL_train/female2_encouraging_8a_2.wav,Linda asks for more darts.
+715,./training/JL_train/female2_encouraging_8b_1.wav,Linda asks for more darts.
+716,./training/JL_train/female2_encouraging_8b_2.wav,Linda asks for more darts.
+717,./training/JL_train/female2_encouraging_9a_2.wav,Find your boot in this shute.
+718,./training/JL_train/female2_encouraging_9b_1.wav,Find your boot in this shute.
+719,./training/JL_train/female2_encouraging_9b_2.wav,Find your boot in this shute.
+720,./training/JL_train/female2_excited_10a_2.wav,Water harms the new born boy.
+721,./training/JL_train/female2_excited_10b_1.wav,Water harms the new born boy.
+722,./training/JL_train/female2_excited_10b_2.wav,Water harms the new born boy.
+723,./training/JL_train/female2_excited_11a_2.wav,I have not seen my tooth.
+724,./training/JL_train/female2_excited_11b_1.wav,I have not seen my tooth.
+725,./training/JL_train/female2_excited_11b_2.wav,I have not seen my tooth.
+726,./training/JL_train/female2_excited_12a_2.wav,Work hard or you lose.
+727,./training/JL_train/female2_excited_12b_1.wav,Work hard or you lose.
+728,./training/JL_train/female2_excited_12b_2.wav,Work hard or you lose.
+729,./training/JL_train/female2_excited_13a_2.wav,Jim saw the port.
+730,./training/JL_train/female2_excited_13b_1.wav,Jim saw the port.
+731,./training/JL_train/female2_excited_13b_2.wav,Jim saw the port.
+732,./training/JL_train/female2_excited_14a_2.wav,They should start to talk.
+733,./training/JL_train/female2_excited_14b_1.wav,They should start to talk.
+734,./training/JL_train/female2_excited_14b_2.wav,They should start to talk.
+735,./training/JL_train/female2_excited_15a_2.wav,Sound the horn if you need more.
+736,./training/JL_train/female2_excited_15b_1.wav,Sound the horn if you need more.
+737,./training/JL_train/female2_excited_15b_2.wav,Sound the horn if you need more.
+738,./training/JL_train/female2_excited_1a_2.wav,Tom beats that farmer.
+739,./training/JL_train/female2_excited_1b_1.wav,Tom beats that farmer.
+740,./training/JL_train/female2_excited_1b_2.wav,Tom beats that farmer.
+741,./training/JL_train/female2_excited_2a_2.wav,John laughs like your father.
+742,./training/JL_train/female2_excited_2b_1.wav,John laughs like your father.
+743,./training/JL_train/female2_excited_2b_2.wav,John laughs like your father.
+744,./training/JL_train/female2_excited_3a_2.wav,The seed is buried in deep.
+745,./training/JL_train/female2_excited_3b_1.wav,The seed is buried in deep.
+746,./training/JL_train/female2_excited_3b_2.wav,The seed is buried in deep.
+747,./training/JL_train/female2_excited_4a_2.wav,Taylor likes stewed Asian food.
+748,./training/JL_train/female2_excited_4b_1.wav,Taylor likes stewed Asian food.
+749,./training/JL_train/female2_excited_4b_2.wav,Taylor likes stewed Asian food.
+750,./training/JL_train/female2_excited_5a_2.wav,The lord swims in the sea.
+751,./training/JL_train/female2_excited_5b_1.wav,The lord swims in the sea.
+752,./training/JL_train/female2_excited_5b_2.wav,The lord swims in the sea.
+753,./training/JL_train/female2_excited_6a_2.wav,Jack views an art piece.
+754,./training/JL_train/female2_excited_6b_1.wav,Jack views an art piece.
+755,./training/JL_train/female2_excited_6b_2.wav,Jack views an art piece.
+756,./training/JL_train/female2_excited_7a_2.wav,Carl leaps into a jeep.
+757,./training/JL_train/female2_excited_7b_1.wav,Carl leaps into a jeep.
+758,./training/JL_train/female2_excited_7b_2.wav,Carl leaps into a jeep.
+759,./training/JL_train/female2_excited_8a_2.wav,Linda asks for more darts.
+760,./training/JL_train/female2_excited_8b_1.wav,Linda asks for more darts.
+761,./training/JL_train/female2_excited_8b_2.wav,Linda asks for more darts.
+762,./training/JL_train/female2_excited_9a_2.wav,Find your boot in this shute.
+763,./training/JL_train/female2_excited_9b_1.wav,Find your boot in this shute.
+764,./training/JL_train/female2_excited_9b_2.wav,Find your boot in this shute.
+765,./training/JL_train/female2_happy_10a_2.wav,Water harms the new born boy.
+766,./training/JL_train/female2_happy_10b_1.wav,Water harms the new born boy.
+767,./training/JL_train/female2_happy_10b_2.wav,Water harms the new born boy.
+768,./training/JL_train/female2_happy_11a_2.wav,I have not seen my tooth.
+769,./training/JL_train/female2_happy_11b_1.wav,I have not seen my tooth.
+770,./training/JL_train/female2_happy_11b_2.wav,I have not seen my tooth.
+771,./training/JL_train/female2_happy_12a_2.wav,Work hard or you lose.
+772,./training/JL_train/female2_happy_12b_1.wav,Work hard or you lose.
+773,./training/JL_train/female2_happy_12b_2.wav,Work hard or you lose.
+774,./training/JL_train/female2_happy_13a_2.wav,Jim saw the port.
+775,./training/JL_train/female2_happy_13b_1.wav,Jim saw the port.
+776,./training/JL_train/female2_happy_13b_2.wav,Jim saw the port.
+777,./training/JL_train/female2_happy_14a_2.wav,They should start to talk.
+778,./training/JL_train/female2_happy_14b_1.wav,They should start to talk.
+779,./training/JL_train/female2_happy_14b_2.wav,They should start to talk.
+780,./training/JL_train/female2_happy_15a_2.wav,Sound the horn if you need more.
+781,./training/JL_train/female2_happy_15b_1.wav,Sound the horn if you need more.
+782,./training/JL_train/female2_happy_15b_2.wav,Sound the horn if you need more.
+783,./training/JL_train/female2_happy_1a_2.wav,Tom beats that farmer.
+784,./training/JL_train/female2_happy_1b_1.wav,Tom beats that farmer.
+785,./training/JL_train/female2_happy_1b_2.wav,Tom beats that farmer.
+786,./training/JL_train/female2_happy_2a_2.wav,John laughs like your father.
+787,./training/JL_train/female2_happy_2b_1.wav,John laughs like your father.
+788,./training/JL_train/female2_happy_2b_2.wav,John laughs like your father.
+789,./training/JL_train/female2_happy_3a_2.wav,The seed is buried in deep.
+790,./training/JL_train/female2_happy_3b_1.wav,The seed is buried in deep.
+791,./training/JL_train/female2_happy_3b_2.wav,The seed is buried in deep.
+792,./training/JL_train/female2_happy_4a_2.wav,Taylor likes stewed Asian food.
+793,./training/JL_train/female2_happy_4b_1.wav,Taylor likes stewed Asian food.
+794,./training/JL_train/female2_happy_4b_2.wav,Taylor likes stewed Asian food.
+795,./training/JL_train/female2_happy_5a_2.wav,The lord swims in the sea.
+796,./training/JL_train/female2_happy_5b_1.wav,The lord swims in the sea.
+797,./training/JL_train/female2_happy_5b_2.wav,The lord swims in the sea.
+798,./training/JL_train/female2_happy_6a_2.wav,Jack views an art piece.
+799,./training/JL_train/female2_happy_6b_1.wav,Jack views an art piece.
+800,./training/JL_train/female2_happy_6b_2.wav,Jack views an art piece.
+801,./training/JL_train/female2_happy_7a_2.wav,Carl leaps into a jeep.
+802,./training/JL_train/female2_happy_7b_1.wav,Carl leaps into a jeep.
+803,./training/JL_train/female2_happy_7b_2.wav,Carl leaps into a jeep.
+804,./training/JL_train/female2_happy_8a_2.wav,Linda asks for more darts.
+805,./training/JL_train/female2_happy_8b_1.wav,Linda asks for more darts.
+806,./training/JL_train/female2_happy_8b_2.wav,Linda asks for more darts.
+807,./training/JL_train/female2_happy_9a_2.wav,Find your boot in this shute.
+808,./training/JL_train/female2_happy_9b_1.wav,Find your boot in this shute.
+809,./training/JL_train/female2_happy_9b_2.wav,Find your boot in this shute.
+810,./training/JL_train/female2_neutral_10a_2.wav,Water harms the new born boy.
+811,./training/JL_train/female2_neutral_10b_1.wav,Water harms the new born boy.
+812,./training/JL_train/female2_neutral_10b_2.wav,Water harms the new born boy.
+813,./training/JL_train/female2_neutral_11a_2.wav,I have not seen my tooth.
+814,./training/JL_train/female2_neutral_11b_1.wav,I have not seen my tooth.
+815,./training/JL_train/female2_neutral_11b_2.wav,I have not seen my tooth.
+816,./training/JL_train/female2_neutral_12a_2.wav,Work hard or you lose.
+817,./training/JL_train/female2_neutral_12b_1.wav,Work hard or you lose.
+818,./training/JL_train/female2_neutral_12b_2.wav,Work hard or you lose.
+819,./training/JL_train/female2_neutral_13a_2.wav,Jim saw the port.
+820,./training/JL_train/female2_neutral_13b_1.wav,Jim saw the port.
+821,./training/JL_train/female2_neutral_13b_2.wav,Jim saw the port.
+822,./training/JL_train/female2_neutral_14a_2.wav,They should start to talk.
+823,./training/JL_train/female2_neutral_14b_1.wav,They should start to talk.
+824,./training/JL_train/female2_neutral_14b_2.wav,They should start to talk.
+825,./training/JL_train/female2_neutral_15a_2.wav,Sound the horn if you need more.
+826,./training/JL_train/female2_neutral_15b_1.wav,Sound the horn if you need more.
+827,./training/JL_train/female2_neutral_15b_2.wav,Sound the horn if you need more.
+828,./training/JL_train/female2_neutral_1a_2.wav,Tom beats that farmer.
+829,./training/JL_train/female2_neutral_1b_1.wav,Tom beats that farmer.
+830,./training/JL_train/female2_neutral_1b_2.wav,Tom beats that farmer.
+831,./training/JL_train/female2_neutral_2a_2.wav,John laughs like your father.
+832,./training/JL_train/female2_neutral_2b_1.wav,John laughs like your father.
+833,./training/JL_train/female2_neutral_2b_2.wav,John laughs like your father.
+834,./training/JL_train/female2_neutral_3a_2.wav,The seed is buried in deep.
+835,./training/JL_train/female2_neutral_3b_1.wav,The seed is buried in deep.
+836,./training/JL_train/female2_neutral_3b_2.wav,The seed is buried in deep.
+837,./training/JL_train/female2_neutral_4a_2.wav,Taylor likes stewed Asian food.
+838,./training/JL_train/female2_neutral_4b_1.wav,Taylor likes stewed Asian food.
+839,./training/JL_train/female2_neutral_4b_2.wav,Taylor likes stewed Asian food.
+840,./training/JL_train/female2_neutral_5a_2.wav,The lord swims in the sea.
+841,./training/JL_train/female2_neutral_5b_1.wav,The lord swims in the sea.
+842,./training/JL_train/female2_neutral_5b_2.wav,The lord swims in the sea.
+843,./training/JL_train/female2_neutral_6a_2.wav,Jack views an art piece.
+844,./training/JL_train/female2_neutral_6b_1.wav,Jack views an art piece.
+845,./training/JL_train/female2_neutral_6b_2.wav,Jack views an art piece.
+846,./training/JL_train/female2_neutral_7a_2.wav,Carl leaps into a jeep.
+847,./training/JL_train/female2_neutral_7b_1.wav,Carl leaps into a jeep.
+848,./training/JL_train/female2_neutral_7b_2.wav,Carl leaps into a jeep.
+849,./training/JL_train/female2_neutral_8a_2.wav,Linda asks for more darts.
+850,./training/JL_train/female2_neutral_8b_1.wav,Linda asks for more darts.
+851,./training/JL_train/female2_neutral_8b_2.wav,Linda asks for more darts.
+852,./training/JL_train/female2_neutral_9a_2.wav,Find your boot in this shute.
+853,./training/JL_train/female2_neutral_9b_1.wav,Find your boot in this shute.
+854,./training/JL_train/female2_neutral_9b_2.wav,Find your boot in this shute.
+855,./training/JL_train/female2_sad_10a_2.wav,Water harms the new born boy.
+856,./training/JL_train/female2_sad_10b_1.wav,Water harms the new born boy.
+857,./training/JL_train/female2_sad_10b_2.wav,Water harms the new born boy.
+858,./training/JL_train/female2_sad_11a_2.wav,I have not seen my tooth.
+859,./training/JL_train/female2_sad_11b_1.wav,I have not seen my tooth.
+860,./training/JL_train/female2_sad_11b_2.wav,I have not seen my tooth.
+861,./training/JL_train/female2_sad_12a_2.wav,Work hard or you lose.
+862,./training/JL_train/female2_sad_12b_1.wav,Work hard or you lose.
+863,./training/JL_train/female2_sad_12b_2.wav,Work hard or you lose.
+864,./training/JL_train/female2_sad_13a_2.wav,Jim saw the port.
+865,./training/JL_train/female2_sad_13b_1.wav,Jim saw the port.
+866,./training/JL_train/female2_sad_13b_2.wav,Jim saw the port.
+867,./training/JL_train/female2_sad_14a_2.wav,They should start to talk.
+868,./training/JL_train/female2_sad_14b_1.wav,They should start to talk.
+869,./training/JL_train/female2_sad_14b_2.wav,They should start to talk.
+870,./training/JL_train/female2_sad_15a_2.wav,Sound the horn if you need more.
+871,./training/JL_train/female2_sad_15b_1.wav,Sound the horn if you need more.
+872,./training/JL_train/female2_sad_15b_2.wav,Sound the horn if you need more.
+873,./training/JL_train/female2_sad_1a_2.wav,Tom beats that farmer.
+874,./training/JL_train/female2_sad_1b_1.wav,Tom beats that farmer.
+875,./training/JL_train/female2_sad_1b_2.wav,Tom beats that farmer.
+876,./training/JL_train/female2_sad_2a_2.wav,John laughs like your father.
+877,./training/JL_train/female2_sad_2b_1.wav,John laughs like your father.
+878,./training/JL_train/female2_sad_2b_2.wav,John laughs like your father.
+879,./training/JL_train/female2_sad_3a_2.wav,The seed is buried in deep.
+880,./training/JL_train/female2_sad_3b_1.wav,The seed is buried in deep.
+881,./training/JL_train/female2_sad_3b_2.wav,The seed is buried in deep.
+882,./training/JL_train/female2_sad_4a_2.wav,Taylor likes stewed Asian food.
+883,./training/JL_train/female2_sad_4b_1.wav,Taylor likes stewed Asian food.
+884,./training/JL_train/female2_sad_4b_2.wav,Taylor likes stewed Asian food.
+885,./training/JL_train/female2_sad_5a_2.wav,The lord swims in the sea.
+886,./training/JL_train/female2_sad_5b_1.wav,The lord swims in the sea.
+887,./training/JL_train/female2_sad_5b_2.wav,The lord swims in the sea.
+888,./training/JL_train/female2_sad_6a_2.wav,Jack views an art piece.
+889,./training/JL_train/female2_sad_6b_1.wav,Jack views an art piece.
+890,./training/JL_train/female2_sad_6b_2.wav,Jack views an art piece.
+891,./training/JL_train/female2_sad_7a_2.wav,Carl leaps into a jeep.
+892,./training/JL_train/female2_sad_7b_1.wav,Carl leaps into a jeep.
+893,./training/JL_train/female2_sad_7b_2.wav,Carl leaps into a jeep.
+894,./training/JL_train/female2_sad_8a_2.wav,Linda asks for more darts.
+895,./training/JL_train/female2_sad_8b_1.wav,Linda asks for more darts.
+896,./training/JL_train/female2_sad_8b_2.wav,Linda asks for more darts.
+897,./training/JL_train/female2_sad_9a_2.wav,Find your boot in this shute.
+898,./training/JL_train/female2_sad_9b_1.wav,Find your boot in this shute.
+899,./training/JL_train/female2_sad_9b_2.wav,Find your boot in this shute.
+900,./training/JL_train/male1_angry_10a_2.wav,Water harms the new born boy.
+901,./training/JL_train/male1_angry_10b_1.wav,Water harms the new born boy.
+902,./training/JL_train/male1_angry_10b_2.wav,Water harms the new born boy.
+903,./training/JL_train/male1_angry_11a_2.wav,I have not seen my tooth.
+904,./training/JL_train/male1_angry_11b_1.wav,I have not seen my tooth.
+905,./training/JL_train/male1_angry_11b_2.wav,I have not seen my tooth.
+906,./training/JL_train/male1_angry_12a_2.wav,Work hard or you lose.
+907,./training/JL_train/male1_angry_12b_1.wav,Work hard or you lose.
+908,./training/JL_train/male1_angry_12b_2.wav,Work hard or you lose.
+909,./training/JL_train/male1_angry_13a_2.wav,Jim saw the port.
+910,./training/JL_train/male1_angry_13b_1.wav,Jim saw the port.
+911,./training/JL_train/male1_angry_13b_2.wav,Jim saw the port.
+912,./training/JL_train/male1_angry_14a_2.wav,They should start to talk.
+913,./training/JL_train/male1_angry_14b_1.wav,They should start to talk.
+914,./training/JL_train/male1_angry_14b_2.wav,They should start to talk.
+915,./training/JL_train/male1_angry_15a_2.wav,Sound the horn if you need more.
+916,./training/JL_train/male1_angry_15b_1.wav,Sound the horn if you need more.
+917,./training/JL_train/male1_angry_15b_2.wav,Sound the horn if you need more.
+918,./training/JL_train/male1_angry_1a_2.wav,Tom beats that farmer.
+919,./training/JL_train/male1_angry_1b_1.wav,Tom beats that farmer.
+920,./training/JL_train/male1_angry_1b_2.wav,Tom beats that farmer.
+921,./training/JL_train/male1_angry_2a_2.wav,John laughs like your father.
+922,./training/JL_train/male1_angry_2b_1.wav,John laughs like your father.
+923,./training/JL_train/male1_angry_2b_2.wav,John laughs like your father.
+924,./training/JL_train/male1_angry_3a_2.wav,The seed is buried in deep.
+925,./training/JL_train/male1_angry_3b_1.wav,The seed is buried in deep.
+926,./training/JL_train/male1_angry_3b_2.wav,The seed is buried in deep.
+927,./training/JL_train/male1_angry_4a_2.wav,Taylor likes stewed Asian food.
+928,./training/JL_train/male1_angry_4b_1.wav,Taylor likes stewed Asian food.
+929,./training/JL_train/male1_angry_4b_2.wav,Taylor likes stewed Asian food.
+930,./training/JL_train/male1_angry_5a_2.wav,The lord swims in the sea.
+931,./training/JL_train/male1_angry_5b_1.wav,The lord swims in the sea.
+932,./training/JL_train/male1_angry_5b_2.wav,The lord swims in the sea.
+933,./training/JL_train/male1_angry_6a_2.wav,Jack views an art piece.
+934,./training/JL_train/male1_angry_6b_1.wav,Jack views an art piece.
+935,./training/JL_train/male1_angry_6b_2.wav,Jack views an art piece.
+936,./training/JL_train/male1_angry_7a_2.wav,Carl leaps into a jeep.
+937,./training/JL_train/male1_angry_7b_1.wav,Carl leaps into a jeep.
+938,./training/JL_train/male1_angry_7b_2.wav,Carl leaps into a jeep.
+939,./training/JL_train/male1_angry_8a_2.wav,Linda asks for more darts.
+940,./training/JL_train/male1_angry_8b_1.wav,Linda asks for more darts.
+941,./training/JL_train/male1_angry_8b_2.wav,Linda asks for more darts.
+942,./training/JL_train/male1_angry_9a_2.wav,Find your boot in this shute.
+943,./training/JL_train/male1_angry_9b_1.wav,Find your boot in this shute.
+944,./training/JL_train/male1_angry_9b_2.wav,Find your boot in this shute.
+945,./training/JL_train/male1_anxious_10a_2.wav,Water harms the new born boy.
+946,./training/JL_train/male1_anxious_10b_1.wav,Water harms the new born boy.
+947,./training/JL_train/male1_anxious_10b_2.wav,Water harms the new born boy.
+948,./training/JL_train/male1_anxious_11a_2.wav,Your results are unbelievable.
+949,./training/JL_train/male1_anxious_11b_1.wav,Your results are unbelievable.
+950,./training/JL_train/male1_anxious_11b_2.wav,Your results are unbelievable.
+951,./training/JL_train/male1_anxious_12a_2.wav,We were away a year ago.
+952,./training/JL_train/male1_anxious_12b_1.wav,We were away a year ago.
+953,./training/JL_train/male1_anxious_12b_2.wav,We were away a year ago.
+954,./training/JL_train/male1_anxious_13a_2.wav,How are you doing?
+955,./training/JL_train/male1_anxious_13b_1.wav,How are you doing?
+956,./training/JL_train/male1_anxious_13b_2.wav,How are you doing?
+957,./training/JL_train/male1_anxious_14a_2.wav,I am so worried about my exam results.
+958,./training/JL_train/male1_anxious_14b_1.wav,I am so worried about my exam results.
+959,./training/JL_train/male1_anxious_14b_2.wav,I am so worried about my exam results.
+960,./training/JL_train/male1_anxious_15a_2.wav,I am not sure how severe the wound is!
+961,./training/JL_train/male1_anxious_15b_1.wav,I am not sure how severe the wound is!
+962,./training/JL_train/male1_anxious_15b_2.wav,I am not sure how severe the wound is!
+963,./training/JL_train/male1_anxious_1a_2.wav,Tom beats that farmer.
+964,./training/JL_train/male1_anxious_1b_1.wav,Tom beats that farmer.
+965,./training/JL_train/male1_anxious_1b_2.wav,Tom beats that farmer.
+966,./training/JL_train/male1_anxious_2a_2.wav,John laughs like your father.
+967,./training/JL_train/male1_anxious_2b_1.wav,John laughs like your father.
+968,./training/JL_train/male1_anxious_2b_2.wav,John laughs like your father.
+969,./training/JL_train/male1_anxious_3a_2.wav,The seed is buried in deep.
+970,./training/JL_train/male1_anxious_3b_1.wav,The seed is buried in deep.
+971,./training/JL_train/male1_anxious_3b_2.wav,The seed is buried in deep.
+972,./training/JL_train/male1_anxious_4a_2.wav,Taylor likes stewed asian food.
+973,./training/JL_train/male1_anxious_4b_1.wav,Taylor likes stewed asian food.
+974,./training/JL_train/male1_anxious_4b_2.wav,Taylor likes stewed asian food.
+975,./training/JL_train/male1_anxious_5a_2.wav,The lord swims in the sea.
+976,./training/JL_train/male1_anxious_5b_1.wav,The lord swims in the sea.
+977,./training/JL_train/male1_anxious_5b_2.wav,The lord swims in the sea.
+978,./training/JL_train/male1_anxious_6a_2.wav,Jack views an art piece.
+979,./training/JL_train/male1_anxious_6b_1.wav,Jack views an art piece.
+980,./training/JL_train/male1_anxious_6b_2.wav,Jack views an art piece.
+981,./training/JL_train/male1_anxious_7a_2.wav,Carl leaps into a jeep.
+982,./training/JL_train/male1_anxious_7b_1.wav,Carl leaps into a jeep.
+983,./training/JL_train/male1_anxious_7b_2.wav,Carl leaps into a jeep.
+984,./training/JL_train/male1_anxious_8a_2.wav,Linda asks for more darts.
+985,./training/JL_train/male1_anxious_8b_1.wav,Linda asks for more darts.
+986,./training/JL_train/male1_anxious_8b_2.wav,Linda asks for more darts.
+987,./training/JL_train/male1_anxious_9a_2.wav,Find your boot in this shute.
+988,./training/JL_train/male1_anxious_9b_1.wav,Find your boot in this shute.
+989,./training/JL_train/male1_anxious_9b_2.wav,Find your boot in this shute.
+990,./training/JL_train/male1_apologetic_10a_2.wav,Water harms the new born boy.
+991,./training/JL_train/male1_apologetic_10b_1.wav,Water harms the new born boy.
+992,./training/JL_train/male1_apologetic_10b_2.wav,Water harms the new born boy.
+993,./training/JL_train/male1_apologetic_11a_2.wav,Your results are unbelievable.
+994,./training/JL_train/male1_apologetic_11b_1.wav,Your results are unbelievable.
+995,./training/JL_train/male1_apologetic_11b_2.wav,Your results are unbelievable.
+996,./training/JL_train/male1_apologetic_12a_2.wav,We were away a year ago.
+997,./training/JL_train/male1_apologetic_12b_1.wav,We were away a year ago.
+998,./training/JL_train/male1_apologetic_12b_2.wav,We were away a year ago.
+999,./training/JL_train/male1_apologetic_13a_2.wav,How are you doing?
+1000,./training/JL_train/male1_apologetic_13b_1.wav,How are you doing?
+1001,./training/JL_train/male1_apologetic_13b_2.wav,How are you doing?
+1002,./training/JL_train/male1_apologetic_14a_2.wav,I owe you an apology.
+1003,./training/JL_train/male1_apologetic_14b_1.wav,I owe you an apology.
+1004,./training/JL_train/male1_apologetic_14b_2.wav,I owe you an apology.
+1005,./training/JL_train/male1_apologetic_15a_2.wav,"Forgive me, but I must leave now"
+1006,./training/JL_train/male1_apologetic_15b_1.wav,"Forgive me, but I must leave now"
+1007,./training/JL_train/male1_apologetic_15b_2.wav,"Forgive me, but I must leave now"
+1008,./training/JL_train/male1_apologetic_1a_2.wav,Tom beats that farmer.
+1009,./training/JL_train/male1_apologetic_1b_1.wav,Tom beats that farmer.
+1010,./training/JL_train/male1_apologetic_1b_2.wav,Tom beats that farmer.
+1011,./training/JL_train/male1_apologetic_2a_2.wav,John laughs like your father.
+1012,./training/JL_train/male1_apologetic_2b_1.wav,John laughs like your father.
+1013,./training/JL_train/male1_apologetic_2b_2.wav,John laughs like your father.
+1014,./training/JL_train/male1_apologetic_3a_2.wav,The seed is buried in deep.
+1015,./training/JL_train/male1_apologetic_3b_1.wav,The seed is buried in deep.
+1016,./training/JL_train/male1_apologetic_3b_2.wav,The seed is buried in deep.
+1017,./training/JL_train/male1_apologetic_4a_2.wav,Taylor likes stewed asian food.
+1018,./training/JL_train/male1_apologetic_4b_1.wav,Taylor likes stewed asian food.
+1019,./training/JL_train/male1_apologetic_4b_2.wav,Taylor likes stewed asian food.
+1020,./training/JL_train/male1_apologetic_5a_2.wav,The lord swims in the sea.
+1021,./training/JL_train/male1_apologetic_5b_1.wav,The lord swims in the sea.
+1022,./training/JL_train/male1_apologetic_5b_2.wav,The lord swims in the sea.
+1023,./training/JL_train/male1_apologetic_6a_2.wav,Jack views an art piece.
+1024,./training/JL_train/male1_apologetic_6b_1.wav,Jack views an art piece.
+1025,./training/JL_train/male1_apologetic_6b_2.wav,Jack views an art piece.
+1026,./training/JL_train/male1_apologetic_7a_2.wav,Carl leaps into a jeep.
+1027,./training/JL_train/male1_apologetic_7b_1.wav,Carl leaps into a jeep.
+1028,./training/JL_train/male1_apologetic_7b_2.wav,Carl leaps into a jeep.
+1029,./training/JL_train/male1_apologetic_8a_2.wav,Linda asks for more darts.
+1030,./training/JL_train/male1_apologetic_8b_1.wav,Linda asks for more darts.
+1031,./training/JL_train/male1_apologetic_8b_2.wav,Linda asks for more darts.
+1032,./training/JL_train/male1_apologetic_9a_2.wav,Find your boot in this shute.
+1033,./training/JL_train/male1_apologetic_9b_1.wav,Find your boot in this shute.
+1034,./training/JL_train/male1_apologetic_9b_2.wav,Find your boot in this shute.
+1035,./training/JL_train/male1_assertive_10a_2.wav,Water harms the new born boy.
+1036,./training/JL_train/male1_assertive_10b_1.wav,Water harms the new born boy.
+1037,./training/JL_train/male1_assertive_10b_2.wav,Water harms the new born boy.
+1038,./training/JL_train/male1_assertive_11a_2.wav,Your results are unbelievable.
+1039,./training/JL_train/male1_assertive_11b_1.wav,Your results are unbelievable.
+1040,./training/JL_train/male1_assertive_11b_2.wav,Your results are unbelievable.
+1041,./training/JL_train/male1_assertive_12a_2.wav,We were away a year ago.
+1042,./training/JL_train/male1_assertive_12b_1.wav,We were away a year ago.
+1043,./training/JL_train/male1_assertive_12b_2.wav,We were away a year ago.
+1044,./training/JL_train/male1_assertive_13a_2.wav,How are you doing?
+1045,./training/JL_train/male1_assertive_13b_1.wav,How are you doing?
+1046,./training/JL_train/male1_assertive_13b_2.wav,How are you doing?
+1047,./training/JL_train/male1_assertive_14a_2.wav,Please try to do your exercises next time.
+1048,./training/JL_train/male1_assertive_14b_1.wav,Please try to do your exercises next time.
+1049,./training/JL_train/male1_assertive_14b_2.wav,Please try to do your exercises next time.
+1050,./training/JL_train/male1_assertive_15a_2.wav,I will think about it and get back to you.
+1051,./training/JL_train/male1_assertive_15b_1.wav,I will think about it and get back to you.
+1052,./training/JL_train/male1_assertive_15b_2.wav,I will think about it and get back to you.
+1053,./training/JL_train/male1_assertive_1a_2.wav,Tom beats that farmer.
+1054,./training/JL_train/male1_assertive_1b_1.wav,Tom beats that farmer.
+1055,./training/JL_train/male1_assertive_1b_2.wav,Tom beats that farmer.
+1056,./training/JL_train/male1_assertive_2a_2.wav,John laughs like your father.
+1057,./training/JL_train/male1_assertive_2b_1.wav,John laughs like your father.
+1058,./training/JL_train/male1_assertive_2b_2.wav,John laughs like your father.
+1059,./training/JL_train/male1_assertive_3a_2.wav,The seed is buried in deep.
+1060,./training/JL_train/male1_assertive_3b_1.wav,The seed is buried in deep.
+1061,./training/JL_train/male1_assertive_3b_2.wav,The seed is buried in deep.
+1062,./training/JL_train/male1_assertive_4a_2.wav,Taylor likes stewed asian food.
+1063,./training/JL_train/male1_assertive_4b_1.wav,Taylor likes stewed asian food.
+1064,./training/JL_train/male1_assertive_4b_2.wav,Taylor likes stewed asian food.
+1065,./training/JL_train/male1_assertive_5a_2.wav,The lord swims in the sea.
+1066,./training/JL_train/male1_assertive_5b_1.wav,The lord swims in the sea.
+1067,./training/JL_train/male1_assertive_5b_2.wav,The lord swims in the sea.
+1068,./training/JL_train/male1_assertive_6a_2.wav,Jack views an art piece.
+1069,./training/JL_train/male1_assertive_6b_1.wav,Jack views an art piece.
+1070,./training/JL_train/male1_assertive_6b_2.wav,Jack views an art piece.
+1071,./training/JL_train/male1_assertive_7a_2.wav,Carl leaps into a jeep.
+1072,./training/JL_train/male1_assertive_7b_1.wav,Carl leaps into a jeep.
+1073,./training/JL_train/male1_assertive_7b_2.wav,Carl leaps into a jeep.
+1074,./training/JL_train/male1_assertive_8a_2.wav,Linda asks for more darts.
+1075,./training/JL_train/male1_assertive_8b_1.wav,Linda asks for more darts.
+1076,./training/JL_train/male1_assertive_8b_2.wav,Linda asks for more darts.
+1077,./training/JL_train/male1_assertive_9a_2.wav,Find your boot in this shute.
+1078,./training/JL_train/male1_assertive_9b_1.wav,Find your boot in this shute.
+1079,./training/JL_train/male1_assertive_9b_2.wav,Find your boot in this shute.
+1080,./training/JL_train/male1_concerned_10a_2.wav,Water harms the new born boy.
+1081,./training/JL_train/male1_concerned_10b_1.wav,Water harms the new born boy.
+1082,./training/JL_train/male1_concerned_10b_2.wav,Water harms the new born boy.
+1083,./training/JL_train/male1_concerned_11a_2.wav,Your results are unbelievable.
+1084,./training/JL_train/male1_concerned_11b_1.wav,Your results are unbelievable.
+1085,./training/JL_train/male1_concerned_11b_2.wav,Your results are unbelievable.
+1086,./training/JL_train/male1_concerned_12a_2.wav,We were away a year ago.
+1087,./training/JL_train/male1_concerned_12b_1.wav,We were away a year ago.
+1088,./training/JL_train/male1_concerned_12b_2.wav,We were away a year ago.
+1089,./training/JL_train/male1_concerned_13a_2.wav,How are you doing?
+1090,./training/JL_train/male1_concerned_13b_1.wav,How are you doing?
+1091,./training/JL_train/male1_concerned_13b_2.wav,How are you doing?
+1092,./training/JL_train/male1_concerned_14a_2.wav,It seems like you are taking a long time.
+1093,./training/JL_train/male1_concerned_14b_1.wav,It seems like you are taking a long time.
+1094,./training/JL_train/male1_concerned_14b_2.wav,It seems like you are taking a long time.
+1095,./training/JL_train/male1_concerned_15a_2.wav,I know how frustrating it can be.
+1096,./training/JL_train/male1_concerned_15b_1.wav,I know how frustrating it can be.
+1097,./training/JL_train/male1_concerned_15b_2.wav,I know how frustrating it can be.
+1098,./training/JL_train/male1_concerned_1a_2.wav,Tom beats that farmer.
+1099,./training/JL_train/male1_concerned_1b_1.wav,Tom beats that farmer.
+1100,./training/JL_train/male1_concerned_1b_2.wav,Tom beats that farmer.
+1101,./training/JL_train/male1_concerned_2a_2.wav,John laughs like your father.
+1102,./training/JL_train/male1_concerned_2b_1.wav,John laughs like your father.
+1103,./training/JL_train/male1_concerned_2b_2.wav,John laughs like your father.
+1104,./training/JL_train/male1_concerned_3a_2.wav,The seed is buried in deep.
+1105,./training/JL_train/male1_concerned_3b_1.wav,The seed is buried in deep.
+1106,./training/JL_train/male1_concerned_3b_2.wav,The seed is buried in deep.
+1107,./training/JL_train/male1_concerned_4a_2.wav,Taylor likes stewed asian food.
+1108,./training/JL_train/male1_concerned_4b_1.wav,Taylor likes stewed asian food.
+1109,./training/JL_train/male1_concerned_4b_2.wav,Taylor likes stewed asian food.
+1110,./training/JL_train/male1_concerned_5a_2.wav,The lord swims in the sea.
+1111,./training/JL_train/male1_concerned_5b_1.wav,The lord swims in the sea.
+1112,./training/JL_train/male1_concerned_5b_2.wav,The lord swims in the sea.
+1113,./training/JL_train/male1_concerned_6a_2.wav,Jack views an art piece.
+1114,./training/JL_train/male1_concerned_6b_1.wav,Jack views an art piece.
+1115,./training/JL_train/male1_concerned_6b_2.wav,Jack views an art piece.
+1116,./training/JL_train/male1_concerned_7a_2.wav,Carl leaps into a jeep.
+1117,./training/JL_train/male1_concerned_7b_1.wav,Carl leaps into a jeep.
+1118,./training/JL_train/male1_concerned_7b_2.wav,Carl leaps into a jeep.
+1119,./training/JL_train/male1_concerned_8a_2.wav,Linda asks for more darts.
+1120,./training/JL_train/male1_concerned_8b_1.wav,Linda asks for more darts.
+1121,./training/JL_train/male1_concerned_8b_2.wav,Linda asks for more darts.
+1122,./training/JL_train/male1_concerned_9a_2.wav,Find your boot in this shute.
+1123,./training/JL_train/male1_concerned_9b_1.wav,Find your boot in this shute.
+1124,./training/JL_train/male1_concerned_9b_2.wav,Find your boot in this shute.
+1125,./training/JL_train/male1_encouraging_10a_2.wav,Water harms the new born boy.
+1126,./training/JL_train/male1_encouraging_10b_1.wav,Water harms the new born boy.
+1127,./training/JL_train/male1_encouraging_10b_2.wav,Water harms the new born boy.
+1128,./training/JL_train/male1_encouraging_11a_2.wav,Your results are unbelievable.
+1129,./training/JL_train/male1_encouraging_11b_1.wav,Your results are unbelievable.
+1130,./training/JL_train/male1_encouraging_11b_2.wav,Your results are unbelievable.
+1131,./training/JL_train/male1_encouraging_12a_2.wav,We were away a year ago.
+1132,./training/JL_train/male1_encouraging_12b_1.wav,We were away a year ago.
+1133,./training/JL_train/male1_encouraging_12b_2.wav,We were away a year ago.
+1134,./training/JL_train/male1_encouraging_13a_2.wav,How are you doing?
+1135,./training/JL_train/male1_encouraging_13b_1.wav,How are you doing?
+1136,./training/JL_train/male1_encouraging_13b_2.wav,How are you doing?
+1137,./training/JL_train/male1_encouraging_14a_2.wav,Thank you for your help!
+1138,./training/JL_train/male1_encouraging_14b_1.wav,Thank you for your help!
+1139,./training/JL_train/male1_encouraging_14b_2.wav,Thank you for your help!
+1140,./training/JL_train/male1_encouraging_15a_2.wav,You should be proud of yourself!
+1141,./training/JL_train/male1_encouraging_15b_1.wav,You should be proud of yourself!
+1142,./training/JL_train/male1_encouraging_15b_2.wav,You should be proud of yourself!
+1143,./training/JL_train/male1_encouraging_1a_2.wav,Tom beats that farmer.
+1144,./training/JL_train/male1_encouraging_1b_1.wav,Tom beats that farmer.
+1145,./training/JL_train/male1_encouraging_1b_2.wav,Tom beats that farmer.
+1146,./training/JL_train/male1_encouraging_2a_2.wav,John laughs like your father.
+1147,./training/JL_train/male1_encouraging_2b_1.wav,John laughs like your father.
+1148,./training/JL_train/male1_encouraging_2b_2.wav,John laughs like your father.
+1149,./training/JL_train/male1_encouraging_3a_2.wav,The seed is buried in deep.
+1150,./training/JL_train/male1_encouraging_3b_1.wav,The seed is buried in deep.
+1151,./training/JL_train/male1_encouraging_3b_2.wav,The seed is buried in deep.
+1152,./training/JL_train/male1_encouraging_4a_2.wav,Taylor likes stewed asian food.
+1153,./training/JL_train/male1_encouraging_4b_1.wav,Taylor likes stewed asian food.
+1154,./training/JL_train/male1_encouraging_4b_2.wav,Taylor likes stewed asian food.
+1155,./training/JL_train/male1_encouraging_5a_2.wav,The lord swims in the sea.
+1156,./training/JL_train/male1_encouraging_5b_1.wav,The lord swims in the sea.
+1157,./training/JL_train/male1_encouraging_5b_2.wav,The lord swims in the sea.
+1158,./training/JL_train/male1_encouraging_6a_2.wav,Jack views an art piece.
+1159,./training/JL_train/male1_encouraging_6b_1.wav,Jack views an art piece.
+1160,./training/JL_train/male1_encouraging_6b_2.wav,Jack views an art piece.
+1161,./training/JL_train/male1_encouraging_7a_2.wav,Carl leaps into a jeep.
+1162,./training/JL_train/male1_encouraging_7b_1.wav,Carl leaps into a jeep.
+1163,./training/JL_train/male1_encouraging_7b_2.wav,Carl leaps into a jeep.
+1164,./training/JL_train/male1_encouraging_8a_2.wav,Linda asks for more darts.
+1165,./training/JL_train/male1_encouraging_8b_1.wav,Linda asks for more darts.
+1166,./training/JL_train/male1_encouraging_8b_2.wav,Linda asks for more darts.
+1167,./training/JL_train/male1_encouraging_9a_2.wav,Find your boot in this shute.
+1168,./training/JL_train/male1_encouraging_9b_1.wav,Find your boot in this shute.
+1169,./training/JL_train/male1_encouraging_9b_2.wav,Find your boot in this shute.
+1170,./training/JL_train/male1_excited_10a_2.wav,Water harms the new born boy.
+1171,./training/JL_train/male1_excited_10b_1.wav,Water harms the new born boy.
+1172,./training/JL_train/male1_excited_10b_2.wav,Water harms the new born boy.
+1173,./training/JL_train/male1_excited_11a_2.wav,I have not seen my tooth.
+1174,./training/JL_train/male1_excited_11b_1.wav,I have not seen my tooth.
+1175,./training/JL_train/male1_excited_11b_2.wav,I have not seen my tooth.
+1176,./training/JL_train/male1_excited_12a_2.wav,Work hard or you lose.
+1177,./training/JL_train/male1_excited_12b_1.wav,Work hard or you lose.
+1178,./training/JL_train/male1_excited_12b_2.wav,Work hard or you lose.
+1179,./training/JL_train/male1_excited_13a_2.wav,Jim saw the port.
+1180,./training/JL_train/male1_excited_13b_1.wav,Jim saw the port.
+1181,./training/JL_train/male1_excited_13b_2.wav,Jim saw the port.
+1182,./training/JL_train/male1_excited_14a_2.wav,They should start to talk.
+1183,./training/JL_train/male1_excited_14b_1.wav,They should start to talk.
+1184,./training/JL_train/male1_excited_14b_2.wav,They should start to talk.
+1185,./training/JL_train/male1_excited_15a_2.wav,Sound the horn if you need more.
+1186,./training/JL_train/male1_excited_15b_1.wav,Sound the horn if you need more.
+1187,./training/JL_train/male1_excited_15b_2.wav,Sound the horn if you need more.
+1188,./training/JL_train/male1_excited_1a_2.wav,Tom beats that farmer.
+1189,./training/JL_train/male1_excited_1b_1.wav,Tom beats that farmer.
+1190,./training/JL_train/male1_excited_1b_2.wav,Tom beats that farmer.
+1191,./training/JL_train/male1_excited_2a_2.wav,John laughs like your father.
+1192,./training/JL_train/male1_excited_2b_1.wav,John laughs like your father.
+1193,./training/JL_train/male1_excited_2b_2.wav,John laughs like your father.
+1194,./training/JL_train/male1_excited_3a_2.wav,The seed is buried in deep.
+1195,./training/JL_train/male1_excited_3b_1.wav,The seed is buried in deep.
+1196,./training/JL_train/male1_excited_3b_2.wav,The seed is buried in deep.
+1197,./training/JL_train/male1_excited_4a_2.wav,Taylor likes stewed Asian food.
+1198,./training/JL_train/male1_excited_4b_1.wav,Taylor likes stewed Asian food.
+1199,./training/JL_train/male1_excited_4b_2.wav,Taylor likes stewed Asian food.
+1200,./training/JL_train/male1_excited_5a_2.wav,The lord swims in the sea.
+1201,./training/JL_train/male1_excited_5b_1.wav,The lord swims in the sea.
+1202,./training/JL_train/male1_excited_5b_2.wav,The lord swims in the sea.
+1203,./training/JL_train/male1_excited_6a_2.wav,Jack views an art piece.
+1204,./training/JL_train/male1_excited_6b_1.wav,Jack views an art piece.
+1205,./training/JL_train/male1_excited_6b_2.wav,Jack views an art piece.
+1206,./training/JL_train/male1_excited_7a_2.wav,Carl leaps into a jeep.
+1207,./training/JL_train/male1_excited_7b_1.wav,Carl leaps into a jeep.
+1208,./training/JL_train/male1_excited_7b_2.wav,Carl leaps into a jeep.
+1209,./training/JL_train/male1_excited_8a_2.wav,Linda asks for more darts.
+1210,./training/JL_train/male1_excited_8b_1.wav,Linda asks for more darts.
+1211,./training/JL_train/male1_excited_8b_2.wav,Linda asks for more darts.
+1212,./training/JL_train/male1_excited_9a_2.wav,Find your boot in this shute.
+1213,./training/JL_train/male1_excited_9b_1.wav,Find your boot in this shute.
+1214,./training/JL_train/male1_excited_9b_2.wav,Find your boot in this shute.
+1215,./training/JL_train/male1_happy_10a_2.wav,Water harms the new born boy.
+1216,./training/JL_train/male1_happy_10b_1.wav,Water harms the new born boy.
+1217,./training/JL_train/male1_happy_10b_2.wav,Water harms the new born boy.
+1218,./training/JL_train/male1_happy_11a_2.wav,I have not seen my tooth.
+1219,./training/JL_train/male1_happy_11b_1.wav,I have not seen my tooth.
+1220,./training/JL_train/male1_happy_11b_2.wav,I have not seen my tooth.
+1221,./training/JL_train/male1_happy_12a_2.wav,Work hard or you lose.
+1222,./training/JL_train/male1_happy_12b_1.wav,Work hard or you lose.
+1223,./training/JL_train/male1_happy_12b_2.wav,Work hard or you lose.
+1224,./training/JL_train/male1_happy_13a_2.wav,Jim saw the port.
+1225,./training/JL_train/male1_happy_13b_1.wav,Jim saw the port.
+1226,./training/JL_train/male1_happy_13b_2.wav,Jim saw the port.
+1227,./training/JL_train/male1_happy_14a_2.wav,They should start to talk.
+1228,./training/JL_train/male1_happy_14b_1.wav,They should start to talk.
+1229,./training/JL_train/male1_happy_14b_2.wav,They should start to talk.
+1230,./training/JL_train/male1_happy_15a_2.wav,Sound the horn if you need more.
+1231,./training/JL_train/male1_happy_15b_1.wav,Sound the horn if you need more.
+1232,./training/JL_train/male1_happy_15b_2.wav,Sound the horn if you need more.
+1233,./training/JL_train/male1_happy_1a_2.wav,Tom beats that farmer.
+1234,./training/JL_train/male1_happy_1b_1.wav,Tom beats that farmer.
+1235,./training/JL_train/male1_happy_1b_2.wav,Tom beats that farmer.
+1236,./training/JL_train/male1_happy_2a_2.wav,John laughs like your father.
+1237,./training/JL_train/male1_happy_2b_1.wav,John laughs like your father.
+1238,./training/JL_train/male1_happy_2b_2.wav,John laughs like your father.
+1239,./training/JL_train/male1_happy_3a_2.wav,The seed is buried in deep.
+1240,./training/JL_train/male1_happy_3b_1.wav,The seed is buried in deep.
+1241,./training/JL_train/male1_happy_3b_2.wav,The seed is buried in deep.
+1242,./training/JL_train/male1_happy_4a_2.wav,Taylor likes stewed Asian food.
+1243,./training/JL_train/male1_happy_4b_1.wav,Taylor likes stewed Asian food.
+1244,./training/JL_train/male1_happy_4b_2.wav,Taylor likes stewed Asian food.
+1245,./training/JL_train/male1_happy_5a_2.wav,The lord swims in the sea.
+1246,./training/JL_train/male1_happy_5b_1.wav,The lord swims in the sea.
+1247,./training/JL_train/male1_happy_5b_2.wav,The lord swims in the sea.
+1248,./training/JL_train/male1_happy_6a_2.wav,Jack views an art piece.
+1249,./training/JL_train/male1_happy_6b_1.wav,Jack views an art piece.
+1250,./training/JL_train/male1_happy_6b_2.wav,Jack views an art piece.
+1251,./training/JL_train/male1_happy_7a_2.wav,Carl leaps into a jeep.
+1252,./training/JL_train/male1_happy_7b_1.wav,Carl leaps into a jeep.
+1253,./training/JL_train/male1_happy_7b_2.wav,Carl leaps into a jeep.
+1254,./training/JL_train/male1_happy_8a_2.wav,Linda asks for more darts.
+1255,./training/JL_train/male1_happy_8b_1.wav,Linda asks for more darts.
+1256,./training/JL_train/male1_happy_8b_2.wav,Linda asks for more darts.
+1257,./training/JL_train/male1_happy_9a_2.wav,Find your boot in this shute.
+1258,./training/JL_train/male1_happy_9b_1.wav,Find your boot in this shute.
+1259,./training/JL_train/male1_happy_9b_2.wav,Find your boot in this shute.
+1260,./training/JL_train/male1_neutral_10a_2.wav,Water harms the new born boy.
+1261,./training/JL_train/male1_neutral_10b_1.wav,Water harms the new born boy.
+1262,./training/JL_train/male1_neutral_10b_2.wav,Water harms the new born boy.
+1263,./training/JL_train/male1_neutral_11a_2.wav,I have not seen my tooth.
+1264,./training/JL_train/male1_neutral_11b_1.wav,I have not seen my tooth.
+1265,./training/JL_train/male1_neutral_11b_2.wav,I have not seen my tooth.
+1266,./training/JL_train/male1_neutral_12a_2.wav,Work hard or you lose.
+1267,./training/JL_train/male1_neutral_12b_1.wav,Work hard or you lose.
+1268,./training/JL_train/male1_neutral_12b_2.wav,Work hard or you lose.
+1269,./training/JL_train/male1_neutral_13a_2.wav,Jim saw the port.
+1270,./training/JL_train/male1_neutral_13b_1.wav,Jim saw the port.
+1271,./training/JL_train/male1_neutral_13b_2.wav,Jim saw the port.
+1272,./training/JL_train/male1_neutral_14a_2.wav,They should start to talk.
+1273,./training/JL_train/male1_neutral_14b_1.wav,They should start to talk.
+1274,./training/JL_train/male1_neutral_14b_2.wav,They should start to talk.
+1275,./training/JL_train/male1_neutral_15a_2.wav,Sound the horn if you need more.
+1276,./training/JL_train/male1_neutral_15b_1.wav,Sound the horn if you need more.
+1277,./training/JL_train/male1_neutral_15b_2.wav,Sound the horn if you need more.
+1278,./training/JL_train/male1_neutral_1a_2.wav,Tom beats that farmer.
+1279,./training/JL_train/male1_neutral_1b_1.wav,Tom beats that farmer.
+1280,./training/JL_train/male1_neutral_1b_2.wav,Tom beats that farmer.
+1281,./training/JL_train/male1_neutral_2a_2.wav,John laughs like your father.
+1282,./training/JL_train/male1_neutral_2b_1.wav,John laughs like your father.
+1283,./training/JL_train/male1_neutral_2b_2.wav,John laughs like your father.
+1284,./training/JL_train/male1_neutral_3a_2.wav,The seed is buried in deep.
+1285,./training/JL_train/male1_neutral_3b_1.wav,The seed is buried in deep.
+1286,./training/JL_train/male1_neutral_3b_2.wav,The seed is buried in deep.
+1287,./training/JL_train/male1_neutral_4a_2.wav,Taylor likes stewed Asian food.
+1288,./training/JL_train/male1_neutral_4b_1.wav,Taylor likes stewed Asian food.
+1289,./training/JL_train/male1_neutral_4b_2.wav,Taylor likes stewed Asian food.
+1290,./training/JL_train/male1_neutral_5a_2.wav,The lord swims in the sea.
+1291,./training/JL_train/male1_neutral_5b_1.wav,The lord swims in the sea.
+1292,./training/JL_train/male1_neutral_5b_2.wav,The lord swims in the sea.
+1293,./training/JL_train/male1_neutral_6a_2.wav,Jack views an art piece.
+1294,./training/JL_train/male1_neutral_6b_1.wav,Jack views an art piece.
+1295,./training/JL_train/male1_neutral_6b_2.wav,Jack views an art piece.
+1296,./training/JL_train/male1_neutral_7a_2.wav,Carl leaps into a jeep.
+1297,./training/JL_train/male1_neutral_7b_1.wav,Carl leaps into a jeep.
+1298,./training/JL_train/male1_neutral_7b_2.wav,Carl leaps into a jeep.
+1299,./training/JL_train/male1_neutral_8a_2.wav,Linda asks for more darts.
+1300,./training/JL_train/male1_neutral_8b_1.wav,Linda asks for more darts.
+1301,./training/JL_train/male1_neutral_8b_2.wav,Linda asks for more darts.
+1302,./training/JL_train/male1_neutral_9a_2.wav,Find your boot in this shute.
+1303,./training/JL_train/male1_neutral_9b_1.wav,Find your boot in this shute.
+1304,./training/JL_train/male1_neutral_9b_2.wav,Find your boot in this shute.
+1305,./training/JL_train/male1_sad_10a_2.wav,Water harms the new born boy.
+1306,./training/JL_train/male1_sad_10b_1.wav,Water harms the new born boy.
+1307,./training/JL_train/male1_sad_10b_2.wav,Water harms the new born boy.
+1308,./training/JL_train/male1_sad_11a_2.wav,I have not seen my tooth.
+1309,./training/JL_train/male1_sad_11b_1.wav,I have not seen my tooth.
+1310,./training/JL_train/male1_sad_11b_2.wav,I have not seen my tooth.
+1311,./training/JL_train/male1_sad_12a_2.wav,Work hard or you lose.
+1312,./training/JL_train/male1_sad_12b_1.wav,Work hard or you lose.
+1313,./training/JL_train/male1_sad_12b_2.wav,Work hard or you lose.
+1314,./training/JL_train/male1_sad_13a_2.wav,Jim saw the port.
+1315,./training/JL_train/male1_sad_13b_1.wav,Jim saw the port.
+1316,./training/JL_train/male1_sad_13b_2.wav,Jim saw the port.
+1317,./training/JL_train/male1_sad_14a_2.wav,They should start to talk.
+1318,./training/JL_train/male1_sad_14b_1.wav,They should start to talk.
+1319,./training/JL_train/male1_sad_14b_2.wav,They should start to talk.
+1320,./training/JL_train/male1_sad_15a_2.wav,Sound the horn if you need more.
+1321,./training/JL_train/male1_sad_15b_1.wav,Sound the horn if you need more.
+1322,./training/JL_train/male1_sad_15b_2.wav,Sound the horn if you need more.
+1323,./training/JL_train/male1_sad_1a_2.wav,Tom beats that farmer.
+1324,./training/JL_train/male1_sad_1b_1.wav,Tom beats that farmer.
+1325,./training/JL_train/male1_sad_1b_2.wav,Tom beats that farmer.
+1326,./training/JL_train/male1_sad_2a_2.wav,John laughs like your father.
+1327,./training/JL_train/male1_sad_2b_1.wav,John laughs like your father.
+1328,./training/JL_train/male1_sad_2b_2.wav,John laughs like your father.
+1329,./training/JL_train/male1_sad_3a_2.wav,The seed is buried in deep.
+1330,./training/JL_train/male1_sad_3b_1.wav,The seed is buried in deep.
+1331,./training/JL_train/male1_sad_3b_2.wav,The seed is buried in deep.
+1332,./training/JL_train/male1_sad_4a_2.wav,Taylor likes stewed Asian food.
+1333,./training/JL_train/male1_sad_4b_1.wav,Taylor likes stewed Asian food.
+1334,./training/JL_train/male1_sad_4b_2.wav,Taylor likes stewed Asian food.
+1335,./training/JL_train/male1_sad_5a_2.wav,The lord swims in the sea.
+1336,./training/JL_train/male1_sad_5b_1.wav,The lord swims in the sea.
+1337,./training/JL_train/male1_sad_5b_2.wav,The lord swims in the sea.
+1338,./training/JL_train/male1_sad_6a_2.wav,Jack views an art piece.
+1339,./training/JL_train/male1_sad_6b_1.wav,Jack views an art piece.
+1340,./training/JL_train/male1_sad_6b_2.wav,Jack views an art piece.
+1341,./training/JL_train/male1_sad_7a_2.wav,Carl leaps into a jeep.
+1342,./training/JL_train/male1_sad_7b_1.wav,Carl leaps into a jeep.
+1343,./training/JL_train/male1_sad_7b_2.wav,Carl leaps into a jeep.
+1344,./training/JL_train/male1_sad_8a_2.wav,Linda asks for more darts.
+1345,./training/JL_train/male1_sad_8b_1.wav,Linda asks for more darts.
+1346,./training/JL_train/male1_sad_8b_2.wav,Linda asks for more darts.
+1347,./training/JL_train/male1_sad_9a_2.wav,Find your boot in this shute.
+1348,./training/JL_train/male1_sad_9b_1.wav,Find your boot in this shute.
+1349,./training/JL_train/male1_sad_9b_2.wav,Find your boot in this shute.
+1350,./training/JL_train/male2_angry_10a_2.wav,Water harms the new born boy.
+1351,./training/JL_train/male2_angry_10b_1.wav,Water harms the new born boy.
+1352,./training/JL_train/male2_angry_10b_2.wav,Water harms the new born boy.
+1353,./training/JL_train/male2_angry_11a_2.wav,I have not seen my tooth.
+1354,./training/JL_train/male2_angry_11b_1.wav,I have not seen my tooth.
+1355,./training/JL_train/male2_angry_11b_2.wav,I have not seen my tooth.
+1356,./training/JL_train/male2_angry_12a_2.wav,Work hard or you lose.
+1357,./training/JL_train/male2_angry_12b_1.wav,Work hard or you lose.
+1358,./training/JL_train/male2_angry_12b_2.wav,Work hard or you lose.
+1359,./training/JL_train/male2_angry_13a_2.wav,Jim saw the port.
+1360,./training/JL_train/male2_angry_13b_1.wav,Jim saw the port.
+1361,./training/JL_train/male2_angry_13b_2.wav,Jim saw the port.
+1362,./training/JL_train/male2_angry_14a_2.wav,They should start to talk.
+1363,./training/JL_train/male2_angry_14b_1.wav,They should start to talk.
+1364,./training/JL_train/male2_angry_14b_2.wav,They should start to talk.
+1365,./training/JL_train/male2_angry_15a_2.wav,Sound the horn if you need more.
+1366,./training/JL_train/male2_angry_15b_1.wav,Sound the horn if you need more.
+1367,./training/JL_train/male2_angry_15b_2.wav,Sound the horn if you need more.
+1368,./training/JL_train/male2_angry_1a_2.wav,Tom beats that farmer.
+1369,./training/JL_train/male2_angry_1b_1.wav,Tom beats that farmer.
+1370,./training/JL_train/male2_angry_1b_2.wav,Tom beats that farmer.
+1371,./training/JL_train/male2_angry_2a_2.wav,John laughs like your father.
+1372,./training/JL_train/male2_angry_2b_1.wav,John laughs like your father.
+1373,./training/JL_train/male2_angry_2b_2.wav,John laughs like your father.
+1374,./training/JL_train/male2_angry_3a_2.wav,The seed is buried in deep.
+1375,./training/JL_train/male2_angry_3b_1.wav,The seed is buried in deep.
+1376,./training/JL_train/male2_angry_3b_2.wav,The seed is buried in deep.
+1377,./training/JL_train/male2_angry_4a_2.wav,Taylor likes stewed Asian food.
+1378,./training/JL_train/male2_angry_4b_1.wav,Taylor likes stewed Asian food.
+1379,./training/JL_train/male2_angry_4b_2.wav,Taylor likes stewed Asian food.
+1380,./training/JL_train/male2_angry_5a_2.wav,The lord swims in the sea.
+1381,./training/JL_train/male2_angry_5b_1.wav,The lord swims in the sea.
+1382,./training/JL_train/male2_angry_5b_2.wav,The lord swims in the sea.
+1383,./training/JL_train/male2_angry_6a_2.wav,Jack views an art piece.
+1384,./training/JL_train/male2_angry_6b_1.wav,Jack views an art piece.
+1385,./training/JL_train/male2_angry_6b_2.wav,Jack views an art piece.
+1386,./training/JL_train/male2_angry_7a_2.wav,Carl leaps into a jeep.
+1387,./training/JL_train/male2_angry_7b_1.wav,Carl leaps into a jeep.
+1388,./training/JL_train/male2_angry_7b_2.wav,Carl leaps into a jeep.
+1389,./training/JL_train/male2_angry_8a_2.wav,Linda asks for more darts.
+1390,./training/JL_train/male2_angry_8b_1.wav,Linda asks for more darts.
+1391,./training/JL_train/male2_angry_8b_2.wav,Linda asks for more darts.
+1392,./training/JL_train/male2_angry_9a_2.wav,Find your boot in this shute.
+1393,./training/JL_train/male2_angry_9b_1.wav,Find your boot in this shute.
+1394,./training/JL_train/male2_angry_9b_2.wav,Find your boot in this shute.
+1395,./training/JL_train/male2_anxious_10a_2.wav,Water harms the new born boy.
+1396,./training/JL_train/male2_anxious_10b_1.wav,Water harms the new born boy.
+1397,./training/JL_train/male2_anxious_10b_2.wav,Water harms the new born boy.
+1398,./training/JL_train/male2_anxious_11a_2.wav,Your results are unbelievable.
+1399,./training/JL_train/male2_anxious_11b_1.wav,Your results are unbelievable.
+1400,./training/JL_train/male2_anxious_11b_2.wav,Your results are unbelievable.
+1401,./training/JL_train/male2_anxious_12a_2.wav,We were away a year ago.
+1402,./training/JL_train/male2_anxious_12b_1.wav,We were away a year ago.
+1403,./training/JL_train/male2_anxious_12b_2.wav,We were away a year ago.
+1404,./training/JL_train/male2_anxious_13a_2.wav,How are you doing?
+1405,./training/JL_train/male2_anxious_13b_1.wav,How are you doing?
+1406,./training/JL_train/male2_anxious_13b_2.wav,How are you doing?
+1407,./training/JL_train/male2_anxious_14a_2.wav,I am so worried about my exam results.
+1408,./training/JL_train/male2_anxious_14b_1.wav,I am so worried about my exam results.
+1409,./training/JL_train/male2_anxious_14b_2.wav,I am so worried about my exam results.
+1410,./training/JL_train/male2_anxious_15a_2.wav,I am not sure how severe the wound is!
+1411,./training/JL_train/male2_anxious_15b_1.wav,I am not sure how severe the wound is!
+1412,./training/JL_train/male2_anxious_15b_2.wav,I am not sure how severe the wound is!
+1413,./training/JL_train/male2_anxious_1a_2.wav,Tom beats that farmer.
+1414,./training/JL_train/male2_anxious_1b_1.wav,Tom beats that farmer.
+1415,./training/JL_train/male2_anxious_1b_2.wav,Tom beats that farmer.
+1416,./training/JL_train/male2_anxious_2a_2.wav,John laughs like your father.
+1417,./training/JL_train/male2_anxious_2b_1.wav,John laughs like your father.
+1418,./training/JL_train/male2_anxious_2b_2.wav,John laughs like your father.
+1419,./training/JL_train/male2_anxious_3a_2.wav,The seed is buried in deep.
+1420,./training/JL_train/male2_anxious_3b_1.wav,The seed is buried in deep.
+1421,./training/JL_train/male2_anxious_3b_2.wav,The seed is buried in deep.
+1422,./training/JL_train/male2_anxious_4a_2.wav,Taylor likes stewed asian food.
+1423,./training/JL_train/male2_anxious_4b_1.wav,Taylor likes stewed asian food.
+1424,./training/JL_train/male2_anxious_4b_2.wav,Taylor likes stewed asian food.
+1425,./training/JL_train/male2_anxious_5a_2.wav,The lord swims in the sea.
+1426,./training/JL_train/male2_anxious_5b_1.wav,The lord swims in the sea.
+1427,./training/JL_train/male2_anxious_5b_2.wav,The lord swims in the sea.
+1428,./training/JL_train/male2_anxious_6a_2.wav,Jack views an art piece.
+1429,./training/JL_train/male2_anxious_6b_1.wav,Jack views an art piece.
+1430,./training/JL_train/male2_anxious_6b_2.wav,Jack views an art piece.
+1431,./training/JL_train/male2_anxious_7a_2.wav,Carl leaps into a jeep.
+1432,./training/JL_train/male2_anxious_7b_1.wav,Carl leaps into a jeep.
+1433,./training/JL_train/male2_anxious_7b_2.wav,Carl leaps into a jeep.
+1434,./training/JL_train/male2_anxious_8a_2.wav,Linda asks for more darts.
+1435,./training/JL_train/male2_anxious_8b_1.wav,Linda asks for more darts.
+1436,./training/JL_train/male2_anxious_8b_2.wav,Linda asks for more darts.
+1437,./training/JL_train/male2_anxious_9a_2.wav,Find your boot in this shute.
+1438,./training/JL_train/male2_anxious_9b_1.wav,Find your boot in this shute.
+1439,./training/JL_train/male2_anxious_9b_2.wav,Find your boot in this shute.
+1440,./training/JL_train/male2_apologetic_10a_2.wav,Water harms the new born boy.
+1441,./training/JL_train/male2_apologetic_10b_1.wav,Water harms the new born boy.
+1442,./training/JL_train/male2_apologetic_10b_2.wav,Water harms the new born boy.
+1443,./training/JL_train/male2_apologetic_11a_2.wav,Your results are unbelievable.
+1444,./training/JL_train/male2_apologetic_11b_1.wav,Your results are unbelievable.
+1445,./training/JL_train/male2_apologetic_11b_2.wav,Your results are unbelievable.
+1446,./training/JL_train/male2_apologetic_12a_2.wav,We were away a year ago.
+1447,./training/JL_train/male2_apologetic_12b_1.wav,We were away a year ago.
+1448,./training/JL_train/male2_apologetic_12b_2.wav,We were away a year ago.
+1449,./training/JL_train/male2_apologetic_13a_2.wav,How are you doing?
+1450,./training/JL_train/male2_apologetic_13b_1.wav,How are you doing?
+1451,./training/JL_train/male2_apologetic_13b_2.wav,How are you doing?
+1452,./training/JL_train/male2_apologetic_14a_2.wav,I owe you an apology.
+1453,./training/JL_train/male2_apologetic_14b_1.wav,I owe you an apology.
+1454,./training/JL_train/male2_apologetic_14b_2.wav,I owe you an apology.
+1455,./training/JL_train/male2_apologetic_15a_2.wav,"Forgive me, but I must leave now"
+1456,./training/JL_train/male2_apologetic_15b_1.wav,"Forgive me, but I must leave now"
+1457,./training/JL_train/male2_apologetic_15b_2.wav,"Forgive me, but I must leave now"
+1458,./training/JL_train/male2_apologetic_1a_2.wav,Tom beats that farmer.
+1459,./training/JL_train/male2_apologetic_1b_1.wav,Tom beats that farmer.
+1460,./training/JL_train/male2_apologetic_1b_2.wav,Tom beats that farmer.
+1461,./training/JL_train/male2_apologetic_2a_2.wav,John laughs like your father.
+1462,./training/JL_train/male2_apologetic_2b_1.wav,John laughs like your father.
+1463,./training/JL_train/male2_apologetic_2b_2.wav,John laughs like your father.
+1464,./training/JL_train/male2_apologetic_3a_2.wav,The seed is buried in deep.
+1465,./training/JL_train/male2_apologetic_3b_1.wav,The seed is buried in deep.
+1466,./training/JL_train/male2_apologetic_3b_2.wav,The seed is buried in deep.
+1467,./training/JL_train/male2_apologetic_4a_2.wav,Taylor likes stewed asian food.
+1468,./training/JL_train/male2_apologetic_4b_1.wav,Taylor likes stewed asian food.
+1469,./training/JL_train/male2_apologetic_4b_2.wav,Taylor likes stewed asian food.
+1470,./training/JL_train/male2_apologetic_5a_2.wav,The lord swims in the sea.
+1471,./training/JL_train/male2_apologetic_5b_1.wav,The lord swims in the sea.
+1472,./training/JL_train/male2_apologetic_5b_2.wav,The lord swims in the sea.
+1473,./training/JL_train/male2_apologetic_6a_2.wav,Jack views an art piece.
+1474,./training/JL_train/male2_apologetic_6b_1.wav,Jack views an art piece.
+1475,./training/JL_train/male2_apologetic_6b_2.wav,Jack views an art piece.
+1476,./training/JL_train/male2_apologetic_7a_2.wav,Carl leaps into a jeep.
+1477,./training/JL_train/male2_apologetic_7b_1.wav,Carl leaps into a jeep.
+1478,./training/JL_train/male2_apologetic_7b_2.wav,Carl leaps into a jeep.
+1479,./training/JL_train/male2_apologetic_8a_2.wav,Linda asks for more darts.
+1480,./training/JL_train/male2_apologetic_8b_1.wav,Linda asks for more darts.
+1481,./training/JL_train/male2_apologetic_8b_2.wav,Linda asks for more darts.
+1482,./training/JL_train/male2_apologetic_9a_2.wav,Find your boot in this shute.
+1483,./training/JL_train/male2_apologetic_9b_1.wav,Find your boot in this shute.
+1484,./training/JL_train/male2_apologetic_9b_2.wav,Find your boot in this shute.
+1485,./training/JL_train/male2_assertive_10a_2.wav,Water harms the new born boy.
+1486,./training/JL_train/male2_assertive_10b_1.wav,Water harms the new born boy.
+1487,./training/JL_train/male2_assertive_10b_2.wav,Water harms the new born boy.
+1488,./training/JL_train/male2_assertive_11a_2.wav,Your results are unbelievable.
+1489,./training/JL_train/male2_assertive_11b_1.wav,Your results are unbelievable.
+1490,./training/JL_train/male2_assertive_11b_2.wav,Your results are unbelievable.
+1491,./training/JL_train/male2_assertive_12a_2.wav,We were away a year ago.
+1492,./training/JL_train/male2_assertive_12b_1.wav,We were away a year ago.
+1493,./training/JL_train/male2_assertive_12b_2.wav,We were away a year ago.
+1494,./training/JL_train/male2_assertive_13a_2.wav,How are you doing?
+1495,./training/JL_train/male2_assertive_13b_1.wav,How are you doing?
+1496,./training/JL_train/male2_assertive_13b_2.wav,How are you doing?
+1497,./training/JL_train/male2_assertive_14a_2.wav,Please try to do your exercises next time.
+1498,./training/JL_train/male2_assertive_14b_1.wav,Please try to do your exercises next time.
+1499,./training/JL_train/male2_assertive_14b_2.wav,Please try to do your exercises next time.
+1500,./training/JL_train/male2_assertive_15a_2.wav,I will think about it and get back to you.
+1501,./training/JL_train/male2_assertive_15b_1.wav,I will think about it and get back to you.
+1502,./training/JL_train/male2_assertive_15b_2.wav,I will think about it and get back to you.
+1503,./training/JL_train/male2_assertive_1a_2.wav,Tom beats that farmer.
+1504,./training/JL_train/male2_assertive_1b_1.wav,Tom beats that farmer.
+1505,./training/JL_train/male2_assertive_1b_2.wav,Tom beats that farmer.
+1506,./training/JL_train/male2_assertive_2a_2.wav,John laughs like your father.
+1507,./training/JL_train/male2_assertive_2b_1.wav,John laughs like your father.
+1508,./training/JL_train/male2_assertive_2b_2.wav,John laughs like your father.
+1509,./training/JL_train/male2_assertive_3a_2.wav,The seed is buried in deep.
+1510,./training/JL_train/male2_assertive_3b_1.wav,The seed is buried in deep.
+1511,./training/JL_train/male2_assertive_3b_2.wav,The seed is buried in deep.
+1512,./training/JL_train/male2_assertive_4a_2.wav,Taylor likes stewed asian food.
+1513,./training/JL_train/male2_assertive_4b_1.wav,Taylor likes stewed asian food.
+1514,./training/JL_train/male2_assertive_4b_2.wav,Taylor likes stewed asian food.
+1515,./training/JL_train/male2_assertive_5a_2.wav,The lord swims in the sea.
+1516,./training/JL_train/male2_assertive_5b_1.wav,The lord swims in the sea.
+1517,./training/JL_train/male2_assertive_5b_2.wav,The lord swims in the sea.
+1518,./training/JL_train/male2_assertive_6a_2.wav,Jack views an art piece.
+1519,./training/JL_train/male2_assertive_6b_1.wav,Jack views an art piece.
+1520,./training/JL_train/male2_assertive_6b_2.wav,Jack views an art piece.
+1521,./training/JL_train/male2_assertive_7a_2.wav,Carl leaps into a jeep.
+1522,./training/JL_train/male2_assertive_7b_1.wav,Carl leaps into a jeep.
+1523,./training/JL_train/male2_assertive_7b_2.wav,Carl leaps into a jeep.
+1524,./training/JL_train/male2_assertive_8a_2.wav,Linda asks for more darts.
+1525,./training/JL_train/male2_assertive_8b_1.wav,Linda asks for more darts.
+1526,./training/JL_train/male2_assertive_8b_2.wav,Linda asks for more darts.
+1527,./training/JL_train/male2_assertive_9a_2.wav,Find your boot in this shute.
+1528,./training/JL_train/male2_assertive_9b_1.wav,Find your boot in this shute.
+1529,./training/JL_train/male2_assertive_9b_2.wav,Find your boot in this shute.
+1530,./training/JL_train/male2_concerned_10a_2.wav,Water harms the new born boy.
+1531,./training/JL_train/male2_concerned_10b_1.wav,Water harms the new born boy.
+1532,./training/JL_train/male2_concerned_10b_2.wav,Water harms the new born boy.
+1533,./training/JL_train/male2_concerned_11a_2.wav,Your results are unbelievable.
+1534,./training/JL_train/male2_concerned_11b_1.wav,Your results are unbelievable.
+1535,./training/JL_train/male2_concerned_11b_2.wav,Your results are unbelievable.
+1536,./training/JL_train/male2_concerned_12a_2.wav,We were away a year ago.
+1537,./training/JL_train/male2_concerned_12b_1.wav,We were away a year ago.
+1538,./training/JL_train/male2_concerned_12b_2.wav,We were away a year ago.
+1539,./training/JL_train/male2_concerned_13a_2.wav,How are you doing?
+1540,./training/JL_train/male2_concerned_13b_1.wav,How are you doing?
+1541,./training/JL_train/male2_concerned_13b_2.wav,How are you doing?
+1542,./training/JL_train/male2_concerned_14a_2.wav,It seems like you are taking a long time.
+1543,./training/JL_train/male2_concerned_14b_1.wav,It seems like you are taking a long time.
+1544,./training/JL_train/male2_concerned_14b_2.wav,It seems like you are taking a long time.
+1545,./training/JL_train/male2_concerned_15a_2.wav,I know how frustrating it can be.
+1546,./training/JL_train/male2_concerned_15b_1.wav,I know how frustrating it can be.
+1547,./training/JL_train/male2_concerned_15b_2.wav,I know how frustrating it can be.
+1548,./training/JL_train/male2_concerned_1a_2.wav,Tom beats that farmer.
+1549,./training/JL_train/male2_concerned_1b_1.wav,Tom beats that farmer.
+1550,./training/JL_train/male2_concerned_1b_2.wav,Tom beats that farmer.
+1551,./training/JL_train/male2_concerned_2a_2.wav,John laughs like your father.
+1552,./training/JL_train/male2_concerned_2b_1.wav,John laughs like your father.
+1553,./training/JL_train/male2_concerned_2b_2.wav,John laughs like your father.
+1554,./training/JL_train/male2_concerned_3a_2.wav,The seed is buried in deep.
+1555,./training/JL_train/male2_concerned_3b_1.wav,The seed is buried in deep.
+1556,./training/JL_train/male2_concerned_3b_2.wav,The seed is buried in deep.
+1557,./training/JL_train/male2_concerned_4a_2.wav,Taylor likes stewed asian food.
+1558,./training/JL_train/male2_concerned_4b_1.wav,Taylor likes stewed asian food.
+1559,./training/JL_train/male2_concerned_4b_2.wav,Taylor likes stewed asian food.
+1560,./training/JL_train/male2_concerned_5a_2.wav,The lord swims in the sea.
+1561,./training/JL_train/male2_concerned_5b_1.wav,The lord swims in the sea.
+1562,./training/JL_train/male2_concerned_5b_2.wav,The lord swims in the sea.
+1563,./training/JL_train/male2_concerned_6a_2.wav,Jack views an art piece.
+1564,./training/JL_train/male2_concerned_6b_1.wav,Jack views an art piece.
+1565,./training/JL_train/male2_concerned_6b_2.wav,Jack views an art piece.
+1566,./training/JL_train/male2_concerned_7a_2.wav,Carl leaps into a jeep.
+1567,./training/JL_train/male2_concerned_7b_1.wav,Carl leaps into a jeep.
+1568,./training/JL_train/male2_concerned_7b_2.wav,Carl leaps into a jeep.
+1569,./training/JL_train/male2_concerned_8a_2.wav,Linda asks for more darts.
+1570,./training/JL_train/male2_concerned_8b_1.wav,Linda asks for more darts.
+1571,./training/JL_train/male2_concerned_8b_2.wav,Linda asks for more darts.
+1572,./training/JL_train/male2_concerned_9a_2.wav,Find your boot in this shute.
+1573,./training/JL_train/male2_concerned_9b_1.wav,Find your boot in this shute.
+1574,./training/JL_train/male2_concerned_9b_2.wav,Find your boot in this shute.
+1575,./training/JL_train/male2_encouraging_10a_2.wav,Water harms the new born boy.
+1576,./training/JL_train/male2_encouraging_10b_1.wav,Water harms the new born boy.
+1577,./training/JL_train/male2_encouraging_10b_2.wav,Water harms the new born boy.
+1578,./training/JL_train/male2_encouraging_11a_2.wav,Your results are unbelievable.
+1579,./training/JL_train/male2_encouraging_11b_1.wav,Your results are unbelievable.
+1580,./training/JL_train/male2_encouraging_11b_2.wav,Your results are unbelievable.
+1581,./training/JL_train/male2_encouraging_12a_2.wav,We were away a year ago.
+1582,./training/JL_train/male2_encouraging_12b_1.wav,We were away a year ago.
+1583,./training/JL_train/male2_encouraging_12b_2.wav,We were away a year ago.
+1584,./training/JL_train/male2_encouraging_13a_2.wav,How are you doing?
+1585,./training/JL_train/male2_encouraging_13b_1.wav,How are you doing?
+1586,./training/JL_train/male2_encouraging_13b_2.wav,How are you doing?
+1587,./training/JL_train/male2_encouraging_14a_2.wav,Thank you for your help!
+1588,./training/JL_train/male2_encouraging_14b_1.wav,Thank you for your help!
+1589,./training/JL_train/male2_encouraging_14b_2.wav,Thank you for your help!
+1590,./training/JL_train/male2_encouraging_15a_2.wav,You should be proud of yourself!
+1591,./training/JL_train/male2_encouraging_15b_1.wav,You should be proud of yourself!
+1592,./training/JL_train/male2_encouraging_15b_2.wav,You should be proud of yourself!
+1593,./training/JL_train/male2_encouraging_1a_2.wav,Tom beats that farmer.
+1594,./training/JL_train/male2_encouraging_1b_1.wav,Tom beats that farmer.
+1595,./training/JL_train/male2_encouraging_1b_2.wav,Tom beats that farmer.
+1596,./training/JL_train/male2_encouraging_2a_2.wav,John laughs like your father.
+1597,./training/JL_train/male2_encouraging_2b_1.wav,John laughs like your father.
+1598,./training/JL_train/male2_encouraging_2b_2.wav,John laughs like your father.
+1599,./training/JL_train/male2_encouraging_3a_2.wav,The seed is buried in deep.
+1600,./training/JL_train/male2_encouraging_3b_1.wav,The seed is buried in deep.
+1601,./training/JL_train/male2_encouraging_3b_2.wav,The seed is buried in deep.
+1602,./training/JL_train/male2_encouraging_4a_2.wav,Taylor likes stewed asian food.
+1603,./training/JL_train/male2_encouraging_4b_1.wav,Taylor likes stewed asian food.
+1604,./training/JL_train/male2_encouraging_4b_2.wav,Taylor likes stewed asian food.
+1605,./training/JL_train/male2_encouraging_5a_2.wav,The lord swims in the sea.
+1606,./training/JL_train/male2_encouraging_5b_1.wav,The lord swims in the sea.
+1607,./training/JL_train/male2_encouraging_5b_2.wav,The lord swims in the sea.
+1608,./training/JL_train/male2_encouraging_6a_2.wav,Jack views an art piece.
+1609,./training/JL_train/male2_encouraging_6b_1.wav,Jack views an art piece.
+1610,./training/JL_train/male2_encouraging_6b_2.wav,Jack views an art piece.
+1611,./training/JL_train/male2_encouraging_7a_2.wav,Carl leaps into a jeep.
+1612,./training/JL_train/male2_encouraging_7b_1.wav,Carl leaps into a jeep.
+1613,./training/JL_train/male2_encouraging_7b_2.wav,Carl leaps into a jeep.
+1614,./training/JL_train/male2_encouraging_8a_2.wav,Linda asks for more darts.
+1615,./training/JL_train/male2_encouraging_8b_1.wav,Linda asks for more darts.
+1616,./training/JL_train/male2_encouraging_8b_2.wav,Linda asks for more darts.
+1617,./training/JL_train/male2_encouraging_9a_2.wav,Find your boot in this shute.
+1618,./training/JL_train/male2_encouraging_9b_1.wav,Find your boot in this shute.
+1619,./training/JL_train/male2_encouraging_9b_2.wav,Find your boot in this shute.
+1620,./training/JL_train/male2_excited_10a_2.wav,Water harms the new born boy.
+1621,./training/JL_train/male2_excited_10b_1.wav,Water harms the new born boy.
+1622,./training/JL_train/male2_excited_10b_2.wav,Water harms the new born boy.
+1623,./training/JL_train/male2_excited_11a_2.wav,I have not seen my tooth.
+1624,./training/JL_train/male2_excited_11b_1.wav,I have not seen my tooth.
+1625,./training/JL_train/male2_excited_11b_2.wav,I have not seen my tooth.
+1626,./training/JL_train/male2_excited_12a_2.wav,Work hard or you lose.
+1627,./training/JL_train/male2_excited_12b_1.wav,Work hard or you lose.
+1628,./training/JL_train/male2_excited_12b_2.wav,Work hard or you lose.
+1629,./training/JL_train/male2_excited_13a_2.wav,Jim saw the port.
+1630,./training/JL_train/male2_excited_13b_1.wav,Jim saw the port.
+1631,./training/JL_train/male2_excited_13b_2.wav,Jim saw the port.
+1632,./training/JL_train/male2_excited_14a_2.wav,They should start to talk.
+1633,./training/JL_train/male2_excited_14b_1.wav,They should start to talk.
+1634,./training/JL_train/male2_excited_14b_2.wav,They should start to talk.
+1635,./training/JL_train/male2_excited_15a_2.wav,Sound the horn if you need more.
+1636,./training/JL_train/male2_excited_15b_1.wav,Sound the horn if you need more.
+1637,./training/JL_train/male2_excited_15b_2.wav,Sound the horn if you need more.
+1638,./training/JL_train/male2_excited_1a_2.wav,Tom beats that farmer.
+1639,./training/JL_train/male2_excited_1b_1.wav,Tom beats that farmer.
+1640,./training/JL_train/male2_excited_1b_2.wav,Tom beats that farmer.
+1641,./training/JL_train/male2_excited_2a_2.wav,John laughs like your father.
+1642,./training/JL_train/male2_excited_2b_1.wav,John laughs like your father.
+1643,./training/JL_train/male2_excited_2b_2.wav,John laughs like your father.
+1644,./training/JL_train/male2_excited_3a_2.wav,The seed is buried in deep.
+1645,./training/JL_train/male2_excited_3b_1.wav,The seed is buried in deep.
+1646,./training/JL_train/male2_excited_3b_2.wav,The seed is buried in deep.
+1647,./training/JL_train/male2_excited_4a_2.wav,Taylor likes stewed Asian food.
+1648,./training/JL_train/male2_excited_4b_1.wav,Taylor likes stewed Asian food.
+1649,./training/JL_train/male2_excited_4b_2.wav,Taylor likes stewed Asian food.
+1650,./training/JL_train/male2_excited_5a_2.wav,The lord swims in the sea.
+1651,./training/JL_train/male2_excited_5b_1.wav,The lord swims in the sea.
+1652,./training/JL_train/male2_excited_5b_2.wav,The lord swims in the sea.
+1653,./training/JL_train/male2_excited_6a_2.wav,Jack views an art piece.
+1654,./training/JL_train/male2_excited_6b_1.wav,Jack views an art piece.
+1655,./training/JL_train/male2_excited_6b_2.wav,Jack views an art piece.
+1656,./training/JL_train/male2_excited_7a_2.wav,Carl leaps into a jeep.
+1657,./training/JL_train/male2_excited_7b_1.wav,Carl leaps into a jeep.
+1658,./training/JL_train/male2_excited_7b_2.wav,Carl leaps into a jeep.
+1659,./training/JL_train/male2_excited_8a_2.wav,Linda asks for more darts.
+1660,./training/JL_train/male2_excited_8b_1.wav,Linda asks for more darts.
+1661,./training/JL_train/male2_excited_8b_2.wav,Linda asks for more darts.
+1662,./training/JL_train/male2_excited_9a_2.wav,Find your boot in this shute.
+1663,./training/JL_train/male2_excited_9b_1.wav,Find your boot in this shute.
+1664,./training/JL_train/male2_excited_9b_2.wav,Find your boot in this shute.
+1665,./training/JL_train/male2_happy_10a_2.wav,Water harms the new born boy.
+1666,./training/JL_train/male2_happy_10b_1.wav,Water harms the new born boy.
+1667,./training/JL_train/male2_happy_10b_2.wav,Water harms the new born boy.
+1668,./training/JL_train/male2_happy_11a_2.wav,I have not seen my tooth.
+1669,./training/JL_train/male2_happy_11b_1.wav,I have not seen my tooth.
+1670,./training/JL_train/male2_happy_11b_2.wav,I have not seen my tooth.
+1671,./training/JL_train/male2_happy_12a_2.wav,Work hard or you lose.
+1672,./training/JL_train/male2_happy_12b_1.wav,Work hard or you lose.
+1673,./training/JL_train/male2_happy_12b_2.wav,Work hard or you lose.
+1674,./training/JL_train/male2_happy_13a_2.wav,Jim saw the port.
+1675,./training/JL_train/male2_happy_13b_1.wav,Jim saw the port.
+1676,./training/JL_train/male2_happy_13b_2.wav,Jim saw the port.
+1677,./training/JL_train/male2_happy_14a_2.wav,They should start to talk.
+1678,./training/JL_train/male2_happy_14b_1.wav,They should start to talk.
+1679,./training/JL_train/male2_happy_14b_2.wav,They should start to talk.
+1680,./training/JL_train/male2_happy_15a_2.wav,Sound the horn if you need more.
+1681,./training/JL_train/male2_happy_15b_1.wav,Sound the horn if you need more.
+1682,./training/JL_train/male2_happy_15b_2.wav,Sound the horn if you need more.
+1683,./training/JL_train/male2_happy_1a_2.wav,Tom beats that farmer.
+1684,./training/JL_train/male2_happy_1b_1.wav,Tom beats that farmer.
+1685,./training/JL_train/male2_happy_1b_2.wav,Tom beats that farmer.
+1686,./training/JL_train/male2_happy_2a_2.wav,John laughs like your father.
+1687,./training/JL_train/male2_happy_2b_1.wav,John laughs like your father.
+1688,./training/JL_train/male2_happy_2b_2.wav,John laughs like your father.
+1689,./training/JL_train/male2_happy_3a_2.wav,The seed is buried in deep.
+1690,./training/JL_train/male2_happy_3b_1.wav,The seed is buried in deep.
+1691,./training/JL_train/male2_happy_3b_2.wav,The seed is buried in deep.
+1692,./training/JL_train/male2_happy_4a_2.wav,Taylor likes stewed Asian food.
+1693,./training/JL_train/male2_happy_4b_1.wav,Taylor likes stewed Asian food.
+1694,./training/JL_train/male2_happy_4b_2.wav,Taylor likes stewed Asian food.
+1695,./training/JL_train/male2_happy_5a_2.wav,The lord swims in the sea.
+1696,./training/JL_train/male2_happy_5b_1.wav,The lord swims in the sea.
+1697,./training/JL_train/male2_happy_5b_2.wav,The lord swims in the sea.
+1698,./training/JL_train/male2_happy_6a_2.wav,Jack views an art piece.
+1699,./training/JL_train/male2_happy_6b_1.wav,Jack views an art piece.
+1700,./training/JL_train/male2_happy_6b_2.wav,Jack views an art piece.
+1701,./training/JL_train/male2_happy_7a_2.wav,Carl leaps into a jeep.
+1702,./training/JL_train/male2_happy_7b_1.wav,Carl leaps into a jeep.
+1703,./training/JL_train/male2_happy_7b_2.wav,Carl leaps into a jeep.
+1704,./training/JL_train/male2_happy_8a_2.wav,Linda asks for more darts.
+1705,./training/JL_train/male2_happy_8b_1.wav,Linda asks for more darts.
+1706,./training/JL_train/male2_happy_8b_2.wav,Linda asks for more darts.
+1707,./training/JL_train/male2_happy_9a_2.wav,Find your boot in this shute.
+1708,./training/JL_train/male2_happy_9b_1.wav,Find your boot in this shute.
+1709,./training/JL_train/male2_happy_9b_2.wav,Find your boot in this shute.
+1710,./training/JL_train/male2_neutral_10a_2.wav,Water harms the new born boy.
+1711,./training/JL_train/male2_neutral_10b_1.wav,Water harms the new born boy.
+1712,./training/JL_train/male2_neutral_10b_2.wav,Water harms the new born boy.
+1713,./training/JL_train/male2_neutral_11a_2.wav,I have not seen my tooth.
+1714,./training/JL_train/male2_neutral_11b_1.wav,I have not seen my tooth.
+1715,./training/JL_train/male2_neutral_11b_2.wav,I have not seen my tooth.
+1716,./training/JL_train/male2_neutral_12a_2.wav,Work hard or you lose.
+1717,./training/JL_train/male2_neutral_12b_1.wav,Work hard or you lose.
+1718,./training/JL_train/male2_neutral_12b_2.wav,Work hard or you lose.
+1719,./training/JL_train/male2_neutral_13a_2.wav,Jim saw the port.
+1720,./training/JL_train/male2_neutral_13b_1.wav,Jim saw the port.
+1721,./training/JL_train/male2_neutral_13b_2.wav,Jim saw the port.
+1722,./training/JL_train/male2_neutral_14a_2.wav,They should start to talk.
+1723,./training/JL_train/male2_neutral_14b_1.wav,They should start to talk.
+1724,./training/JL_train/male2_neutral_14b_2.wav,They should start to talk.
+1725,./training/JL_train/male2_neutral_15a_2.wav,Sound the horn if you need more.
+1726,./training/JL_train/male2_neutral_15b_1.wav,Sound the horn if you need more.
+1727,./training/JL_train/male2_neutral_15b_2.wav,Sound the horn if you need more.
+1728,./training/JL_train/male2_neutral_1a_2.wav,Tom beats that farmer.
+1729,./training/JL_train/male2_neutral_1b_1.wav,Tom beats that farmer.
+1730,./training/JL_train/male2_neutral_1b_2.wav,Tom beats that farmer.
+1731,./training/JL_train/male2_neutral_2a_2.wav,John laughs like your father.
+1732,./training/JL_train/male2_neutral_2b_1.wav,John laughs like your father.
+1733,./training/JL_train/male2_neutral_2b_2.wav,John laughs like your father.
+1734,./training/JL_train/male2_neutral_3a_2.wav,The seed is buried in deep.
+1735,./training/JL_train/male2_neutral_3b_1.wav,The seed is buried in deep.
+1736,./training/JL_train/male2_neutral_3b_2.wav,The seed is buried in deep.
+1737,./training/JL_train/male2_neutral_4a_2.wav,Taylor likes stewed Asian food.
+1738,./training/JL_train/male2_neutral_4b_1.wav,Taylor likes stewed Asian food.
+1739,./training/JL_train/male2_neutral_4b_2.wav,Taylor likes stewed Asian food.
+1740,./training/JL_train/male2_neutral_5a_2.wav,The lord swims in the sea.
+1741,./training/JL_train/male2_neutral_5b_1.wav,The lord swims in the sea.
+1742,./training/JL_train/male2_neutral_5b_2.wav,The lord swims in the sea.
+1743,./training/JL_train/male2_neutral_6a_2.wav,Jack views an art piece.
+1744,./training/JL_train/male2_neutral_6b_1.wav,Jack views an art piece.
+1745,./training/JL_train/male2_neutral_6b_2.wav,Jack views an art piece.
+1746,./training/JL_train/male2_neutral_7a_2.wav,Carl leaps into a jeep.
+1747,./training/JL_train/male2_neutral_7b_1.wav,Carl leaps into a jeep.
+1748,./training/JL_train/male2_neutral_7b_2.wav,Carl leaps into a jeep.
+1749,./training/JL_train/male2_neutral_8a_2.wav,Linda asks for more darts.
+1750,./training/JL_train/male2_neutral_8b_1.wav,Linda asks for more darts.
+1751,./training/JL_train/male2_neutral_8b_2.wav,Linda asks for more darts.
+1752,./training/JL_train/male2_neutral_9a_2.wav,Find your boot in this shute.
+1753,./training/JL_train/male2_neutral_9b_1.wav,Find your boot in this shute.
+1754,./training/JL_train/male2_neutral_9b_2.wav,Find your boot in this shute.
+1755,./training/JL_train/male2_sad_10a_2.wav,Water harms the new born boy.
+1756,./training/JL_train/male2_sad_10b_1.wav,Water harms the new born boy.
+1757,./training/JL_train/male2_sad_10b_2.wav,Water harms the new born boy.
+1758,./training/JL_train/male2_sad_11a_2.wav,I have not seen my tooth.
+1759,./training/JL_train/male2_sad_11b_1.wav,I have not seen my tooth.
+1760,./training/JL_train/male2_sad_11b_2.wav,I have not seen my tooth.
+1761,./training/JL_train/male2_sad_12a_2.wav,Work hard or you lose.
+1762,./training/JL_train/male2_sad_12b_1.wav,Work hard or you lose.
+1763,./training/JL_train/male2_sad_12b_2.wav,Work hard or you lose.
+1764,./training/JL_train/male2_sad_13a_2.wav,Jim saw the port.
+1765,./training/JL_train/male2_sad_13b_1.wav,Jim saw the port.
+1766,./training/JL_train/male2_sad_13b_2.wav,Jim saw the port.
+1767,./training/JL_train/male2_sad_14a_2.wav,They should start to talk.
+1768,./training/JL_train/male2_sad_14b_1.wav,They should start to talk.
+1769,./training/JL_train/male2_sad_14b_2.wav,They should start to talk.
+1770,./training/JL_train/male2_sad_15a_2.wav,Sound the horn if you need more.
+1771,./training/JL_train/male2_sad_15b_1.wav,Sound the horn if you need more.
+1772,./training/JL_train/male2_sad_15b_2.wav,Sound the horn if you need more.
+1773,./training/JL_train/male2_sad_1a_2.wav,Tom beats that farmer.
+1774,./training/JL_train/male2_sad_1b_1.wav,Tom beats that farmer.
+1775,./training/JL_train/male2_sad_1b_2.wav,Tom beats that farmer.
+1776,./training/JL_train/male2_sad_2a_2.wav,John laughs like your father.
+1777,./training/JL_train/male2_sad_2b_1.wav,John laughs like your father.
+1778,./training/JL_train/male2_sad_2b_2.wav,John laughs like your father.
+1779,./training/JL_train/male2_sad_3a_2.wav,The seed is buried in deep.
+1780,./training/JL_train/male2_sad_3b_1.wav,The seed is buried in deep.
+1781,./training/JL_train/male2_sad_3b_2.wav,The seed is buried in deep.
+1782,./training/JL_train/male2_sad_4a_2.wav,Taylor likes stewed Asian food.
+1783,./training/JL_train/male2_sad_4b_1.wav,Taylor likes stewed Asian food.
+1784,./training/JL_train/male2_sad_4b_2.wav,Taylor likes stewed Asian food.
+1785,./training/JL_train/male2_sad_5a_2.wav,The lord swims in the sea.
+1786,./training/JL_train/male2_sad_5b_1.wav,The lord swims in the sea.
+1787,./training/JL_train/male2_sad_5b_2.wav,The lord swims in the sea.
+1788,./training/JL_train/male2_sad_6a_2.wav,Jack views an art piece.
+1789,./training/JL_train/male2_sad_6b_1.wav,Jack views an art piece.
+1790,./training/JL_train/male2_sad_6b_2.wav,Jack views an art piece.
+1791,./training/JL_train/male2_sad_7a_2.wav,Carl leaps into a jeep.
+1792,./training/JL_train/male2_sad_7b_1.wav,Carl leaps into a jeep.
+1793,./training/JL_train/male2_sad_7b_2.wav,Carl leaps into a jeep.
+1794,./training/JL_train/male2_sad_8a_2.wav,Linda asks for more darts.
+1795,./training/JL_train/male2_sad_8b_1.wav,Linda asks for more darts.
+1796,./training/JL_train/male2_sad_8b_2.wav,Linda asks for more darts.
+1797,./training/JL_train/male2_sad_9a_2.wav,Find your boot in this shute.
+1798,./training/JL_train/male2_sad_9b_1.wav,Find your boot in this shute.
+1799,./training/JL_train/male2_sad_9b_2.wav,Find your boot in this shute.
