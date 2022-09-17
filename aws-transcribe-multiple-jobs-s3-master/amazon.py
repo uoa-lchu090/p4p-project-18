@@ -111,8 +111,8 @@ def main():
     )
     transcribe_client = boto3.client('transcribe',
                                      config=my_config,
-                                     aws_access_key_id='AKIARNQRUHBMUBBEG5L4',
-    aws_secret_access_key='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'
+                                     aws_access_key_id='',
+    aws_secret_access_key=''
                                      )
     for name in os.listdir("./wavonly"):
         filename = name[:-4]
