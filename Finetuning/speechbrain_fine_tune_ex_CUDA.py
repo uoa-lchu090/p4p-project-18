@@ -1,22 +1,61 @@
+from curses import meta
+from pickle import TRUE
 import speechbrain as sb
 from speechbrain.lobes.features import Fbank
 import torch
 from speechbrain.pretrained import EncoderDecoderASR
+from speechbrain.dataio.dataset import DynamicItemDataset
+from speechbrain.utils.checkpoints import Checkpointer
+import torchaudio
+import jiwer
+from pandas import *
+import shutil
+import os
 
+checkpoint_dir = "./saved_checkpoint_MZ_only"
+checkpointer = Checkpointer(checkpoint_dir)
 
-asr_model = EncoderDecoderASR.from_hparams(source="speechbrain/asr-crdnn-rnnlm-librispeech", savedir="./pretrained_ASR")
+transformation = jiwer.Compose([
+    jiwer.ToLowerCase(),
+    jiwer.RemoveWhiteSpace(replace_by_space=True),
+    jiwer.RemoveMultipleSpaces(),
+    jiwer.RemovePunctuation(),
+    jiwer.ReduceToListOfListOfWords(word_delimiter=" ")
+]) 
+
+mer_list = []
+csv_file = read_csv("valid_data_new.csv")
+filepaths = csv_file['file_path'].tolist()
+baselines = csv_file['words'].tolist()
+counter = 0
+
+#asr_model = EncoderDecoderASR.from_hparams(source="speechbrain/asr-wav2vec2-commonvoice-en", savedir="./pretrained_wav2vec_commonvoice")
+asr_model = EncoderDecoderASR.from_hparams(source="speechbrain/asr-crdnn-rnnlm-librispeech", savedir="./pretrained_ASR", run_opts={"device":"cuda:0"})
 #asr_model.transcribe_file("./LibriSpeech/dev-clean-2/1272/135031/1272-135031-0003.flac")
 
-from parse_data import parse_to_json # parse_data is a local library downloaded before (see Installing Dependencies step) 
-parse_to_json("./LibriSpeech/dev-clean-2")
+#parse_to_json("./LibriSpeech/dev-clean-2")
 
-from speechbrain.dataio.dataset import DynamicItemDataset
-dataset = DynamicItemDataset.from_json("data.json")
 
-dataset = dataset.filtered_sorted(sort_key="length", select_n=100)
+dataset = DynamicItemDataset.from_csv("combined_train_data_MZ_only.csv")
+
+#dataset = dataset.filtered_sorted(sort_key="id", select_n=1)
 # we limit the dataset to 100 utterances to keep the trainin short in this Colab example
 
 dataset.add_dynamic_item(sb.dataio.dataio.read_audio, takes="file_path", provides="signal")
+
+# 2. Define audio pipeline:
+@sb.utils.data_pipeline.takes("file_path")
+@sb.utils.data_pipeline.provides("signal")
+def audio_pipeline(wav):
+    info = torchaudio.info(wav)
+    sig = sb.dataio.dataio.read_audio(wav)
+    resampled = torchaudio.transforms.Resample(
+        info.sample_rate, 16000,
+    )(sig)
+    return resampled
+
+dataset.add_dynamic_item(audio_pipeline)
+
 
 # 3. Define text pipeline:
 @sb.utils.data_pipeline.takes("words")
@@ -37,8 +76,6 @@ def text_pipeline(words):
 dataset.add_dynamic_item(text_pipeline)
 dataset.set_output_keys(["id", "signal", "words", "tokens_list", "tokens_bos", "tokens_eos", "tokens"])
 dataset[0]
-
-
 
 # Define fine-tuning procedure 
 class EncDecFineTune(sb.Brain):
@@ -98,6 +135,13 @@ class EncDecFineTune(sb.Brain):
         self.optimizer.zero_grad()
         return loss.detach()
 
+    def evaluate_batch(self, batch, stage):
+        """Computations needed for validation/test batches"""
+        predictions = self.compute_forward(batch, stage=stage)
+        with torch.no_grad():
+            loss = self.compute_objectives(predictions, batch, stage=stage)
+        return loss.detach()
+
 modules = {"enc": asr_model.mods.encoder.model, 
            "emb": asr_model.hparams.emb,
            "dec": asr_model.hparams.dec,
@@ -107,11 +151,44 @@ modules = {"enc": asr_model.mods.encoder.model,
            
           }
 
+ckpt_finder = Checkpointer(checkpoint_dir)
+get_ckpt = ckpt_finder.find_checkpoint(min_key="MER")
+current_paramfile = get_ckpt.paramfiles["enc"]
+print("The checkpoint being loaded is", current_paramfile)
+
+# parameter transfer
+sb.utils.checkpoints.torch_parameter_transfer(asr_model.mods.encoder.model, get_ckpt.paramfiles['enc'], device='cpu')
+sb.utils.checkpoints.torch_parameter_transfer(asr_model.hparams.emb, get_ckpt.paramfiles['emb'], device='cpu')
+sb.utils.checkpoints.torch_parameter_transfer(asr_model.hparams.dec, get_ckpt.paramfiles['dec'], device='cpu')
+sb.utils.checkpoints.torch_parameter_transfer(asr_model.mods.encoder.compute_features, get_ckpt.paramfiles['compute_features'], device='cpu')
+sb.utils.checkpoints.torch_parameter_transfer(asr_model.mods.encoder.normalize, get_ckpt.paramfiles['normalize'], device='cpu')
+sb.utils.checkpoints.torch_parameter_transfer(asr_model.hparams.seq_lin, get_ckpt.paramfiles['seq_lin'], device='cpu')
+
 hparams = {"seq_cost": lambda x, y, z: sb.nnet.losses.nll_loss(x, y, z, label_smoothing = 0.1),
             "log_softmax": sb.nnet.activations.Softmax(apply_log=True)}
 
-brain = EncDecFineTune(modules, hparams=hparams, opt_class=lambda x: torch.optim.SGD(x, 1e-5))
+brain = EncDecFineTune(modules, hparams=hparams, opt_class=lambda x: torch.optim.SGD(x, 1e-5),run_opts = {'device':"cuda:0"})
 brain.tokenizer = asr_model.tokenizer
 
-brain.fit(range(2), train_set=dataset, 
-          train_loader_kwargs={"batch_size": 8, "drop_last":True, "shuffle": False})
+brain.fit(range(1), train_set=dataset, train_loader_kwargs={"batch_size": 4, "drop_last":True, "shuffle": True})
+
+
+print("Starting Validation")
+for filepath in filepaths :
+    result = asr_model.transcribe_file(filepath)
+    mer = jiwer.mer(baselines[counter], result, truth_transform=transformation, hypothesis_transform=transformation)
+    
+    mer_list.append(mer)
+
+    #print("hypothesis: " + result)
+    #print("ground truth: " + baselines[counter])
+    #print("MER: " + str(mer))
+    #print("number: " + str(counter))
+
+    counter = counter + 1
+
+average = sum(mer_list)/len(mer_list)
+print ("Average MER: " + str(average))
+
+checkpointer.add_recoverables(modules)
+ckpt = checkpointer.save_checkpoint(meta={"MER": average})
