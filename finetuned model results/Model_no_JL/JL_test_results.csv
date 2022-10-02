@@ -1,3 +1,4 @@
+filename,baseline,hypothesis,WER,MER,WIL
 female2_neutral_4a_1.wav,Taylor likes stewed Asian food.,TAYLOR LIKE STEWED AGENT FOOD,0.4,0.4,0.64
 female1_apologetic_8a_1.wav,Linda asks for more darts.,LINDA ASKS FOR MORE DARTS,0.0,0.0,0.0
 female1_angry_3a_1.wav,The seed is buried in deep.,THE SEED IS BURIED IN DEEP,0.0,0.0,0.0

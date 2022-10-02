@@ -1,3 +1,4 @@
+filename,baseline,hypothesis,WER,MER,WIL
 common_voice_en_25358019.wav,A plaque was installed at the bridge with information on Griffiths.,A CLERK WAS INSTALLED AT THE BRIDGE WITH INFORMATION ON GRIFFITH'S,0.09090909090909091,0.09090909090909091,0.17355371900826455
 common_voice_en_27871004.wav,Maurizio and Lazzaro.,MORITZI AUNT LAZZARO,0.6666666666666666,0.6666666666666666,0.8888888888888888
 common_voice_en_21507110.wav,Minoan art encompassed many media.,NO AN ARCH HE HAD ENCOMPASSED MANY METEOR,1.2,0.75,0.9
