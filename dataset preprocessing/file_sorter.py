@@ -1,8 +1,10 @@
-import shutil
+# Author: Louis Chuo, Henry An
+# Description:  This code reads data from an excel file and moves the present files into another specified folder
 
+import shutil
 import pandas as pd
-path = "./similar_word.xlsx"
-df = pd.read_excel(path, sheet_name="NZoutput")
+path = "./train_filtered_NZ.xlsx"
+df = pd.read_excel(path, sheet_name="path") 
 
 
 def sort(input_folder, output_folder):
@@ -20,7 +22,6 @@ def sort(input_folder, output_folder):
 
 
 if __name__ == '__main__':
-    notfound = sort("./NZ", "./NZsimilar")
+    notfound = sort("./en", "./NZ")
     print("done")
-    print(notfound)
-    #print(sort(".//clips", ".//clips2"))
+    print(notfound)#print no. of files present in list but not in folder
