@@ -1,3 +1,5 @@
+#Author: Louis Chuo
+#Description: Converts .mp3 files to .wav files
 import os
 from os import path
 from pydub import AudioSegment
