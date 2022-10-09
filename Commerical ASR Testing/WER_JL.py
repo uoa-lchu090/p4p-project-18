@@ -6,8 +6,8 @@ import os
 import re
 import csv
 
-result_path = "./speech/Results/wav2vec_output_combined.xlsx"
-result_df = pd.read_excel(result_path, sheet_name="JL_output_wav2vec")
+result_path = "./speech/Results/JL_output_combined.xlsx"
+result_df = pd.read_excel(result_path, sheet_name="JL_output_Microsoft_US")
 
 wer_preprocess = jiwer.Compose([
     jiwer.ToLowerCase(),
@@ -23,9 +23,6 @@ control_line_array = []
 WER_array = []
 MER_array = []
 WIL_array = []
-#print(re.split(r"\.\s*",result_file_names)[0])
-#print("speech/JL_Control/" + re.split(r"\.\s*",result_file_names)[0] + ".txt")
-#print(result_contents)
 
 for i in range(len(result_file_names)):
     with open("speech/JL_Control/" + re.split(r"\.\s*",result_file_names[i])[0] + ".txt") as f:
@@ -49,7 +46,7 @@ for i in range(len(result_file_names)):
     WIL_array.append(wil)
 
 x = 0
-with open('speech/Measurement Results/JL_measures_wav2vec.csv', 'w', newline= '') as out_file:
+with open('speech/Measurement Results/JL_measures_Microsoft_US.csv', 'w', newline= '') as out_file:
         tsv_writer = csv.writer(out_file)
         while x < len(result_file_names) :
             tsv_writer.writerow([result_file_names[x], result_contents[x], control_line_array[x], WER_array[x], MER_array[x], WIL_array[x]])
