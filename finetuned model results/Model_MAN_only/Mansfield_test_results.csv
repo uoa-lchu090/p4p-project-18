@@ -1,3 +1,4 @@
+filename,baseline,hypothesis,WER,MER,WIL
 uoa_nz_mansfield_jh_0212.wav,He wore an immense geranium flower stuck in the lapel of his coat.,HE WORE AN IMMENSE GERANIUM FLOWER STUCK IN THE LAPEL OF HIS COAT,0.0,0.0,0.0
 uoa_nz_mansfield_sj_0582.wav,There is quite a strong and influential body of opinion.,THERE IS QUITE A STRONG AND ESSENTIAL BODY OF OPINION,0.1,0.1,0.18999999999999995
 uoa_nz_mansfield_sj_0086.wav,"Thundered the greybeard, with pristine freshness.",THUNDERED THE GREY BEARD WITH PRISTINE FRESHNESS,0.3333333333333333,0.2857142857142857,0.40476190476190477

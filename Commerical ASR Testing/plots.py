@@ -100,15 +100,7 @@ Mozilla_wav2vec_WIL = result_df.get("WIL").tolist()
 
 
 sns.set(style="whitegrid")
-#data = {"JL/Google NZ": JL_google_NZ_WER, "Mansfield/Google NZ": Mansfield_google_NZ_WER, "Mozilla/Google NZ": Mozilla_google_NZ_WER,
-# "JL/Google US": JL_google_US_WER, "Mansfield/Google US": Mansfield_google_US_WER, "Mozilla/Google US": Mozilla_google_US_WER,
-# "JL/Microsoft US": JL_microsoft_US_WER, "Mansfield/microsoft US": Mansfield_microsoft_US_WER, "Mozilla/microsoft US": Mozilla_microsoft_US_WER}
-
-#data = {"JL/Google NZ": JL_google_NZ_MER, "JL/Google US": JL_google_US_MER, "JL/Microsoft US": JL_microsoft_US_MER,
-#"Mansfield/Google NZ": Mansfield_google_NZ_MER, "Mansfield/Google US": Mansfield_google_US_MER, "Mansfield/Microsoft US": Mansfield_microsoft_US_MER,
-#"Mozilla/Google NZ": Mozilla_google_NZ_MER, "Mozilla/Google US": Mozilla_google_US_MER, "Mozilla/Microsoft US": Mozilla_microsoft_US_MER}
-
-data = {"JL": JL_wav2vec_MER, "Mansfield": Mansfield_wav2vec_MER, "Mozilla": Mozilla_wav2vec_MER}
+data = {"JL": JL_google_NZ_MER, "Mansfield": Mansfield_google_NZ_MER, "Mozilla": Mozilla_google_NZ_MER}
 
 dataframe = pd.DataFrame.from_dict(data, orient='index')
 dataframe = dataframe.transpose()
