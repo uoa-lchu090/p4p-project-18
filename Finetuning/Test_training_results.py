@@ -47,7 +47,7 @@ baselines_spec = []
 hypothesis_array = []
 filename_array = []
 
-csv_file = read_csv("valid_data_new.csv")
+csv_file = read_csv("test_data_new.csv")
 filepaths = csv_file['file_path'].tolist()
 baselines = csv_file['words'].tolist()
 counter = 0
