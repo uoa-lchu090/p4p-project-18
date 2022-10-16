@@ -1,3 +1,7 @@
+#Author: Louis Chuo
+# Code for testing a model against its baseline and calculating the MER of it
+
+
 from itertools import count
 from pandas import *
 import shutil
@@ -8,7 +12,7 @@ from speechbrain.utils.checkpoints import Checkpointer
 import speechbrain as sb
 import csv
 
-checkpoint_dir = "./saved_checkpoint"
+checkpoint_dir = "./saved_checkpoint" #change to saved checkpoint folder containing needed model
 checkpointer = Checkpointer(checkpoint_dir)
 
 dataset = "Mozilla" #Mozilla, JL, Mansfield
@@ -21,20 +25,20 @@ transformation = jiwer.Compose([
     jiwer.ReduceToListOfListOfWords(word_delimiter=" ")
 ]) 
 
-asr_model = EncoderDecoderASR.from_hparams(source="speechbrain/asr-crdnn-rnnlm-librispeech", savedir="./pretrained_ASR", run_opts={"device":"cuda:0"})
+asr_model = EncoderDecoderASR.from_hparams(source="speechbrain/asr-crdnn-rnnlm-librispeech", savedir="./pretrained_ASR", run_opts={"device":"cuda:0"}) #https://huggingface.co/speechbrain/asr-crdnn-rnnlm-librispeech
 
-# ckpt_finder = Checkpointer(checkpoint_dir)
-# get_ckpt = ckpt_finder.find_checkpoint(min_key="MER")
-# current_paramfile = get_ckpt.paramfiles["enc"]
-# print("The checkpoint being loaded is", current_paramfile)
+ckpt_finder = Checkpointer(checkpoint_dir)
+get_ckpt = ckpt_finder.find_checkpoint(min_key="MER")
+current_paramfile = get_ckpt.paramfiles["enc"]
+print("The checkpoint being loaded is", current_paramfile)
 
-# # parameter transfer
-# sb.utils.checkpoints.torch_parameter_transfer(asr_model.mods.encoder.model, get_ckpt.paramfiles['enc'], device='cpu')
-# sb.utils.checkpoints.torch_parameter_transfer(asr_model.hparams.emb, get_ckpt.paramfiles['emb'], device='cpu')
-# sb.utils.checkpoints.torch_parameter_transfer(asr_model.hparams.dec, get_ckpt.paramfiles['dec'], device='cpu')
-# sb.utils.checkpoints.torch_parameter_transfer(asr_model.mods.encoder.compute_features, get_ckpt.paramfiles['compute_features'], device='cpu')
-# #sb.utils.checkpoints.torch_parameter_transfer(asr_model.mods.encoder.normalize, get_ckpt.paramfiles['normalize'], device='cpu')
-# sb.utils.checkpoints.torch_parameter_transfer(asr_model.hparams.seq_lin, get_ckpt.paramfiles['seq_lin'], device='cpu')
+# parameter transfer
+sb.utils.checkpoints.torch_parameter_transfer(asr_model.mods.encoder.model, get_ckpt.paramfiles['enc'], device='cpu')
+sb.utils.checkpoints.torch_parameter_transfer(asr_model.hparams.emb, get_ckpt.paramfiles['emb'], device='cpu')
+sb.utils.checkpoints.torch_parameter_transfer(asr_model.hparams.dec, get_ckpt.paramfiles['dec'], device='cpu')
+sb.utils.checkpoints.torch_parameter_transfer(asr_model.mods.encoder.compute_features, get_ckpt.paramfiles['compute_features'], device='cpu')
+#sb.utils.checkpoints.torch_parameter_transfer(asr_model.mods.encoder.normalize, get_ckpt.paramfiles['normalize'], device='cpu')
+sb.utils.checkpoints.torch_parameter_transfer(asr_model.hparams.seq_lin, get_ckpt.paramfiles['seq_lin'], device='cpu')
 
 mer_list = []
 wer_list = []

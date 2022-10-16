@@ -1,3 +1,6 @@
+#Author: Louis Chuo
+# Reformats the train test and validation file to adhere to the DynamicItemDataset style so Speechbrain can load and read it
+
 import shutil
 import csv
 import os

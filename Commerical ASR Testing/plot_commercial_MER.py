@@ -1,3 +1,6 @@
+# Author: Louis Chuo
+# Code for importing and plotting all the commercial results in a box plot
+
 import seaborn as sns
 import matplotlib.pyplot as plt
 import pandas as pd
@@ -75,27 +78,6 @@ Mozilla_microsoft_NZ_WER = result_df.get("WER").tolist()
 Mozilla_microsoft_NZ_MER = result_df.get("MER").tolist()
 Mozilla_microsoft_NZ_WIL = result_df.get("WIL").tolist()
 
-#wav2vec data loading
-
-data_path = "./speech/wav2vec_measurement_combined.xlsx"
-
-result_df = pd.read_excel(data_path, sheet_name= "JL_measures_wav2vec")
-JL_wav2vec_WER = result_df.get("WER").tolist()
-JL_wav2vec_MER = result_df.get("MER").tolist()
-JL_wav2vec_WIL = result_df.get("WIL").tolist()
-
-result_df = pd.read_excel(data_path, sheet_name= "Mansfield_measures_wav2vec")
-Mansfield_wav2vec_WER = result_df.get("WER").tolist()
-Mansfield_wav2vec_MER = result_df.get("MER").tolist()
-Mansfield_wav2vec_WIL = result_df.get("WIL").tolist()
-
-result_df = pd.read_excel(data_path, sheet_name= "Mozilla_measures_wav2vec")
-Mozilla_wav2vec_WER = result_df.get("WER").tolist()
-Mozilla_wav2vec_MER = result_df.get("MER").tolist()
-Mozilla_wav2vec_WIL = result_df.get("WIL").tolist()
-
-
-
 
 
 
@@ -108,6 +90,6 @@ dataframe = dataframe.transpose()
 ax = sns.boxplot(data=dataframe, showfliers = False, width=0.3)
 ax = sns.stripplot(data=dataframe, color=".25", jitter=True, s = 3)
 
-plt.title("MER of corpuses on pretrained wav2vec US model")
+plt.title("MER of corpuses on goole ASR NZ model")
 
 plt.show()

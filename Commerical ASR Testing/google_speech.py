@@ -1,3 +1,6 @@
+#Author: Louis Chuo
+# This code is to use the google speech-to-text api for processing the given NZ datasets, configurations as to the models can be changed here
+
 import os
 from pyexpat import model
 import shutil
@@ -5,6 +8,7 @@ from unittest import result
 import pandas as pd
 import csv
 
+# Code based off: https://learndataanalysis.org/source-code-getting-started-with-google-cloud-speech-to-text-api-in-python/
 def transcribe_file(speech_file):
     """Transcribe the given audio file."""
     from google.cloud import speech
@@ -21,7 +25,7 @@ def transcribe_file(speech_file):
     config = speech.RecognitionConfig(
         encoding=speech.RecognitionConfig.AudioEncoding.LINEAR16,
         #sample_rate_hertz=48000,
-        language_code="en-NZ"
+        language_code="en-NZ" # en-NZ for NZ enlgish, en-US for US english
         #model="latest_short"
     )
 
@@ -41,15 +45,14 @@ def transcribe_file(speech_file):
 
 if __name__ == "__main__":
 
-    os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'service.json'
+    os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'service.json' # Credentials obtained from google website as the api call is apid service, simply putting the .json file on the same foleder to this code will read it automatically
 
     name_array = []
     result_array = []
     x = 0
 
-    #result = transcribe_file("speech/JL/female2_excited_8a_1.wav")
-    #print(result)
 
+# Loop for processing and saving audio files, change file directories and names to respective datasets to run
     for filename in os.listdir("speech/Mansfield"):
         if filename.endswith(".wav"):
             file_path = "speech/Mansfield/" + filename

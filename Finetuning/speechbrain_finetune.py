@@ -1,5 +1,8 @@
-from curses import meta
-from pickle import TRUE
+#Author: Louis Chuo
+# Code for finetuning a pretrained model availbale on speechbrain
+# Code based off: https://colab.research.google.com/drive/1LN7R3U3xneDgDRK2gC5MzGkLysCWxuC3?usp=sharing
+
+
 import speechbrain as sb
 from speechbrain.lobes.features import Fbank
 import torch
@@ -29,21 +32,12 @@ filepaths = csv_file['file_path'].tolist()
 baselines = csv_file['words'].tolist()
 counter = 0
 
-#asr_model = EncoderDecoderASR.from_hparams(source="speechbrain/asr-wav2vec2-commonvoice-en", savedir="./pretrained_wav2vec_commonvoice")
-asr_model = EncoderDecoderASR.from_hparams(source="speechbrain/asr-crdnn-rnnlm-librispeech", savedir="./pretrained_ASR", run_opts={"device":"cuda:0"})
-#asr_model.transcribe_file("./LibriSpeech/dev-clean-2/1272/135031/1272-135031-0003.flac")
-
-#parse_to_json("./LibriSpeech/dev-clean-2")
-
+asr_model = EncoderDecoderASR.from_hparams(source="speechbrain/asr-crdnn-rnnlm-librispeech", savedir="./pretrained_ASR", run_opts={"device":"cuda:0"}) #https://huggingface.co/speechbrain/asr-crdnn-rnnlm-librispeech
 
 dataset = DynamicItemDataset.from_csv("combined_train_data_MZ_only.csv")
-
-#dataset = dataset.filtered_sorted(sort_key="id", select_n=1)
-# we limit the dataset to 100 utterances to keep the trainin short in this Colab example
-
 dataset.add_dynamic_item(sb.dataio.dataio.read_audio, takes="file_path", provides="signal")
 
-# 2. Define audio pipeline:
+# Define audio pipeline:
 @sb.utils.data_pipeline.takes("file_path")
 @sb.utils.data_pipeline.provides("signal")
 def audio_pipeline(wav):
@@ -57,7 +51,7 @@ def audio_pipeline(wav):
 dataset.add_dynamic_item(audio_pipeline)
 
 
-# 3. Define text pipeline:
+# Define text pipeline:
 @sb.utils.data_pipeline.takes("words")
 @sb.utils.data_pipeline.provides(
         "words", "tokens_list", "tokens_bos", "tokens_eos", "tokens")
@@ -151,6 +145,7 @@ modules = {"enc": asr_model.mods.encoder.model,
            
           }
 
+#Loads checkpoint with the lowest validation MER score
 ckpt_finder = Checkpointer(checkpoint_dir)
 get_ckpt = ckpt_finder.find_checkpoint(min_key="MER")
 current_paramfile = get_ckpt.paramfiles["enc"]
@@ -172,23 +167,19 @@ brain.tokenizer = asr_model.tokenizer
 
 brain.fit(range(1), train_set=dataset, train_loader_kwargs={"batch_size": 4, "drop_last":True, "shuffle": True})
 
-
+# Validation code by testing MER on a validation set
 print("Starting Validation")
 for filepath in filepaths :
     result = asr_model.transcribe_file(filepath)
     mer = jiwer.mer(baselines[counter], result, truth_transform=transformation, hypothesis_transform=transformation)
     
     mer_list.append(mer)
-
-    #print("hypothesis: " + result)
-    #print("ground truth: " + baselines[counter])
-    #print("MER: " + str(mer))
-    #print("number: " + str(counter))
-
     counter = counter + 1
 
 average = sum(mer_list)/len(mer_list)
 print ("Average MER: " + str(average))
 
+
+#Saves current itteration as a checkpint for further processing
 checkpointer.add_recoverables(modules)
 ckpt = checkpointer.save_checkpoint(meta={"MER": average})

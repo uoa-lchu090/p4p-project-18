@@ -1,3 +1,6 @@
+#Author: Louis Chuo
+# This code is to use the microsoft azure api for processing the given NZ datasets, configurations as to the models can be changed here
+
 import azure.cognitiveservices.speech as speechsdk
 import os
 from pyexpat import model
@@ -6,19 +9,17 @@ from unittest import result
 import pandas as pd
 import csv
 
+# Code taken from https://learn.microsoft.com/en-us/azure/cognitive-services/speech-service/get-started-speech-to-text?tabs=linux%2Cterminal&pivots=programming-language-python
 def recognize_from_file(speechAddress):
-    speech_config = speechsdk.SpeechConfig(subscription="ec52ecd14b3c4e4d8739ea0191849bf3", region="australiaeast")
-    speech_config.speech_recognition_language="en-NZ"
+    speech_config = speechsdk.SpeechConfig(subscription="ec52ecd14b3c4e4d8739ea0191849bf3", region="australiaeast") #server configuaration and credential key input here, change to obtain personal code as this one will not work
+    speech_config.speech_recognition_language="en-NZ" # en-NZ for NZ enlgish, en-US for US english
 
-    #audio_config = speechsdk.audio.AudioConfig(use_default_microphone=True)
     audio_config = speechsdk.audio.AudioConfig(filename=speechAddress)
     speech_recognizer = speechsdk.SpeechRecognizer(speech_config=speech_config, audio_config=audio_config)
 
-    #print("Speak into your microphone.")
     speech_recognition_result = speech_recognizer.recognize_once_async().get()
 
     if speech_recognition_result.reason == speechsdk.ResultReason.RecognizedSpeech:
-        #print("Recognized: {}".format(speech_recognition_result.text))
         return "{}".format(speech_recognition_result.text)
     elif speech_recognition_result.reason == speechsdk.ResultReason.NoMatch:
         print("No speech could be recognized: {}".format(speech_recognition_result.no_match_details))
@@ -31,10 +32,9 @@ def recognize_from_file(speechAddress):
             print("Did you set the speech resource key and region values?")
         return ""
 
-#result = recognize_from_file("speech/JL/female1_angry_1a_1.wav")
-#print(result)
 
-
+# Code taken from https://learn.microsoft.com/en-us/azure/cognitive-services/speech-service/how-to-use-codec-compressed-audio-input-streams?tabs=linux%2Cdebian%2Cjava-android%2Cterminal&pivots=programming-language-python
+# Use this one for compressed audio formats like .mp3
 def speech_recognize_once_compressed_input(speechAddressmp3):
     """performs one-shot speech recognition with compressed input from an audio file"""
     # <SpeechRecognitionWithCompressedFile>
@@ -67,7 +67,7 @@ def speech_recognize_once_compressed_input(speechAddressmp3):
     callback = BinaryFileReaderCallback(filename=speechAddressmp3)
     stream = speechsdk.audio.PullAudioInputStream(stream_format=compressed_format, pull_stream_callback=callback)
 
-    speech_config = speechsdk.SpeechConfig(subscription="ec52ecd14b3c4e4d8739ea0191849bf3", region="australiaeast")
+    speech_config = speechsdk.SpeechConfig(subscription="ec52ecd14b3c4e4d8739ea0191849bf3", region="australiaeast")#server configuaration and credential key input here, change to obtain personal code as this one will not work
     audio_config = speechsdk.audio.AudioConfig(stream=stream)
 
     # Creates a speech recognizer using a file as audio input, also specify the speech language
@@ -94,7 +94,6 @@ def speech_recognize_once_compressed_input(speechAddressmp3):
         if cancellation_details.reason == speechsdk.CancellationReason.Error:
             print("Error details: {}".format(cancellation_details.error_details))
         return ""
-    # </SpeechRecognitionWithCompressedFile>
 
 
 if __name__ == "__main__":
@@ -103,9 +102,7 @@ if __name__ == "__main__":
     result_array = []
     x = 0
 
-    #translated_result = speech_recognize_once_compressed_input("speech/Mozilla/common_voice_en_18460407.mp3")
-    #print(translated_result)
-
+# Loop for processing and saving audio files, change file directories and names to respective datasets to run
     for filename in os.listdir("speech/Mansfield"):
         if filename.endswith(".wav"):
             file_path = "speech/Mansfield/" + filename

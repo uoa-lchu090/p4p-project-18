@@ -1,3 +1,6 @@
+#Author: Louis Chuo
+# Used to calcualte the WER, MER, and WIL from the hypothesised data and baseline data for the JL corpus
+
 import shutil
 import pandas as pd
 import jiwer

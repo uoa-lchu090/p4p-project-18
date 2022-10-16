@@ -1,3 +1,6 @@
+#Author: Louis Chuo
+#Code samples 200 random files from the US and NZ English accented Mozilla datasets, then uses SpeechBrain's multiple embedding models to generate a scatter plot of its embeddings
+
 from speechbrain.pretrained import SpeakerRecognition
 import torchaudio
 from pathlib import Path
@@ -15,7 +18,10 @@ utterances2 = glob.glob("./speech/US/*.mp3", recursive=True)
 np.random.shuffle(utterances2)
 utterances2 = utterances2[:200]
 
-verification = SpeakerRecognition.from_hparams(source="speechbrain/lang-id-voxlingua107-ecapa", savedir="tmp")
+verification = SpeakerRecognition.from_hparams(source="speechbrain/lang-id-voxlingua107-ecapa", savedir="tmp") #https://huggingface.co/speechbrain/lang-id-voxlingua107-ecapa
+#verification = SpeakerRecognition.from_hparams(source="speechbrain/spkrec-ecapa-voxceleb", savedir="tmp") #https://huggingface.co/speechbrain/spkrec-ecapa-voxceleb
+#verification = SpeakerRecognition.from_hparams(source="speechbrain/spkrec-xvect-voxceleb", savedir="tmp") #https://huggingface.co/speechbrain/spkrec-xvect-voxceleb
+
 
 embeddings1 = []
 labels = []

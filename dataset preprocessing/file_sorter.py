@@ -1,5 +1,5 @@
 # Author: Louis Chuo, Henry An
-# Description:  This code reads data from an excel file and moves the present files into another specified folder
+# Description:  This code reads data from an excel file and moves the present filenames into another specified folder
 
 import shutil
 import pandas as pd
