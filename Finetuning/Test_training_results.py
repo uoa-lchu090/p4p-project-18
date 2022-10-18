@@ -12,10 +12,9 @@ from speechbrain.utils.checkpoints import Checkpointer
 import speechbrain as sb
 import csv
 
+dataset = "Mozilla" #Mozilla, JL, Mansfield
 checkpoint_dir = "./saved_checkpoint" #change to saved checkpoint folder containing needed model
 checkpointer = Checkpointer(checkpoint_dir)
-
-dataset = "Mozilla" #Mozilla, JL, Mansfield
 
 transformation = jiwer.Compose([
     jiwer.ToLowerCase(),

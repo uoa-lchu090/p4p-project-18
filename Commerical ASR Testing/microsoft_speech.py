@@ -9,10 +9,13 @@ from unittest import result
 import pandas as pd
 import csv
 
+dataset = "Mansfield" # JL, Mansfield, Mozilla 
+model_accent = "NZ" # NZ, US
+
 # Code taken from https://learn.microsoft.com/en-us/azure/cognitive-services/speech-service/get-started-speech-to-text?tabs=linux%2Cterminal&pivots=programming-language-python
 def recognize_from_file(speechAddress):
     speech_config = speechsdk.SpeechConfig(subscription="ec52ecd14b3c4e4d8739ea0191849bf3", region="australiaeast") #server configuaration and credential key input here, change to obtain personal code as this one will not work
-    speech_config.speech_recognition_language="en-NZ" # en-NZ for NZ enlgish, en-US for US english
+    speech_config.speech_recognition_language="en-" + model_accent # en-NZ for NZ enlgish, en-US for US english
 
     audio_config = speechsdk.audio.AudioConfig(filename=speechAddress)
     speech_recognizer = speechsdk.SpeechRecognizer(speech_config=speech_config, audio_config=audio_config)
@@ -68,6 +71,8 @@ def speech_recognize_once_compressed_input(speechAddressmp3):
     stream = speechsdk.audio.PullAudioInputStream(stream_format=compressed_format, pull_stream_callback=callback)
 
     speech_config = speechsdk.SpeechConfig(subscription="ec52ecd14b3c4e4d8739ea0191849bf3", region="australiaeast")#server configuaration and credential key input here, change to obtain personal code as this one will not work
+    speech_config.speech_recognition_language="en-" + model_accent # en-NZ for NZ enlgish, en-US for US english
+    
     audio_config = speechsdk.audio.AudioConfig(stream=stream)
 
     # Creates a speech recognizer using a file as audio input, also specify the speech language
@@ -103,9 +108,9 @@ if __name__ == "__main__":
     x = 0
 
 # Loop for processing and saving audio files, change file directories and names to respective datasets to run
-    for filename in os.listdir("speech/Mansfield"):
+    for filename in os.listdir("speech/" + dataset):
         if filename.endswith(".wav"):
-            file_path = "speech/Mansfield/" + filename
+            file_path = "speech/" + dataset + "/" + filename
             translated_result = recognize_from_file(file_path)
             #translated_result = speech_recognize_once_compressed_input(file_path)
             print(filename)
@@ -113,7 +118,7 @@ if __name__ == "__main__":
             name_array.append(filename)
             result_array.append(translated_result)
 
-    with open('speech/Mansfield_output_microsoft_NZ.csv', 'w', newline= '') as out_file:
+    with open('speech/'+ dataset +'_output_microsoft_'+ model_accent + '.csv', 'w', newline= '') as out_file:
         tsv_writer = csv.writer(out_file)
         while x < len(name_array) :
             tsv_writer.writerow([name_array[x], result_array[x]])

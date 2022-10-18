@@ -15,9 +15,12 @@ from pandas import *
 import shutil
 import os
 
-checkpoint_dir = "./saved_checkpoint_MZ_only"
+checkpoint_dir = "./saved_checkpoint_MZ_only" # change directory to model checkpoint wanted
+data_dir = "combined_train_data_MZ_only.csv" # CHnage directory to preffered training data
 checkpointer = Checkpointer(checkpoint_dir)
 
+
+# Set up constants
 transformation = jiwer.Compose([
     jiwer.ToLowerCase(),
     jiwer.RemoveWhiteSpace(replace_by_space=True),
@@ -32,10 +35,15 @@ filepaths = csv_file['file_path'].tolist()
 baselines = csv_file['words'].tolist()
 counter = 0
 
+#Load base asr model
 asr_model = EncoderDecoderASR.from_hparams(source="speechbrain/asr-crdnn-rnnlm-librispeech", savedir="./pretrained_ASR", run_opts={"device":"cuda:0"}) #https://huggingface.co/speechbrain/asr-crdnn-rnnlm-librispeech
 
-dataset = DynamicItemDataset.from_csv("combined_train_data_MZ_only.csv")
+#Load dataset
+dataset = DynamicItemDataset.from_csv(data_dir)
 dataset.add_dynamic_item(sb.dataio.dataio.read_audio, takes="file_path", provides="signal")
+
+
+
 
 # Define audio pipeline:
 @sb.utils.data_pipeline.takes("file_path")
@@ -104,9 +112,7 @@ class EncDecFineTune(sb.Brain):
         return p_seq, wav_lens
 
     def compute_objectives(self, predictions, batch, stage):
-        """Computes the loss (CTC+NLL) given predictions and targets."""
-
-        
+        """Computes the loss (CTC+NLL) given predictions and targets."""  
         p_seq, wav_lens = predictions
 
         ids = batch.id
@@ -116,7 +122,6 @@ class EncDecFineTune(sb.Brain):
         loss = self.hparams.seq_cost(
             p_seq, tokens_eos, tokens_eos_lens)
         
-
         return loss
 
     def fit_batch(self, batch):
@@ -142,7 +147,6 @@ modules = {"enc": asr_model.mods.encoder.model,
            "compute_features": asr_model.mods.encoder.compute_features, # we use the same features 
            "normalize": asr_model.mods.encoder.normalize,
            "seq_lin": asr_model.hparams.seq_lin, 
-           
           }
 
 #Loads checkpoint with the lowest validation MER score
@@ -162,6 +166,7 @@ sb.utils.checkpoints.torch_parameter_transfer(asr_model.hparams.seq_lin, get_ckp
 hparams = {"seq_cost": lambda x, y, z: sb.nnet.losses.nll_loss(x, y, z, label_smoothing = 0.1),
             "log_softmax": sb.nnet.activations.Softmax(apply_log=True)}
 
+#Set up finetuning procedure
 brain = EncDecFineTune(modules, hparams=hparams, opt_class=lambda x: torch.optim.SGD(x, 1e-5),run_opts = {'device':"cuda:0"})
 brain.tokenizer = asr_model.tokenizer
 
@@ -180,6 +185,6 @@ average = sum(mer_list)/len(mer_list)
 print ("Average MER: " + str(average))
 
 
-#Saves current itteration as a checkpint for further processing
+#Saves current itteration as a checkpoint for further processing
 checkpointer.add_recoverables(modules)
 ckpt = checkpointer.save_checkpoint(meta={"MER": average})

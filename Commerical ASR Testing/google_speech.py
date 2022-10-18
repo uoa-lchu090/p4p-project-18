@@ -8,6 +8,9 @@ from unittest import result
 import pandas as pd
 import csv
 
+dataset = "Mansfield" # JL, Mansfield, Mozilla 
+model_accent = "NZ" # NZ, US
+
 # Code based off: https://learndataanalysis.org/source-code-getting-started-with-google-cloud-speech-to-text-api-in-python/
 def transcribe_file(speech_file):
     """Transcribe the given audio file."""
@@ -25,7 +28,7 @@ def transcribe_file(speech_file):
     config = speech.RecognitionConfig(
         encoding=speech.RecognitionConfig.AudioEncoding.LINEAR16,
         #sample_rate_hertz=48000,
-        language_code="en-NZ" # en-NZ for NZ enlgish, en-US for US english
+        language_code="en-" + model_accent # en-NZ for NZ enlgish, en-US for US english
         #model="latest_short"
     )
 
@@ -53,16 +56,16 @@ if __name__ == "__main__":
 
 
 # Loop for processing and saving audio files, change file directories and names to respective datasets to run
-    for filename in os.listdir("speech/Mansfield"):
+    for filename in os.listdir("speech/" + dataset):
         if filename.endswith(".wav"):
-            file_path = "speech/Mansfield/" + filename
+            file_path = "speech/" + dataset + "/" + filename
             translated_result = transcribe_file(file_path)
             print(file_path)
             print(translated_result)
             name_array.append(filename)
             result_array.append(translated_result)
 
-    with open('speech/Mansfield_output_google_NZ.csv', 'w', newline= '') as out_file:
+    with open('speech/'+ dataset +'_output_google_'+ model_accent + '.csv', 'w', newline= '') as out_file:
         tsv_writer = csv.writer(out_file)
         while x < len(name_array) :
             tsv_writer.writerow([name_array[x], result_array[x]])
