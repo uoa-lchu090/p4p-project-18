@@ -1,0 +1,878 @@
+filename,baseline,hypothesis,WER,MER,WIL
+common_voice_en_25358019.wav,A plaque was installed at the bridge with information on Griffiths.,A CLERK WAS INSTALLED AT THE BRIDGE WITH INFORMATION ON GRIFFITH'S,0.09090909090909091,0.09090909090909091,0.17355371900826455
+common_voice_en_27871004.wav,Maurizio and Lazzaro.,MORITZ YACHT SAID ZARA,1.3333333333333333,1.0,1.0
+common_voice_en_21507110.wav,Minoan art encompassed many media.,I KNOW AN ARCH HE HAD ENCOMPASSED MANY METEOR,1.4,0.7777777777777778,0.9111111111111111
+common_voice_en_18893876.wav,"Two notable Chinatowns exist in Buenos Aires, Argentina and Lima, Peru.",TWO NOTABLE CHINATOWNS EXISTS AND BUENOS AYRES ARGENTINA AND LIMA PRUE,0.36363636363636365,0.36363636363636365,0.5950413223140496
+common_voice_en_23566576.wav,"Kitchen waste, broken objects, and similar material all need to be disposed of.",KITCHEN WASTE BROKEN OBJECTS AND SIMILAR MATERIAL ALL NEED TO BE DISPOSED OF,0.0,0.0,0.0
+common_voice_en_20031311.wav,"In the summer, he was officially appointed as team captain.",IN THE SUMMER HE WAS OFFICIALLY APPOINTED HIS TEAM CAPTAIN,0.1,0.1,0.18999999999999995
+common_voice_en_19567935.wav,"John Diefenbaker reportedly ""loathed"" Stevens over the issue.",JOHN DEEPENED BAKER REPORTABLY LOATHED STEVENS OVER THE ESSAY,0.5,0.4444444444444444,0.6527777777777778
+common_voice_en_19568027.wav,"Farther north, tulip trees are gradually replaced by maples and birches.",MEANWHILE THE TREES ARE GRADUALLY REPLACED BY MAPLES AND BREECHES,0.36363636363636365,0.36363636363636365,0.5545454545454546
+common_voice_en_23830005.wav,Many commercial websites also offer this service at a charge.,MANY COMMISSION WERE ABSORBED ALSO OFFERED THE SURFACE AT A CHARGE,0.6,0.5454545454545454,0.7727272727272727
+common_voice_en_19852676.wav,During this time power was increasingly exercised by Lady Ki.,DURING THIS TIME POWER WAS INCREASINGLY EXERCISED BY LADY KAY,0.1,0.1,0.18999999999999995
+common_voice_en_23893804.wav,A callus cell culture is usually sustained on gel medium.,A CALLOUS SALVE CULTURE IS USUALLY SUSTAINED ON THIS MEDIUM,0.3,0.3,0.51
+common_voice_en_22443828.wav,"It allowed users to create public chat rooms, send private messages, and use emoticons.",IT ALLOWED USES TO CREATE PUBLIC CHAT ROBES SEND PRIVATE MESSAGES AND USE A MONOCONS,0.2857142857142857,0.26666666666666666,0.42380952380952386
+common_voice_en_27284833.wav,"He has a twin sister, Nicholle Tom, who is also an actress.",HE HAS A TWIN SISTER NAPOLEON WHO IS ALSO AN ACTRESS,0.16666666666666666,0.16666666666666666,0.24242424242424243
+common_voice_en_20049289.wav,"It is broadcast from Finland, where the advertising laws are more liberal.",IT IS BROADCAST FROM FINLAND WHERE THE ADVERTISING LAWS ARE MORE LIBERAL,0.0,0.0,0.0
+common_voice_en_19693154.wav,"Early on, he was an actor in at the Burgtheater in Vienna.",EARLY ON HE WAS AN ACTOR AND AT THE BURG THEATER IN VIENNA,0.25,0.23076923076923078,0.3589743589743589
+common_voice_en_18977847.wav,Its capital was Chiavari.,ITS CAPITAL WAS CHEER VARIETY,0.5,0.4,0.55
+common_voice_en_18985554.wav,Men and women are equally likely to use benzodiazepines recreationally.,MEN AND WOMAN ARE EQUALLY DRY CLEAN TO USE BEND SO DIES A PAINTS RECREATIONALLY,0.8,0.5333333333333333,0.6733333333333333
+common_voice_en_17285839.wav,I seem to remember just wearing a t-shirt and jeans.,I SEEM TO REMEMBER JUST WEARING A TISSUET AND JEANS,0.1,0.1,0.18999999999999995
+common_voice_en_21207723.wav,The original web site can still be seen.,THE ORIGINAL WHIPSIGHT CAN STILL BE SAYING,0.375,0.375,0.5535714285714286
+common_voice_en_24957159.wav,"The north end of the lake is swampy, making navigation with a motorboat difficult.",THE NORTH END OF THE LAKE OF SWAMPING MAKING NAVIGATION WITH THE MOTOR BOAT DIFFICULT,0.35714285714285715,0.3333333333333333,0.5238095238095238
+common_voice_en_23893591.wav,And for a Carpetbagger I do not give a damn.,AND FOR A TOPIC BEGGAR I DO NOT GIVE A DAMN,0.2,0.18181818181818182,0.26363636363636356
+common_voice_en_18893980.wav,The club hope to build new changing facilities.,THE CLUB HOPED TO BUILD NEW CHANGING FACILITIES,0.125,0.125,0.234375
+common_voice_en_27344743.wav,"The mechanism works reliably, but sometimes small incidents occur.",THE MECHANISM WORKS RELIABLY BUT SOMETIMES SMALL INCIDENTS OCCUR,0.0,0.0,0.0
+common_voice_en_19552867.wav,Individuals are territorial around their nest sites.,INDIVIDUALS A TERRITORIAL AROUND THE INNOCENTS,0.5714285714285714,0.5714285714285714,0.7857142857142857
+common_voice_en_19547928.wav,Hill never entered battle in the campaign.,HE'LL NEVER ENTERED BATTLE IN THE CAMPAIGN,0.14285714285714285,0.14285714285714285,0.26530612244897966
+common_voice_en_19550894.wav,The Vineyarders have a long-standing rivalry with Nantucket High School.,THE VINEYARDS HAVE A LONG STANDING RIVALRY WITH NANTUCKET HIGH SKULL,0.4,0.36363636363636365,0.5545454545454546
+common_voice_en_25354173.wav,He was later said to be in a stable condition.,HE WAS LATE AS SAID TO BE IN A STABLE CONDITION,0.2,0.18181818181818182,0.26363636363636356
+common_voice_en_19552561.wav,The Waikiki side of the cemetery was the old Plantation and rice paddies.,THE LA KIKI'S SIDE OF THE SYMMETRY WAS THE OLD PLANTATION AND RACE PETTIES,0.38461538461538464,0.35714285714285715,0.554945054945055
+common_voice_en_19552437.wav,Shai Hulud started recording the album in August and finished the process in September.,PHOTOGRAPHED RECORDING THE ALBERMAN AUGUST AND FINISHED THE PROCESS IN SEPTEMBER,0.35714285714285715,0.35714285714285715,0.4740259740259739
+common_voice_en_28853384.wav,Maruti True service offered by Maruti Suzuki to its customers.,MORALITY TRUE SERVICE OFFERED BY MARUTI SUZUKI TO ITS CUSTOMERS,0.1,0.1,0.18999999999999995
+common_voice_en_18893592.wav,Warming centers typically open during particularly cold or rainy nights.,WARMING CENTRES TYPICALLY OPEN DURING PARTICULARLY COLD OR RAINY NIGHTS,0.1,0.1,0.18999999999999995
+common_voice_en_28852528.wav,"""In fact, there's no technology in ""Equilibrium"" that doesn't already exist.",IN FACT THERE'S NO TECHNOLOGY IN EQUILIBRIUM THAT DOESN'T ALREADY EXIST,0.0,0.0,0.0
+common_voice_en_18496989.wav,I was trained in the dark arts of assembly coding.,I WAS TRAINED IN THE DARK HEARTS OF ASSEMBLY CODIN,0.2,0.2,0.3599999999999999
+common_voice_en_23893340.wav,"After Williams released his version, Cajuns recorded the song again using Cajun instruments.",AFTER WILLIAM'S RELEASE HIS VERSION AND CATCHINGS RECORDED THE SONG AGAIN IS IN CATCHING INSTRUMENTS,0.46153846153846156,0.4,0.5846153846153846
+common_voice_en_25359160.wav,"Most recently, he uncovered the shilling scandal in Bali.",MOST RECENTLY HE UNCOVERED A SHILLING SCANDAL AND BARLEY,0.3333333333333333,0.3333333333333333,0.5555555555555556
+common_voice_en_30645465.wav,The study and conduct of the research drew wide criticism.,THE STUDY AND CONDUCT OF THE RESEARCH THREW WIDE CRITICISM,0.1,0.1,0.18999999999999995
+common_voice_en_20999504.wav,No reply ever came.,NO REPLY EVER CAME,0.0,0.0,0.0
+common_voice_en_27269985.wav,They were originally written as musical exercises for his students.,THEY WERE ORIGINALLY RISKED AS MUSICAL EXERCISES FOR A STUDENTS,0.2,0.2,0.3599999999999999
+common_voice_en_19974718.wav,"And so the Elunetru, the seat was provided for the Formless God.",AND SO THE ELABORATORY THE SEAT WAS PROVIDED FOR THE FORMLESS GUARD,0.16666666666666666,0.16666666666666666,0.30555555555555547
+common_voice_en_23893440.wav,Some other important artists for her are Paul Simon and Laura Nyro.,SOME OTHER IMPORTANT ARTISTS FOR HER ARE PAUL SYMON AND LAURA NARROW,0.16666666666666666,0.16666666666666666,0.30555555555555547
+common_voice_en_19717580.wav,The other two hits started a fire in her aircraft hangar.,THE OTHER TWO HAD STARTED AS A FIRE IN HER AIRCRAFT HANGER,0.2727272727272727,0.25,0.38636363636363635
+common_voice_en_28852580.wav,"As a result, today the Railgon pool is significantly smaller than at its peak.",AS A RESULT TO DAY THE RAILROAD POOL IS SIGNIFICANTLY SMALLER THAN AT ITS PEAK,0.21428571428571427,0.2,0.3142857142857143
+common_voice_en_29381016.wav,This all but assured Titus' return to Congress after a two-year absence.,THUS WILL BUT ASSURED THORNDYKE'S RETURN TO CONGRESS AFTER A TWO YEAR ABSENCE,0.4166666666666667,0.38461538461538464,0.5897435897435898
+common_voice_en_23798440.wav,"Moreover, the mud, algae, and leeches compromised the lake's appeal as a swimming destination.",MOREOVER THE MUD ALGAE AND LECTURES COMPROMISE THE LAKES APPEAL AS A SWIMMING DESTINATION,0.14285714285714285,0.14285714285714285,0.26530612244897966
+common_voice_en_21207961.wav,Quinpool is also the heart of the city's middle class West End neighbourhood.,QUINCY IS ALSO THE HEART OF THE CITY'S MIDDLE CLASS WEST AND NEIGHBORHOOD,0.23076923076923078,0.23076923076923078,0.40828402366863903
+common_voice_en_19692987.wav,"Located mostly in Jefferson County, it lies immediately west of Littleton.",LOCATED MONSEY AND JEFFERSON COUNTY IT LIES IMMEDIATELY WEST OF LITTLETON,0.18181818181818182,0.18181818181818182,0.3305785123966941
+common_voice_en_20167161.wav,It was a strong voice in support of woman's suffrage.,IT WAS A STRONG VOICE AND SUPPORT OF WOMAN'S SUFFRAGE,0.1,0.1,0.18999999999999995
+common_voice_en_27292180.wav,"Nelo Angelo is voiced by David Kelley in ""Devil May Cry"".",BY DAVID KELLY AND DEVIL MAY CRY,0.5454545454545454,0.5454545454545454,0.6753246753246753
+common_voice_en_19747050.wav,"It has two Mini-shinkansen branch lines, the Yamagata Shinkansen and Akita Shinkansen.",THERE'S TOO MINNIE SHE CAN'T SEND BRANCH LIONS YAMAGATTA SYMPTOMSON AND THE AQUITA CHICKENS THEM,1.1666666666666667,0.9333333333333333,0.9944444444444445
+common_voice_en_18946861.wav,See Sons of Odin.,SEE THE SONS OF ODIN,0.25,0.2,0.19999999999999996
+common_voice_en_27871413.wav,"All data is shown annually, benchmarked against prior years.",ALL DATA IS SHOWN ANNUALLY BENCH MARKED AGAINST PRIOR YEARS,0.2222222222222222,0.2,0.28888888888888886
+common_voice_en_20167042.wav,"De Ruyter tactfully pointed out: ""Such courage is too perilous"".",D'ARTAGNAN TACTFULLY POINTED OUT SUCH COURAGE AS TOO PERILOUS,0.3,0.3,0.4555555555555556
+common_voice_en_19551002.wav,"The city was named after Lamoni, a king mentioned in the Book of Mormon.",THE CITY WAS NAMED AFTER LA MORNE A KING MENTIONED IN THE BOOK OF MORMON,0.14285714285714285,0.13333333333333333,0.1952380952380952
+common_voice_en_20562385.wav,The membrane has many nerve endings packed with mitochondria.,THE MEMBRANE HAS MANY NEW RENDINGS PATCHED WITH MARTYR CONJURER,0.5555555555555556,0.5,0.7222222222222222
+common_voice_en_21185355.wav,"A production of ""Venus in Mars"" is in the works.",A PRODUCTION OF VENUS AND MARS IS IN THE WORKS,0.1,0.1,0.18999999999999995
+common_voice_en_19867766.wav,"He has three children with his wife, graphic novelist Coco Moodysson.",HE HAS THREE CHILDREN WITH HIS WIFE GRAPHIC NOVELIST COCOA MUDDY SON,0.2727272727272727,0.25,0.38636363636363635
+common_voice_en_19547790.wav,"""One Saturday Morning"" - advertised as ""five hours of summer, once a week!",ONE SATURDAY MORNING ADVERTISED AS FIVE HOURS OF SUMMER ONCE A WEEK,0.0,0.0,0.0
+common_voice_en_23893816.wav,It is in the Ludlow parliamentary constituency and the West Midlands European parliament constituency.,IT IS IN THE LUDLOW PARLIAMENTARY CONSTITUENCY IN THE WASTEMENT LANDS EUROPEAN PARLIAMENT CONSTITUENCY,0.21428571428571427,0.21428571428571427,0.38265306122448983
+common_voice_en_25640605.wav,Mass continues to produce and master albums for several international recording artists.,MESS CONTINUES TO PRODUCE AND MASTER ELBOWS FOR SEVERAL INTERNATIONAL RECORDING ARTISTS,0.16666666666666666,0.16666666666666666,0.30555555555555547
+common_voice_en_19853479.wav,In September it participated in the Battle of Polygon Wood.,IN SEPTEMBER IT PARTICIPATED IN THE BATTLE OF POLIGAN WOOD,0.1,0.1,0.18999999999999995
+common_voice_en_21181889.wav,Confederate veterans were also eligible for interment there.,CONFEDERATE VETERANS WERE ALSO ELIGIBLE FOR INTERMENT THERE,0.0,0.0,0.0
+common_voice_en_19867719.wav,It is a loose concept album about urban decay in post-Thatcherite Britain.,IT IS A LOOSE CONCERT ALBUM ABOUT URBAN DECAY IN POSTS THAT ARIGHT BRITAIN,0.3333333333333333,0.2857142857142857,0.40476190476190477
+common_voice_en_21208411.wav,Often the writer can also recast the sentence to avoid it.,OFTEN THE WRITER CAN ALSO RECAST THE SENTENCE TO AVOID IT,0.0,0.0,0.0
+common_voice_en_21206779.wav,I don't want that.,I DON'T WANT THAT,0.0,0.0,0.0
+common_voice_en_18884685.wav,It is used in conjunction with a biomicroscope.,IT IS USED IN CONJUNCTION WITH THE BIO MICROSCOPE,0.375,0.3333333333333333,0.5
+common_voice_en_21493967.wav,"The township is east of Ebensburg, the Cambria County seat, and southwest of Altoona.",THE TOWN SHOOK THIS EAST OF HIBBINSBURG TO THE CAMBRIDGE COUNTY SEAT AND SOUTHWEST OF ALTRINA,0.5,0.4375,0.6383928571428571
+common_voice_en_26997361.wav,"MacNamara's novel has been reprinted several times, particularly when interest in the topic re-emerges.",MAC NAMAR'S NOVEL HAS BEEN REPRINTED SEVERAL TIMES PARTICULARLY WHEN INTERESTED IN THE TOPIC RE EMERGES,0.35714285714285715,0.3125,0.4598214285714286
+common_voice_en_23893426.wav,"He at this time had Napoleon's confidence, and gave him wholehearted support.",HE AT THIS TIME HAD NAPOLEON'S CONFIDENCE AND GAVE HIM WHOLE HEARTED SUPPORT,0.16666666666666666,0.15384615384615385,0.22435897435897445
+common_voice_en_18967247.wav,Kenya recorded an easy nine-wicket win over Gibraltar.,KENYA RECORDED AN EASY NINETEEN TO ONE OF GIBRALTAR,0.5,0.4444444444444444,0.6527777777777778
+common_voice_en_25358062.wav,The attack was thrown back with heavy Finnish casualties.,THE ATTACK WAS THRONGED BACK WITH HEAVY FINISHED CASUALTIES,0.2222222222222222,0.2222222222222222,0.3950617283950617
+common_voice_en_19552945.wav,The grenade exploded and seriously injured Rabbi Haim-Moshe Shapira of the National Religious Party.,D'ARTAGNAN EXPLOITED AND SERIOUSLY ENDEAVORED BY A HYMNOSH SUPERIOR OF THE NATIONAL RELIGIOUS PARTY,0.5714285714285714,0.5333333333333333,0.75
+common_voice_en_21185323.wav,"Gunn Margit Andreassen, biathlete and a cross-country skier, Olympic gold medalist.",IT'S A CROSS COUNTRY SQUARE OLYMPIC GOLD MEDALLIST,0.8181818181818182,0.8181818181818182,0.9545454545454546
+common_voice_en_19693016.wav,"After high school, he went on to study at the University of Missouri.",AFTER HIGH SCHOOL HE WENT ON TO STUDY AT THE UNIVERSITY OF MISSOURI,0.0,0.0,0.0
+common_voice_en_30650361.wav,They can be used with power.,THEY CAN BE USED WITH POWER,0.0,0.0,0.0
+common_voice_en_21185433.wav,"A heavy drinker, Jim treated his children unfairly, favouring some, neglecting others.",A HEAVY DRINKER JIM TREATED HIS CHILDREN UNFILLY FAVOURING SOME NEGLECTING OTHERS,0.08333333333333333,0.08333333333333333,0.15972222222222232
+common_voice_en_30645475.wav,One sitting member John Lucas did not contest the election.,ONE SITTING MEMBER JOHN LUCAS DID NOT CONTEST THE ELECTION,0.0,0.0,0.0
+common_voice_en_21507248.wav,Theories differ on why the lower level platform was built.,HERE IS DIFFER ON WHY THE LOWER LEVEL PLATFORM WAS BUILT,0.2,0.18181818181818182,0.26363636363636356
+common_voice_en_23892944.wav,"The transverse redundancy check is stored on a dedicated ""parity track"".",THE TRANSVERSE REDUNDANCY CHICKENS STORED ON A DEDICATED PAIR OF TEETH,0.45454545454545453,0.4166666666666667,0.5950413223140496
+common_voice_en_18714994.wav,"He died of lung cancer in La Jolla, California.",HE DIED OF LANCANCOURT LIE JONAH CALIFORNIA,0.5555555555555556,0.5555555555555556,0.746031746031746
+common_voice_en_26350170.wav,"This was also the year they recorded their debut album, ""Surviving the Quiet"".",IT WAS ALSO THE YEAR THEY RECORDED THAT A NEW ELBOW SURVIVING THE PRIDE,0.46153846153846156,0.42857142857142855,0.6483516483516483
+common_voice_en_18967287.wav,"Again, the plans were dimensioned in feet and inches.",AGAIN THE PAINS WERE DIMENSIONED IN FEET AND INCHES,0.1111111111111111,0.1111111111111111,0.2098765432098766
+common_voice_en_19853500.wav,These two men were Bonsilao of Ormoc and Sinirungan of Dagami.,THESE TWO MEN WERE BONCILLA OF ORMARK AND SAINT A RHONGANO DAGAMI,0.45454545454545453,0.4166666666666667,0.6287878787878788
+common_voice_en_25640379.wav,Uruk has the first monumental constructions in architectural history.,RUIN HAS THE FIRST MONUMENTAL CONSTRUCTIONS IN ARCHITECTURAL HISTORY,0.1111111111111111,0.1111111111111111,0.2098765432098766
+common_voice_en_22749687.wav,Documentaries often use the theme of adventure as well.,DOCUMENTARIES OFTEN USED THE THEME OF ADVENTURE AS WELL,0.1111111111111111,0.1111111111111111,0.2098765432098766
+common_voice_en_22708462.wav,He was a member of the Punching Church.,HE WAS A MEMBER OF THE PUNCHING CHURCH,0.0,0.0,0.0
+common_voice_en_19852943.wav,Eight women in all have won this award multiple times.,DON'T MULTIPLY TERMS,1.0,1.0,1.0
+common_voice_en_19744214.wav,Robinson played wide receiver at the University of South Carolina.,ROBINSON PLAYED WIDE RECEIVER AT THE UNIVERSITY OF SOUTH CAROLINA,0.0,0.0,0.0
+common_voice_en_18890767.wav,It was not widely released outside of Norway.,IT WAS NOT WHY BE RELEASED OUTSIDE OF NOAHWAY,0.375,0.3333333333333333,0.5
+common_voice_en_18893811.wav,The emphasis is on grandeur and comfort instead of defence.,THE EMPHASIS IS ON GRANDEUR AND COMFORT AND STIR OF THE PRINTS,0.4,0.3333333333333333,0.4666666666666667
+common_voice_en_27871330.wav,Thereafter they formed part of the new South African honours system.,THEREAFTER THEY FORMED PART OF THE NEW SOUTH AFRICAN HONOR'S SYSTEM,0.09090909090909091,0.09090909090909091,0.17355371900826455
+common_voice_en_21182064.wav,"The dot is not attracted to the magnet, unlike most other objects in ""Adventure"".",THE DOT IS NOT ATTRACTED TO THE MAGNET UNLIKE MOST OTHER OBJECTS AND ADVENTURE,0.07142857142857142,0.07142857142857142,0.1377551020408163
+common_voice_en_28853329.wav,"It is situated by the Ume River, at the southeastern end of Lake Storuman.",IT IS SITUATED BY THE ONLY RIVER AT THE SOUTHEASTERN END OF LAKE STORMIN,0.14285714285714285,0.14285714285714285,0.26530612244897966
+common_voice_en_18715654.wav,The customs and the meaning of the word has considerable doubt.,THE CUSTOMS AND THE MEANING OF THE WORD HAS CONSIDERABLE DOUBT,0.0,0.0,0.0
+common_voice_en_23893685.wav,Found in isolated populations across northern Africa and in southwestern Asia.,FOUND AN ISOLATED POPULATIONS ACROSS NORTHERN AFRICA AND IN SOUTH WESTERN ASIA,0.2727272727272727,0.25,0.38636363636363635
+common_voice_en_23893739.wav,He is also on the Board of Directors for the Animal Legal Defense Fund.,HE IS ALSO ON THE BOARD OF DIRECTORS FOR THE ANIMAL LEGAL DEFENCE FOUND,0.14285714285714285,0.14285714285714285,0.26530612244897966
+common_voice_en_27870966.wav,An ideal diode allows current in one direction but not in the other.,AN IDEAL I OWED AND I WAS CURRENT IN ONE DIRECTION BUT NOT IN THE OTHER,0.38461538461538464,0.3125,0.4182692307692307
+common_voice_en_25640366.wav,All events have been held inside the Impact!,ALL EVENTS HAVE BEEN HELD INSIDE THE IMPACT,0.0,0.0,0.0
+common_voice_en_18893963.wav,"This is a list of Jesuit scientists, who contributed somehow to science.",THIS IS A LIST OF JESUIT SCIENTISTS WHO CONTRIBUTED SOMEHOW TO SCIENCE,0.0,0.0,0.0
+common_voice_en_23893551.wav,"Other attractions include crystal-clear green waters, lush vegetation and canoeing.",OTHER ATTRACTIONS INCLUDE CRYSTAL CLEAR GREEN WATERS LASH VEGETATION AND CANOEING,0.3,0.2727272727272727,0.4181818181818181
+common_voice_en_19519470.wav,"""The Cross"" is a local booklet produced monthly by the Anglican church.",THE CROSS AS A LOCAL BUCKLER PRODUCED MONTLEY BY THE AGRICAN CHURCH,0.3333333333333333,0.3333333333333333,0.5555555555555556
+common_voice_en_28467355.wav,"Formerly a military base, it has become an important transport hub for western Poland.",FORMERLY A MILITARY BASE IT HAS BECOME AN IMPORTANT TRANSPORT HOPE FOR WESTERN POLAND,0.07142857142857142,0.07142857142857142,0.1377551020408163
+common_voice_en_19561821.wav,Such airplanes can face operational restrictions based on runway length or local noise restrictions.,SANCHO PLAINS KEN FACE OPERATIONAL RESTRICTIONS SPACE ON RUNAWAY LENGTH WILL LOCAL NOISE RESTRICTIONS,0.42857142857142855,0.42857142857142855,0.6734693877551021
+common_voice_en_21183277.wav,"Together, the couple has four children, ten grandchildren and two great-grandchildren.",TOGETHER THE COUPLE HAS FOUR CHILDREN TEN GRANDCHILDREN AND TWO GREAT GRANDCHILDREN,0.18181818181818182,0.16666666666666666,0.24242424242424243
+common_voice_en_25040779.wav,Technicians use a helicopter rather than hiking the long ascent to the top.,TECHNICIANS USE A HALLEY COUPTA RATHER THAN HEIGHTENING THE LONG ASCENT TO THE TOP,0.23076923076923078,0.21428571428571427,0.3351648351648352
+common_voice_en_20029484.wav,It is also involved in mastication in many species.,IT IS ALSO INVOLVED IN MASTICATION IN MANY SPECIES,0.0,0.0,0.0
+common_voice_en_18985460.wav,The president of Serbia and Montenegro was elected by the parliament.,THE PRESIDENT OF SYLVIA AND MONTEGRO WAS ELECTED BY THE PARLIAMENT,0.18181818181818182,0.18181818181818182,0.3305785123966941
+common_voice_en_19551010.wav,This Place is very calm and known for great social harmony.,THIS PLACE IS VERY CALM AND NO ONE FOR GREAT SOCIAL HARMONY,0.18181818181818182,0.16666666666666666,0.24242424242424243
+common_voice_en_20176986.wav,Gold discoveries continued to trigger violent conflict between prospectores and indigenous peoples.,GOLD DISCOVERIES CONTINUED TO TRIGGER VIOLENT CONFLICT BETWEEN PROSPECTORS AND INDIGENOUS PEOPLES,0.08333333333333333,0.08333333333333333,0.15972222222222232
+common_voice_en_18896502.wav,"After the War of Independence, Haraden's health deteriorated steadily.",AFTER THE WAR OF INDEPENDENCE HARRIDAN'S HEALTH DETERIORATED STEADILY,0.1111111111111111,0.1111111111111111,0.2098765432098766
+common_voice_en_18884151.wav,"Berman is buried next to his parents in Mount Carmel Cemetery in Glendale, Queens.",BOWMAN IS BURIED NEXT TO HIS PARENTS AND MOUNT CARAMEL CEMETERY AND GLENDALE QUEENS,0.2857142857142857,0.2857142857142857,0.4897959183673469
+common_voice_en_21229111.wav,Delegate offices are at the Navajo Nation governmental campus in Window Rock.,DELICATE OFFICERS ARE AT THE NARROWER NATION GOVERNMENT OR CAMPUS AND WINDOW ROCK,0.5,0.46153846153846156,0.6858974358974359
+common_voice_en_19693412.wav,This time he had the endorsement of the local Progressive Party alone.,THIS TIME HE HAD THE ENDORSEMENT OF THE LOCAL PROGRESSIVE PARTY ALONE,0.0,0.0,0.0
+common_voice_en_141410.wav,Two young children Bounce on a short trampoline.,TWO YOUNG CHILDREN BOUNCED ON A SHORT TRAMPLING,0.25,0.25,0.4375
+common_voice_en_21182045.wav,"Appleton is openly gay, and came out at university.",APPLETON IS OPENLY GAY AND CAME OUT AT UNIVERSITY,0.0,0.0,0.0
+common_voice_en_22214267.wav,"Rumors that the proposed station was actually constructed, at least partially, are prevalent.",RUMORS THAT THE PROPOSED STATION WAS ACTUALLY CONSTRUCTED AT LEAST PARTIALLY A PRIVATE,0.15384615384615385,0.15384615384615385,0.28402366863905326
+common_voice_en_21493994.wav,"A comparable number of families also moved to Australia, Canada, and the United States.",A COMPARABLE NUMBER OF FAMILIES ALSO MOVED TO AUSTRALIA CANADA AND THE UNITED STATES,0.0,0.0,0.0
+common_voice_en_21162451.wav,He sat in opposition for the remainder of his time in the legislature.,HE SET IN OPPOSITION FOR THE REMAINDER OF HIS TIME IN THE RELIGIOUS PLACER,0.23076923076923078,0.21428571428571427,0.3351648351648352
+common_voice_en_18909350.wav,"Her most well-known illustrations are of Michael Bond's character, Paddington Bear.",YOU MUST WELL KNOW AN ILLUSTRATIONS ARE OF MICHAEL BOND'S CHARACTER PADDINGTON BEER,0.5454545454545454,0.46153846153846156,0.6573426573426573
+common_voice_en_21185575.wav,"Thus he earned the nickname, ""Montana's Cattle King"".",THUS HE WENT THE NICKNAME MONTANA'S CATTLE KING,0.125,0.125,0.234375
+common_voice_en_23767411.wav,Honeywell started shopping around for just such a system at about this time.,HONEYWELL STARTED SHOPPING AROUND FOR JUST SUCH A SYSTEM AT ABOUT THIS TIME,0.0,0.0,0.0
+common_voice_en_19717563.wav,"Often these were a copy of commercially available cars, such as Wickham and Fairmont.",OFTEN THESE WERE A COPY OF COMMERCIALLY AVAILABLE CARS SUCH AS WICKHAM AND FERMONT,0.07142857142857142,0.07142857142857142,0.1377551020408163
+common_voice_en_19853491.wav,The bill will need to be re-introduced in order to be considered again.,THE BILL WILL NEED TO BE REINTRODUCED IN ORDER TO BE CONSIDERED AGAIN,0.0,0.0,0.0
+common_voice_en_18893510.wav,A steel pin is used when scribing with the grain.,A STEEL PILLAR IS USED FOR INSCRIBING WITH THE GRAIN,0.3,0.3,0.51
+common_voice_en_19852833.wav,The results follow.,THE RESULTS FOLLOWED,0.3333333333333333,0.3333333333333333,0.5555555555555556
+common_voice_en_25640048.wav,They currently live in New York City.,THEY CURRENTLY LIVE IN NEW YORK CITY,0.0,0.0,0.0
+common_voice_en_21206838.wav,In Haughey's second government Fitzgerald returned to the position of Minister for Labour.,IN HAIGEE'S SICKENING GOVERNMENT FITZGERALD RETURNED TO THE POSITION OF MINISTER FOR LABOUR,0.15384615384615385,0.15384615384615385,0.28402366863905326
+common_voice_en_25640624.wav,"As a result, manufacturing was dependent on sales.",AS A RESULT MANUFACTURING WAS DEPENDENT ON SALES,0.0,0.0,0.0
+common_voice_en_23893527.wav,It is also home to a distinct College of the Arts.,IT IS ALSO HARM TO A DISTINCT COLLEGE OF THE ARTS,0.09090909090909091,0.09090909090909091,0.17355371900826455
+common_voice_en_23846398.wav,"Where some things are completely different, and other things are about the same.",WE'RE SOME THINGS ARE COMPLETELY DIFFERENT AND OTHER THINGS ARE ABOUT THE SAME,0.07692307692307693,0.07692307692307693,0.1479289940828401
+common_voice_en_18935306.wav,"At the same time, he applied himself with success to mathematics.",AT THE SAME TIME HE APPLIED HIMSELF WITH SUCCESS TO MATHEMATICS,0.0,0.0,0.0
+common_voice_en_18567566.wav,"Connecting the dots, is not as easy as it seems in machine learning.",CONNECTING THE DOTS IS NOT AS EASY AS IT SEEMS THE MACHINE LEARNING,0.07692307692307693,0.07692307692307693,0.1479289940828401
+common_voice_en_21183243.wav,Buscemi often plays characters that are neurotic and paranoid.,BUSSEMI OFTEN PLACED CHARACTERS THAT ARE NEUROTIC AND PARANOID,0.2222222222222222,0.2222222222222222,0.3950617283950617
+common_voice_en_22443953.wav,Abell died in Copenhagen.,A BELL DIED IN COPENHAGEN,0.5,0.4,0.55
+common_voice_en_18985404.wav,Then it could start making the weapons - secretly or maybe even publicly.,THEN I COULD STOP MAKING THE WEAPONS SECRETLY OR MAYBE EVEN PUBLICLY,0.16666666666666666,0.16666666666666666,0.30555555555555547
+common_voice_en_20167240.wav,"During this action, appeared, possibly in response to the radio calls.",DURING THIS SECTION APPEARED POSSIBLY IN RESPONSE TO THE RADIO COOLER,0.18181818181818182,0.18181818181818182,0.3305785123966941
+common_voice_en_26986047.wav,"The act of using it is called ""dipping"".",THE ACT OF USING IT IS CALLED DIPPING,0.0,0.0,0.0
+common_voice_en_28852668.wav,Both dry dusty surfaces and dewy grass are known to exhibit these characteristics.,BOTH DRY DUSTY SURFACES AND DEWY GRASS UNKNOWN TO EXHIBIT THESE CHARACTERISTICS,0.15384615384615385,0.15384615384615385,0.22435897435897445
+common_voice_en_18890725.wav,That was about six weeks before we did it.,THAT WAS ABOUT SIX WEEKS BEFORE WE DID IT,0.0,0.0,0.0
+common_voice_en_18893955.wav,The Drake Stone punctuates the hills surrounding Harbottle.,THE DRINKSTONE PUNCTUATES THE HOLES SURROUNDING HER BOTTLE,0.625,0.5555555555555556,0.75
+common_voice_en_21139144.wav,Fischel had four daughters and no sons who survived into adulthood.,HE'S SURVIVED TO ADULT HERD,1.0,1.0,1.0
+common_voice_en_24908847.wav,All dealers carry Mopar parts; relatively few carry Fiat cars.,ALL DEALERS CARRY MOBILE PARTS RELATIVELY FEW CARRY FEATURS,0.3,0.3,0.4555555555555556
+common_voice_en_18890733.wav,The bones at the back of the skull were reduced or absent.,THE BONES AT THE BACK OF A SKULL WILL REDUCED OR ABSENT,0.16666666666666666,0.16666666666666666,0.30555555555555547
+common_voice_en_21162439.wav,"Having been imprisoned for nine years, Simon the First's resolve was weakened.",HAVING BEEN IMPRISONED FOR NINE YEARS SIMON THE FIRST RESOLVE WAS WAKENED,0.16666666666666666,0.16666666666666666,0.30555555555555547
+common_voice_en_22443856.wav,He was entrusted with other offices calling for vigour of action and practical wisdom.,HE WAS ENTRUSTED WITH OTHER OFFICERS CALLING FOR VIGOR OF ACTION AND PRACTICAL WISDOM,0.14285714285714285,0.14285714285714285,0.26530612244897966
+common_voice_en_19547483.wav,"Therefore, the word ""epigenetics"" is sometimes used as a synonym for these processes.",THEREFORE THE WORD EPIGENICS IS SOMETIMES USED AS THE SYNONYM FOR THESE PROCESSES,0.15384615384615385,0.15384615384615385,0.28402366863905326
+common_voice_en_21185341.wav,"But at least Menzies has started something, and people could find more evidence.",BUT AT LEAST MONSIEUR'S HAS STARVED THE SUMMER AND PEOPLE COULD FIND MORE EVIDENCE,0.3076923076923077,0.2857142857142857,0.4505494505494505
+common_voice_en_27637480.wav,"Upon his arrival in India, Cripps held talks with Indian leaders.",UPON HIS ARRIVAL IN INDIA CREPT HOW TALKS WITH INDIAN LEADERS,0.18181818181818182,0.18181818181818182,0.3305785123966941
+common_voice_en_18985545.wav,Frances succeeded him and became the sixth holder of the title.,FRANCIS SUCCEEDED HIM AND BECAME THE SIXTH HOLDER OF THE TITLE,0.09090909090909091,0.09090909090909091,0.17355371900826455
+common_voice_en_19867699.wav,"After several discussions, he then made a return to football with Bloemfontein Celtic.",AFTER SEVERAL DISCUSSIONS HE THEN MADE A RETURN TO FOOTBALL WITH BLOOM FONTAINE CELTIC,0.15384615384615385,0.14285714285714285,0.20879120879120883
+common_voice_en_27284824.wav,Upon returning to Australia he retired from football but continued working as a selector.,UPON HER TRYING TO AUSTRALIA HE RETIRED FROM PHILIPPA BUT CONTINUED WORKING AS A SELECTOR,0.21428571428571427,0.2,0.3142857142857143
+common_voice_en_25345712.wav,"The torpedo was of a straight-running unguided design, controlled by a gyroscope.",THE TORPEDO WAS A STRAIGHT RUNNING AND GUIDED DESIGN CONTROLLED BY A GYROSCOPE,0.4166666666666667,0.38461538461538464,0.5897435897435898
+common_voice_en_19547449.wav,The hoard is the oldest and only coin hoard found on the archipelago.,THE HORDE IS THE OLDEST AND ONLY QUEEN HORDE FOUND ON THE ARCHIPELAGO,0.23076923076923078,0.23076923076923078,0.40828402366863903
+common_voice_en_25380162.wav,Some victims have their elbows and ankles shot as well.,SOME VICTIMS HAVE THEIR ELBOWS AND ANKLES SHOT AS WELL,0.0,0.0,0.0
+common_voice_en_19853443.wav,"In this zone independent countries still survived - Turkey, Persia, Afghanistan, China, and Japan.",IN THIS OWN INDEPENDENT COUNTRIES STILL SURVIVED TURKEY PERSIA OF CONNISTON CHINA AND JAPAN,0.23076923076923078,0.21428571428571427,0.3351648351648352
+common_voice_en_18893847.wav,"The city has now been joined by factories producing textiles, furniture and cars.",THE CITY HAS NOW BEEN JOINED BY FACTORIES PRODUCING TEXTILES FURNITURE AND CARS,0.0,0.0,0.0
+common_voice_en_18884760.wav,Scoring is then carried out in the normal manner.,SCORING HAS BEEN CARRIED OUT IN THE NORMAL MANNER,0.2222222222222222,0.2222222222222222,0.3950617283950617
+common_voice_en_21206894.wav,"Later that year, it was renamed Cunningham Broadcasting.",LATER THAT YEAR IT WAS RENAMED CUNNINGHAM BROADCASTING,0.0,0.0,0.0
+common_voice_en_20031682.wav,"In reference to this, the Inn coat of arms contained a bale of wool.",IN REFERENCE TO THIS THE N COAT OF ARMS CONTAINED A BALE OF WOOL,0.07142857142857142,0.07142857142857142,0.1377551020408163
+common_voice_en_27270004.wav,The design was also the basis for variants.,THE DESIGN WAS ALSO THE BASIS FOR VARIANCE,0.125,0.125,0.234375
+common_voice_en_19905172.wav,They took what they could and left the rest.,THEY TOOK WHAT THEY COULD AND LEFT THE REST,0.0,0.0,0.0
+common_voice_en_22758691.wav,Roberto Jefferson is married to Ecila Brazil Jefferson Francisco.,ROBERTO JEFFERSON IS MARRIED TO A SAILOR BRAZIL JEFFERSON FRANCISCO,0.2222222222222222,0.2,0.28888888888888886
+common_voice_en_19597593.wav,Cilla Black introduced and closed each show by singing a theme song.,SIMILAR BLACK INTRODUCED ENCLOSED EACH SHOWED BY SINGING A THIN SONG,0.4166666666666667,0.4166666666666667,0.6287878787878788
+common_voice_en_21209890.wav,Both are African American vernacular art forms.,BOTH ARE AFRICAN AMERICAN VINECULAR AUTUMNS,0.42857142857142855,0.42857142857142855,0.6190476190476191
+common_voice_en_21210225.wav,The alpha channel is normally used as an opacity channel.,THE SULPHUR CHANNEL IS ONLY USED AS AN OPACITY CHANNEL,0.2,0.2,0.3599999999999999
+common_voice_en_24569308.wav,Zatonsky participated in the fight against the Central Rada.,ZOTANSKI PARTICIPATED IN THE FIGHT AGAINST CENTRAL RUDDER,0.3333333333333333,0.3333333333333333,0.5
+common_voice_en_20168039.wav,The Vlachs called it Tomisovara and the Greeks called it Panglicara.,TWELVE LADS CALLED IT THOMASOVADA AND THE GREASE CALLED IT PANKLER COWDER,0.5454545454545454,0.5,0.7272727272727273
+common_voice_en_19573620.wav,"Since the town faces west, the sunsets are visible and are sometimes beautiful.",SINCE THE TOWN PLACES WHIST THE SUNSETS ARE VISIBLE AND ARE SOMETIMES BEAUTIFUL,0.15384615384615385,0.15384615384615385,0.28402366863905326
+common_voice_en_23893796.wav,"He is interred at Old Cemetery in Amherst, New Hampshire.",HE HAS ENTERED AT OLD CEMETERY AND ELMHURST NEW HAMPSHIRE,0.4,0.4,0.64
+common_voice_en_19867872.wav,Each of these is surrounded by mesenchyme.,EACH OF THESE IS SURROUNDED BY MESS IN SIZE,0.42857142857142855,0.3333333333333333,0.4285714285714286
+common_voice_en_19744885.wav,Upon his release he got a job in a furniture factory.,UPON HIS RELEASE HE GOT A JOB IN A FURNITURE FACTORY,0.0,0.0,0.0
+common_voice_en_21847329.wav,"In response to the bill, many Ontario doctors decided to stop performing abortions altogether.",IN RESPONSE TO THE BILL MANY ONTARIO DOCTORS DECIDED TO STOP PERFORMING ABORTIONS TO GET ALTOGETHER,0.14285714285714285,0.125,0.125
+common_voice_en_89118.wav,Two men are walking by a shop with an african outfit displayed in the window.,TO MEET A WALKING BY A SHOCK WITH AN AFRICAN OUTFIT DISPLAYED IN THE WINDOW,0.26666666666666666,0.26666666666666666,0.4622222222222223
+common_voice_en_21209886.wav,It is for use of float planes.,IT IS FOR USE OF FLOAT PLANES,0.0,0.0,0.0
+common_voice_en_19853680.wav,"Moynihan, who worked for President Kennedy responded, Mary, we will laugh again.",MORE IN A HAND WHO WORKED FOR PRESIDENT KENNEDY RESPONDED MARY WE WILL LAUGH AGAIN,0.3333333333333333,0.26666666666666666,0.32777777777777783
+common_voice_en_19547568.wav,"Speed was Washington's ally, but he was also capable of showing outbursts of power.",SPEED WAS WASHINGTON'S ALLY BUT HE WAS ALSO CAPABLE OF SHOWING OPPRESSIVE POWER,0.14285714285714285,0.14285714285714285,0.20879120879120883
+common_voice_en_18890750.wav,This is also applicable to circuits.,THIS IS ALSO APPLICABLE TO CIRCUITS,0.0,0.0,0.0
+common_voice_en_18909342.wav,The meaning of his statement is still uncertain.,THE MEANING OF HIS STATEMENT IS STILL UNCERTAIN,0.0,0.0,0.0
+common_voice_en_18893623.wav,"Rothery was born in Vancouver, British Columbia.",ROTTERY WAS BORN IN VANCOUVER BRITISH COLUMBIA,0.14285714285714285,0.14285714285714285,0.26530612244897966
+common_voice_en_25380140.wav,Both agree that he was buried at Coventry.,BOTH AGREED THAT HE WAS BURIED AT COVENTRY,0.125,0.125,0.234375
+common_voice_en_20168121.wav,Intamin was responsible for the design and building of the Moscow Monorail System.,INTERMEDE WAS RESPONSIBLE FOR THE DESIGN AND PULLING OF THE MOSCOW MODERATE SYSTEM,0.23076923076923078,0.23076923076923078,0.40828402366863903
+common_voice_en_23893330.wav,The political aspirations to separate from the rest of the state were impeded.,THE POLITICAL ASPIRATIONS TO SEPARATE FROM THE REST OF THE STATE WERE IMPEDED,0.0,0.0,0.0
+common_voice_en_21162435.wav,The opera was given first at the Teatro San Samuele in Venice in December.,THE OPERA WAS GIVEN FIRST AT THE TEACHER'S AND SAMUEL IN VENICE IN DECEMBER,0.21428571428571427,0.21428571428571427,0.38265306122448983
+common_voice_en_22749679.wav,Diane's son was paralyzed from the chest down.,DIANA'S SON WAS PARALYZED FROM THE CHILLSTONE,0.375,0.375,0.5535714285714286
+common_voice_en_21185684.wav,A half-open file is exploited by the player with no pawns on it.,A HALF OPEN FOWL IS EXPLOITED BY THE PLAYER WITH NO PONDS ON IT,0.3076923076923077,0.2857142857142857,0.4505494505494505
+common_voice_en_26986084.wav,This is further complicated when Hugh shows elements of individualism.,THIS IS FURTHER COMPLICATED WHEN HUGH SHOWS ELEMENTS OF INDIVIDUALISM,0.0,0.0,0.0
+common_voice_en_18530338.wav,"Summon me anywhere, and I will come.",SUMMON ME ANYWHERE AND I WILL COME,0.0,0.0,0.0
+common_voice_en_18977859.wav,Forestville Mystery Cave State Park is nearby.,FORESTVILLE MYSTERY CAVE STATE PARK IS NEAR BY,0.2857142857142857,0.25,0.3571428571428572
+common_voice_en_25640075.wav,"Nevertheless, the Compromise continued but it was in decline.",NEVERTHELESS THE COMPROMISE CONTINUED BUT IT WAS IN DECLINE,0.0,0.0,0.0
+common_voice_en_19547711.wav,"One would receive a sharp wound from it, but there is no pain.",ONE WOULD RECEIVE A SHARP WIND FROM IT BUT THERE IS NO PAIN,0.07692307692307693,0.07692307692307693,0.1479289940828401
+common_voice_en_18884799.wav,A con artist opens a new bar that competes with Quark's.,A CONNOTIST OPENS A NEW BAR THAT COMPETES FOR CLERKS,0.36363636363636365,0.36363636363636365,0.5545454545454546
+common_voice_en_20029450.wav,The road then crosses the River Ouse.,THE ROAD THEN CROSSES THERE WERE THE HOOFS,0.5714285714285714,0.4444444444444444,0.5535714285714286
+common_voice_en_18884660.wav,He was also a motivational speaker and a musician.,HE WAS ALSO A MURDERATIONAL SPEAKER AND MUSICIAN,0.2222222222222222,0.2222222222222222,0.3194444444444444
+common_voice_en_21229101.wav,The pedestal itself is set upon a circular base.,THE PIT OF SOUL ITSELF IS SET UPON A SECULAR BASE,0.4444444444444444,0.36363636363636365,0.505050505050505
+common_voice_en_18714567.wav,"Her ethnic background is Italian, Spanish, Chilean and French.",VARIOUS NAKED BACKGROUND HIS ITALIAN SPANISH CHILIAN AND TRENCH,0.5555555555555556,0.5555555555555556,0.8024691358024691
+common_voice_en_18896541.wav,"An archaeological museum, it contains the Islamic Art Museum of Marrakech.",AN ARCHAEOLOGICAL MUSEUM IT CONTAINS THE ISLAMIC ART MUSEUM OF MIRACLES,0.09090909090909091,0.09090909090909091,0.17355371900826455
+common_voice_en_28853270.wav,The adenoid is often removed along with the palatine tonsils.,THE ADENOID IS OFTEN REMOVED ALONG WITH THE PALATINE COUNCILS,0.1,0.1,0.18999999999999995
+common_voice_en_20166560.wav,The Tomb of Osiris has three major shafts and eight chambers.,THE TOMB OF OSIRIS HAS THREE MAJOR SHOTS IN EIGHT CHAMBERS,0.18181818181818182,0.18181818181818182,0.3305785123966941
+common_voice_en_23893820.wav,At that time there were no printing shops in Finland.,AT THAT TIME THERE WERE NO PRINTING SHOPS AND FINLAND,0.1,0.1,0.18999999999999995
+common_voice_en_30645498.wav,"Her last role in Halle was Herodias in ""Salome"" by Richard Strauss.",HER LAST ROLL AND HAIL WAS PARODIOUS IN SALON BY RICHARD STRAUSS,0.4166666666666667,0.4166666666666667,0.6597222222222221
+common_voice_en_22749713.wav,Monroe forgets his deadline for the evictions.,MISTER RHODE FORGETS HIS DEAD LINE FOR THE ELECTIONS,0.7142857142857143,0.5555555555555556,0.746031746031746
+common_voice_en_19693193.wav,"Attree writes as the editor at large for the satirical magazine ""The Chap"".",A TREE WROTE WRIGHT'S AS THE EDITOR AT LARGE FOR THE SATIRICAL MAGAZINE THE CHAP,0.3076923076923077,0.26666666666666666,0.3794871794871796
+common_voice_en_25641434.wav,"The star appears stable, with little stellar variation, and is metal-deficient.",THE STAR APPEALS STAPLE WITH LITTLE STELLAR VARIATION AND IS METAL DEFICIENT,0.36363636363636365,0.3333333333333333,0.5151515151515151
+common_voice_en_23911882.wav,"Previously the city housed a Brazilian school, Centro Educacional Canarinho.",PREVIOUSLY THE CITY HOUSED A BRAZILIAN SKULL CENTRE EDUCATIONAL PHENOMENA,0.4,0.4,0.64
+common_voice_en_18890721.wav,An East-Saxon genealogy preserved as British Library Add.,AND EACH SEX AND GENEALOGY PRESERVED AS BRITISH LIBRARY ED,0.625,0.5,0.6875
+common_voice_en_18714489.wav,"Among other roles, he played Pooh-Bah in ""The Mikado"".",THE MIDDLE OF THE ROLLS HE PLAYED PLUEBA IN THE MIKADO,0.6666666666666666,0.5454545454545454,0.7474747474747474
+common_voice_en_19547390.wav,"The songs are mostly pastoral, with subtle understated instrumental accompaniment.",THE SONGS ARE MY SLAVE PASTORAL THE SUBTLE AND A STATED INSTRUMENTAL ACCOMPANIMENT,0.6,0.46153846153846156,0.6230769230769231
+common_voice_en_27871033.wav,The other village used was Martin in Hampshire.,THE OTHER VILLAGE USED WITH MARTIN IN HAMPSHIRE,0.125,0.125,0.234375
+common_voice_en_19616287.wav,He also represents matter in its lifeless state.,HE ALSO REPRESENTS METHOD AND ITS WIFE WAS STAINED,0.625,0.5555555555555556,0.7777777777777778
+common_voice_en_20029533.wav,It holds open submission exhibitions for members and guest artists.,IT HOLDS OPEN SUBMISSION EXHIBITIONS FOR MEMBERS AND GIFTS ATTESTS,0.2,0.2,0.3599999999999999
+common_voice_en_21185337.wav,More than thirty bus routes pass through the area.,MORE THAN THIRTY BUS ROUTES PASSED THROUGH THE AREA,0.1111111111111111,0.1111111111111111,0.2098765432098766
+common_voice_en_21210008.wav,The city traffic becomes more and more congested each year pass.,THE CITY TRAFFIC BECOMES MORE AND MORE CONGESTED EACH YEAR PASSED,0.09090909090909091,0.09090909090909091,0.17355371900826455
+common_voice_en_27344643.wav,His mother was a poet and he began writing poetry as a child.,HIS MOTHER WAS A POET AND HE BEGAN WRITING POETRY AS A CHILD,0.0,0.0,0.0
+common_voice_en_20166751.wav,He retained his position in the Privy council for the rest of his life.,HE RETAINED HIS POSSESSION AND THE PRIVY CASTLE FOR THE REST OF HIS LIFE,0.21428571428571427,0.21428571428571427,0.38265306122448983
+common_voice_en_19692698.wav,"No additional information has been located, and its fate is unknown.",NO ADDITIONAL INFORMATION HAS BEEN LOCATED AND ITS FATE IS THE GNAWING,0.18181818181818182,0.16666666666666666,0.24242424242424243
+common_voice_en_27284745.wav,The resulting structure is the quotient algebra.,THE RESULTING STRUCTURE IS HE QUOTED ALGEBRA,0.2857142857142857,0.2857142857142857,0.4897959183673469
+common_voice_en_21139166.wav,Christine that were included in the township of Acton.,CHRISTINE THEY WERE INCLUDED IN THE TOWNSHIP OF ACTON,0.1111111111111111,0.1111111111111111,0.2098765432098766
+common_voice_en_21183296.wav,He was born in Fukuoka Prefecture.,HE WAS BORN IN SILKOKA PREFECTURE,0.16666666666666666,0.16666666666666666,0.30555555555555547
+common_voice_en_21206809.wav,"He concludes when everybody thinks alike, everybody is likely to be wrong.",HE CONCLUDES WHEN EVERYBODY THINKS ALIKE EVERYBODY IS LIKELY TO BE WRONG,0.0,0.0,0.0
+common_voice_en_18946870.wav,Sheffield and Pittsburgh are considered sister cities.,SHEFFIELD AND PITTSBURGER CONSIDERED SUCH THE CITIES,0.5714285714285714,0.5714285714285714,0.8163265306122449
+common_voice_en_141414.wav,Many birds are sitting on a concrete wall.,MANY BIRDS ARE SITTING ON A CONCRETE WALL,0.0,0.0,0.0
+common_voice_en_23846376.wav,The largest glaciers in Bridger-Teton National Forest are found in the wilderness.,THE LARGEST GLACIERS AND BRIGITTETON NATIONAL FORESTS ARE FOUND IN THE WILDERNESS,0.25,0.25,0.4375
+common_voice_en_21182073.wav,"His initial work was as an illustrator for ""Junior Express"" and ""School Friend"".",HIS INITIAL WORK WAS AS AN ILLUSTRATOR FOR JUNIOR EXPRESS AND SCHOOL FRIEND,0.0,0.0,0.0
+common_voice_en_19946652.wav,Pickled nozawana is one of the most typical local foods in Nagano Prefecture.,BICKER'S MAGDALENA IS ONE OF THE MOST TYPICAL LOCAL FRUITS IN THE GAME OF PREFECTURE,0.46153846153846156,0.4,0.5846153846153846
+common_voice_en_22214348.wav,The term is now used mainly to discuss music of the past.,THE TERM IS NOW USED MAINLY TO DISCUSS MUSIC OF THE PAST,0.0,0.0,0.0
+common_voice_en_25640307.wav,"The award noted his ""great courage and determination in the face of the enemy"".",THE AWARD NOTED HIS GREAT COURAGE AND DETERMINATION IN THE FACE OF THE ENEMY,0.0,0.0,0.0
+common_voice_en_21210094.wav,The albums Wild!,THE ALBUM'S WILD,0.0,0.0,0.0
+common_voice_en_22749696.wav,"Scott also runs FileLight dot com, a large shareware download site.",SCOTT ALSO RUNS FILE LIKE DOG COMB A LARGE SHEER WEAR DOWNWARD SIGHED,0.7272727272727273,0.6153846153846154,0.8251748251748252
+common_voice_en_18909338.wav,"Once primarily used as a military housing community, it is now privately operated.",ONCE PRIMARILY USED AS A MILITARY HOUSING COMMUNITY IT IS NOW PRIVATELY OPERATED,0.0,0.0,0.0
+common_voice_en_20562228.wav,"Then she sat, pretending to read.",THEN SHE SAT PRETENDING TO READ,0.0,0.0,0.0
+common_voice_en_28852725.wav,Mullaney and Abbott did most of the arranging.,MILANI AND ABBOT DID MOST OF THE ARRANGING,0.25,0.25,0.4375
+common_voice_en_23911952.wav,"He injures his hand during his break-in, and leaves blood all over Guinevere's sheets.",HE INJURES HIS HAND DURING HIS BREATHING AND LEAVES BLOOD ALL OVER GWYNPEARE'S SHAPES,0.21428571428571427,0.21428571428571427,0.38265306122448983
+common_voice_en_25358038.wav,The hands and feet of the figures are fully movable during performances.,THE HANDS AND FEET OF THE FIGURES FULLY MOVABLE DURING PERFORMANCES,0.08333333333333333,0.08333333333333333,0.08333333333333337
+common_voice_en_21182884.wav,At this point the project was aborted.,AT THIS POINT THE PROJECT WAS ABORTED,0.0,0.0,0.0
+common_voice_en_30645563.wav,They then sailed to the Hawaiian Islands where they spent the winter.,THEY THEN SAILED TO THE ROYAL ISLANDS WHERE THEY SPENT THE WINTER,0.08333333333333333,0.08333333333333333,0.15972222222222232
+common_voice_en_25359386.wav,"The Aka live in elongated houses made from bamboo, wood and cane leaves.",THE ACHAEA LIVE AND ELONGATED HOUSES MADE FROM BAMBOO WOODS AND CANE LEAVES,0.23076923076923078,0.23076923076923078,0.40828402366863903
+common_voice_en_25380144.wav,The restaurant is closed on Sundays.,THE RESTAURANTS CLOSED ON SUNDAYS,0.3333333333333333,0.3333333333333333,0.4666666666666667
+common_voice_en_19905236.wav,This shallow soil structure makes downland ecosystems extremely fragile and easy to destroy.,THE SHALLOW STERILE STRUCTURE MAKES DOWN AND ECRE SYSTEMS EXTREMELY FRAGILE AND EASY TO DESTROY,0.46153846153846156,0.4,0.5846153846153846
+common_voice_en_18893834.wav,Fuji District was dissolved as a result of this merger.,TURKEY DISTRICT WAS DISSOLVED AS A RESULT OF THE MERGER,0.2,0.2,0.3599999999999999
+common_voice_en_25641438.wav,It is not a council estate however.,IT IS NOT A COUNCIL OF STATE HOWEVER,0.2857142857142857,0.25,0.3571428571428572
+common_voice_en_19744451.wav,Waters from Lake Argentino flow into the Atlantic Ocean through the Santa Cruz River.,WATERS FROM LAKE ARGENTINO FLOAT INTO THE ATLANTIC OCEAN THROUGH THE SAINT CREW'S RIVER,0.21428571428571427,0.21428571428571427,0.38265306122448983
+common_voice_en_21139533.wav,A pressurized cabin was to be provided.,A PRECARIZED CABIN WAS TO BE PROVIDED,0.14285714285714285,0.14285714285714285,0.26530612244897966
+common_voice_en_22214334.wav,"As a result, construction of the fleet of s had been given highest priority.",AS A RESULT CONSTRUCTION OF THE FLEET OF S HAD BEEN GIVEN HIGHEST PRIORITY,0.0,0.0,0.0
+common_voice_en_18893493.wav,"Agricultural supply cooperatives aggregate purchases, storage, and distribution of farm inputs for their members.",AGRICULTURAL SUPPLY CO OPERATIVES AGGREGATE PURCHASES STORAGE AND DISTRIBUTION OF FAMINE PUTS FOR THEIR MEMBERS,0.2857142857142857,0.26666666666666666,0.42380952380952386
+common_voice_en_18715664.wav,"Apart from the Meuse river another waterway, the Albert Canal, passes through this town.",MUCH FROM THE MUSE RIVER ANOTHER WATERWAY THE ELBERT CANAL PASSES THROUGH THIS TOWN,0.21428571428571427,0.21428571428571427,0.38265306122448983
+common_voice_en_18530343.wav,The axle was destroyed in the collision.,THE AXLE WAS DESTROYED IN THE COLLISION,0.0,0.0,0.0
+common_voice_en_21206739.wav,See below for more.,SEE BLOW FOMA,0.75,0.75,0.9166666666666666
+common_voice_en_19867734.wav,"About half way downstream, it enters Qionghai.",ABOUT HALF WAY DOWN STREAM IT ENTERS HIGH ON HIGH,0.7142857142857143,0.5,0.6428571428571428
+common_voice_en_23893372.wav,It was mated to a close ratio four-speed manual transmission.,IT WAS MATED TO A CLOSE RATIO FOR SPEED MANUAL TRANSMISSION,0.2,0.18181818181818182,0.26363636363636356
+common_voice_en_18893557.wav,At that time basaltic flood lavas covered much of eastern Oregon.,AT THAT TIME BASALTIC FLOOD LOVERS COVERED MUCH OF EASTERN OREGON,0.09090909090909091,0.09090909090909091,0.17355371900826455
+common_voice_en_19553054.wav,"He is married to Nechama Rivlin, and has four children.",HE HAS MARRIED TO NICAMA RUVELIN AND HIS FOUR CHILDREN,0.4,0.4,0.64
+common_voice_en_21203430.wav,They also produce card games and family games.,THEY ALSO PRODUCE CARD GAMES AND FAMILY GAMES,0.0,0.0,0.0
+common_voice_en_21182077.wav,"Jean-Paul became a jazz musician, performing with artists such as Josephine Baker and Mistinguett.",JEAN PAUL BECAME A JESUIT JASON PERFORMING WITH OTHERS SUCH AS DRIFTING BAKER AND MACHINE GET,0.5714285714285714,0.5,0.7142857142857143
+common_voice_en_19547462.wav,"For he, too, represented one of the great life-bringing forces of the world.",FOR HE TOO REPRESENTED ONE OF THE GREAT AND LIFE BRINGING FORCES IN THE WORLD,0.3076923076923077,0.26666666666666666,0.3794871794871796
+common_voice_en_22758703.wav,The album features Restas' Enoesque soundscapes on many of the songs.,THE ELBOW FEATURES RESTS ENOSQUE SOUNDSCAPES ON MANY OF THE SONGS,0.2727272727272727,0.2727272727272727,0.47107438016528924
+common_voice_en_18715640.wav,"The largest of these are Haukipudas, Oulunsalo, Kaakkuri, Ritaharju, Tuira, and Kello.",THE LARGEST OF THESE ARE HOWEVER WITH US A LOUD SALLOW AH KUDI NITA ARJU TUIDA AND KILO,1.0,0.6666666666666666,0.8333333333333334
+common_voice_en_19677444.wav,"Others said, ""It'll scare the daylights out of you"".",I'LL SCARE THE DAYLIGHTS OUT OF YOU,0.3333333333333333,0.3333333333333333,0.4285714285714286
+common_voice_en_20166694.wav,See highlights in the below table.,SEE HIGH LIGHTS IN THE BELOW TABLE,0.3333333333333333,0.2857142857142857,0.40476190476190477
+common_voice_en_21185286.wav,He allied Spain to France.,HE ALLIED SPAIN TO FRANCE,0.0,0.0,0.0
+common_voice_en_21493985.wav,"Following the season, Otto announced his retirement.",FOLLOWING THE SEASON OTTER ANNOUNCED HIS RETIREMENT,0.14285714285714285,0.14285714285714285,0.26530612244897966
+common_voice_en_19573616.wav,The defending champions Liverpool were eliminated by Benfica in the first knockout round.,THE DEFENDING CHAMPIONS OF A POLE WERE ELIMINATED BY A BENFICK AND THE PHILOSOPHER ROUND,0.6153846153846154,0.5,0.6717948717948719
+common_voice_en_28853091.wav,"This descent required a free rappel, which was completed with skis on.",THIS DESCENT REQUIRED A FREE REPELL WHICH WAS COMPLETED WITH SKEEZE ON,0.16666666666666666,0.16666666666666666,0.30555555555555547
+common_voice_en_18893596.wav,"The researchers used the term ""cyanosulfidic"" to describe this network of reactions.",THE RESEARCHES USED THE TERM CYNO SULPHURED IT TO DESCRIBE THE NETWORK OF REACTIONS,0.4166666666666667,0.35714285714285715,0.5178571428571428
+common_voice_en_23830013.wav,The rank dates to Antiquity and was also used in the Byzantine Empire.,THE RING DATES THROUGH ANTIQUITY AND WAS ALSO USED IN THE BOYS AND TORN EMPIRE,0.38461538461538464,0.3333333333333333,0.4871794871794872
+common_voice_en_19693300.wav,"Examples for photosynthetic pigments are chlorophyll, carotenoids and phycobilins.",EXAMPLES FOR THOROUGH SYNTHETIC PIGMENTS ARE CHLOROFORM CARTINOIDS AND FLY CHLOE COBBLERS,0.7777777777777778,0.5833333333333334,0.7685185185185185
+common_voice_en_19547440.wav,The first three projects are in full swing.,THE FIRST THREE PROJECTS ARE IN FULL SWING,0.0,0.0,0.0
+common_voice_en_19946670.wav,It is the administrative headquarters of Dungarpur District.,IF THE ADMINISTRATIVE HE CALLED IT ABANDONMENT DISTRICT,0.75,0.6666666666666666,0.859375
+common_voice_en_19743888.wav,Cartwright left the Bulls as a free agent and signed with the Seattle SuperSonics.,CARTWRIGHT LEFT THE BULLS AS A FREE AGENT AND SIGNED UP WITH SEATTLE SUPERSONICS,0.14285714285714285,0.13333333333333333,0.1377551020408163
+common_voice_en_18906396.wav,Krosnoff died instantly of the injuries sustained from hitting the lamp post.,CROSSOF DIED INSTANTLY OF THE INJURY SUSTAINED FROM A INGO IMPOST,0.5,0.5,0.7272727272727273
+common_voice_en_19853438.wav,The finale is marked by a fireworks display.,THE FINALE IS MARKED BY A FIREWORK'S DESPAIR,0.125,0.125,0.234375
+common_voice_en_18935302.wav,It digs tunnels but also uses tunnels created by other small mammals.,IT DIGS TUNNELS BUT ALSO USES TUNNELS CREATED BY OTHER SMALL MAMMALS,0.0,0.0,0.0
+common_voice_en_19905123.wav,Its last announced episode never aired.,ITS LAST ANNOUNCED EPISODE AND NEVER ERRED,0.3333333333333333,0.2857142857142857,0.40476190476190477
+common_voice_en_21139290.wav,The Elands River runs through the town.,THE ELANDS A MURMUR RUNS THROUGH THE TOWN,0.2857142857142857,0.25,0.3571428571428572
+common_voice_en_19562761.wav,They continue to perform live today.,THEY CONTINUED TO PERFORM LIFE TO DAY,0.6666666666666666,0.5714285714285714,0.7857142857142857
+common_voice_en_18893951.wav,"Bush, where he was writer-in-residence for two weeks.",BUSH WHERE HE WAS WRITER IN RESIDENCE FOR TWO WEEKS,0.375,0.3,0.38750000000000007
+common_voice_en_25640426.wav,It does this by adjusting a player's raw statistics for park and league effects.,IT DOES THIS BY ADJUSTING OF PLAYERS RAW STATISTICS FOR PARK AND LEAGUE EFFECTS,0.07142857142857142,0.07142857142857142,0.1377551020408163
+common_voice_en_18985431.wav,It discusses each member of the household of the Prophet.,IT DISCUSSES EACH MEMBER OF THE HOUSEHOLD OF THE PROPHET,0.0,0.0,0.0
+common_voice_en_26997488.wav,"He referred to Enoch Powell as ""The Prophet"".",HE REFERRED TO E KNOCK HOW AS THE PROPHET,0.375,0.3333333333333333,0.5
+common_voice_en_19693091.wav,"He claimed Dorismond grabbed the gun, causing it to discharge into his chest.",HE CLAIMED DORISMOND GRABBED THE GUN CAUSING IT TO DISCHARGE INTO HIS CHEST,0.0,0.0,0.0
+common_voice_en_21494149.wav,"Noel was taken as a prisoner to London, where he died shortly afterwards.",NO ONE WAS TAKEN AS A PRISONER TO LONDON WHERE HE DIED SHORTLY AFTERWARDS,0.15384615384615385,0.14285714285714285,0.20879120879120883
+common_voice_en_19744524.wav,"After an eruption, the water quickly and noisily retreats into the crater.",AFTER AN IRRUPTION THE WATER QUICKLY AND NOISILY RETREATS INTO THE CRATER,0.08333333333333333,0.08333333333333333,0.15972222222222232
+common_voice_en_19552447.wav,Short boat trips along the Shropshire Union Canal are arranged.,SHORT BOW TRIPS ALONG THE SHOPSHIRE UNION CANAL ARE ARRANGED,0.2,0.2,0.3599999999999999
+common_voice_en_21139295.wav,"Mohammed said, We want everyone to plead together.",MOHAMMED SAID WE WANT EVERYONE TO PLEAD TOGETHER,0.0,0.0,0.0
+common_voice_en_19699942.wav,Their closest relatives are the nematodes.,THEIR CLOSEST RELATIVES OF THE COMMITTEES,0.3333333333333333,0.3333333333333333,0.5555555555555556
+common_voice_en_21139157.wav,He and his crew managed to break through to the Soviet side.,HE AND HIS CREW MANAGED TO BREAK THROUGH TO THE SELVIET SAID,0.16666666666666666,0.16666666666666666,0.30555555555555547
+common_voice_en_20999395.wav,"Nothing has been omitted, I hope?",NOTHING HAS BEEN OMITTED I HOPE,0.0,0.0,0.0
+common_voice_en_19693040.wav,The Sports Commission did not agree and the result was not changed.,THE SPORTS COMMISSION DID NOT AGREE AND THE RESULT WAS NOT CHANGED,0.0,0.0,0.0
+common_voice_en_19034517.wav,"Gyro controlled with a relatively simple control system, they proved very effective in use.",GENERA CONTROLLED WITH A RELATIVELY SIMPLE CONTROL SYSTEM THEY PROVED VERY EFFECTIVE IN USE,0.07142857142857142,0.07142857142857142,0.1377551020408163
+common_voice_en_20168064.wav,Operation Sassoon would see railway stations outside the capital receiving Londoners escaping a disaster.,OPERATION SASSOON WOULD SEE RAILWAY SYSTEMS OUTSIDE THE CAPITAL DECEIVING LONDONERS ESCAPING A DISASTER,0.14285714285714285,0.14285714285714285,0.26530612244897966
+common_voice_en_19867294.wav,He tames Bull by luring him into the rocks and rescues the first talisman.,HE TAMES BULL BY LOWERING HIM INTO THE ROCKS AND RESCUES THE FIRST TALISMAN,0.07142857142857142,0.07142857142857142,0.1377551020408163
+common_voice_en_23846347.wav,"Meanwhile, expansion followed in both the range of degrees and in student numbers.",MEANWHILE EXPANSION FOLLOWED IN BOTH THE RANGE OF DEGREES AND IN STUDENT NUMBERS,0.0,0.0,0.0
+common_voice_en_18906342.wav,His great-grandson Andrei Ivanovitch is a successful international classical pianist.,HIS GREAT GRANDSON ANDRE IVANOVITCH IS A SUCCESSFUL INTERNATIONAL CLASSICAL PIANIST,0.3,0.2727272727272727,0.4181818181818181
+common_voice_en_18884677.wav,The School is currently aiming to become a Dyslexia Friendly School.,THE SCORE WAS CURRENTLY AIMING TO BECOME A DESCRIPTION OF FRIENDLY SCHOOL,0.36363636363636365,0.3333333333333333,0.5151515151515151
+common_voice_en_25641111.wav,"Friedman's is a popular work based on much personal research, travel, conversation, and reflection.",FREEDMAN'S IS A POPULAR WORK BASED ON MUCH PERSONAL RESEARCH TRAVEL CONVERSATION AND REFLECTION,0.07142857142857142,0.07142857142857142,0.1377551020408163
+common_voice_en_25640025.wav,Actor Leigh Whipper was her son.,ACTUALLY WHIPPER WAS HER SON,0.3333333333333333,0.3333333333333333,0.4666666666666667
+common_voice_en_23893345.wav,The third one was transferred to Rechlin for tests and experiments in Germany.,THE SAILED ONE WAS TRANSFERRED TO AWAKE BY THE FORTRESS AND EXPERIMENTS IN GERMANY,0.38461538461538464,0.35714285714285715,0.554945054945055
+common_voice_en_19547475.wav,Trent later sides with good and saves his father from the mutation.,PRINT LAID ASIDE WITH GOOD AND SAVES HIS FATHER FROM THE MUTATION,0.25,0.25,0.4375
+common_voice_en_23893766.wav,"Acoustically, it is a close-mid front-central rounded vowel.",ACOUSTICALLY IT IS A CLOSE MED FRONT CENTRAL ROUNDED FOWL,0.625,0.5,0.6875
+common_voice_en_18714581.wav,All songs written by Brendan Canning and Kevin Drew.,ALL SONGS WRITTEN BY BRINDON CANNING AND GIBBON DRU,0.3333333333333333,0.3333333333333333,0.5555555555555556
+common_voice_en_25641264.wav,The results both supported and extended Mendel's laws of heredity.,THE RESULTS BOTH SUPPORTED AND EXTENDED MENDEL'S LAWS OF HEREDITY,0.0,0.0,0.0
+common_voice_en_18935269.wav,"He is seen standing at the bus stop with Lisa, but does not speak.",HE IS SEEN STANDING AT THE BAST OF A POLICER BUT DOES NOT SPEAK,0.2857142857142857,0.2857142857142857,0.4897959183673469
+common_voice_en_19005160.wav,"Recently, the suitability as non-covalent bond strength descriptors was demonstrated too.",RECENTLY THE SUITABILITY AS NON KAVARUM BOND STRENGTH DESCRIPTORS WAS DEMONSTRATED TOO,0.18181818181818182,0.16666666666666666,0.24242424242424243
+common_voice_en_20196330.wav,Serkis's film work in motion capture has been critically acclaimed.,SASHKA'S FILM WIT AND MOTION CAPTURE HAS BEEN PRACTICALLY ACCLAIMED,0.4,0.4,0.64
+common_voice_en_21159834.wav,In the first line were the Missouri volunteers.,WE'RE THE MESSORI VOLUNTEERS,0.625,0.625,0.71875
+common_voice_en_27344523.wav,"The following year, he was accepted to University College in Ibadan.",THE FOLLOWING YEAR HE WAS DESCENDED TO UNIVERSITY COLLEGE IN AMADAN,0.18181818181818182,0.18181818181818182,0.3305785123966941
+common_voice_en_25640846.wav,Foster homes are heavily utilized in either case.,FOSTER HOMES ARE HEAVILY UTILIZED IN EITHER CASE,0.0,0.0,0.0
+common_voice_en_19946559.wav,Compare with the kutsinhira part.,COMPARE WITH THE PITFALL HERE ABOUT,0.6,0.5,0.7
+common_voice_en_19962362.wav,It is part of the Modesto Metropolitan Statistical Area in the San Joaquin Valley.,IT IS PART OF THE MAGISTRATE'S OPPORTUNITY TO TESTICAL ERROR IN THE SAINT HAWKIN VALLEY,0.5,0.4666666666666667,0.6952380952380952
+common_voice_en_21162426.wav,Varying theories exist as to cause.,VARYING THEORIES EXIST AS TO CAUSE,0.0,0.0,0.0
+common_voice_en_19573604.wav,Similar customary uses include recipes in cookbooks and sales of bulk dry goods.,SIMILAR CUSTOMARY USES INCLUDE RECIPES AND COOK BOOKS AND SAILS OF BULK DRY GOODS,0.3076923076923077,0.2857142857142857,0.4505494505494505
+common_voice_en_19519478.wav,It is the capital of the province of Nuoro.,IT IS THE CAPITAL OF THE PROVINCE OF NEW YORO,0.2222222222222222,0.2,0.28888888888888886
+common_voice_en_19946485.wav,"A prolific author, he has also written a variety of books on the subject.",A POLITICAL PHOTOGRAPHER IN A VARIETY OF BOOKS ON THE SUBJECT,0.42857142857142855,0.42857142857142855,0.5844155844155845
+common_voice_en_19717534.wav,The family money actually came from wizardry.,THE FAMILY MONEY ACTUALLY CAME FROM WIZARDRY,0.0,0.0,0.0
+common_voice_en_27870809.wav,She was Britain's first Muslim war heroine.,SHE WAS BRITAIN'S FIRST MOSLEM WAR HEROINE,0.14285714285714285,0.14285714285714285,0.26530612244897966
+common_voice_en_24895697.wav,Wood Buffalo is located directly north of the Athabasca Oil Sands.,WOOD BUFFALO IS LOCATED DIRECTLY NORTH OF THE ATHABASKA OIL SANDS,0.09090909090909091,0.09090909090909091,0.17355371900826455
+common_voice_en_18893553.wav,"Cavendish, however, received no benefit.",CAVENDISH HOWEVER RECEIVES NO BENEFIT,0.2,0.2,0.3599999999999999
+common_voice_en_18900789.wav,This time there was no doubt about Albertsen being the scorer.,THIS TIME THERE WAS NO DOUBT ABOUT ALBERSON BEING THE SCORER,0.09090909090909091,0.09090909090909091,0.17355371900826455
+common_voice_en_21203334.wav,Following the flyby the spacecraft failed to reestablish communications with the ground.,FOLLOWING THE FLY BY THE SPACE CRAFT FAILED TO RE ESTABLISH COMMUNICATIONS WITH THE GROUND,0.5,0.4,0.55
+common_voice_en_18884795.wav,He died shortly afterwards and is buried in Saint Peter's graveyard Salesbury.,HE DIED SHORTLY AFTERWARDS AND IS BURIED IN SAINT PETER'S GRAVEYARD SALISBURY,0.08333333333333333,0.08333333333333333,0.15972222222222232
+common_voice_en_21207992.wav,The grammatical number of such constructs is often plural or dual.,THE GRAMMATICAL NUMBER OF SUCH CONSTRACTS IS OFTEN PRAYER OR DIO,0.2727272727272727,0.2727272727272727,0.47107438016528924
+common_voice_en_25641171.wav,At this point the existing examples could be unified.,AT THIS POINT THE EXISTING EXAMPLES COULD BE UNIFIED,0.0,0.0,0.0
+common_voice_en_25040750.wav,The airline operated this fleet for its charters.,THE ALLEYNE OPERATED THE SWEET BIRD'S CHATTERS,0.75,0.75,0.9285714285714286
+common_voice_en_19568048.wav,He ultimately finished third; his best finish since his win at Martinsville.,HE ULTIMATELY FINISHED THIRD HIS BEST FINISHED SENSES WHEN AT MATINSVILLE,0.4166666666666667,0.4166666666666667,0.6287878787878788
+common_voice_en_30645544.wav,The message of the runic cross is contested.,THE MESSAGE OF THE RUINED CROSS IS CONTESTED,0.125,0.125,0.234375
+common_voice_en_18909354.wav,"David's widow, Nancy, and their sons, moved to Los Angeles.",DAVID'S WIDOW NANCY AND THEIR SONS MOVED TO A CENTURIES,0.2,0.2,0.3599999999999999
+common_voice_en_25353902.wav,The bank soon became known as one of Canada's most aggressive.,THE BANK SAINT BECAME KNOWN AS ONE OF CANADA'S MOST AGGRESSORS,0.18181818181818182,0.18181818181818182,0.3305785123966941
+common_voice_en_21139525.wav,Examples include manufacturing parts from flat raw material such as sheet metal.,EXAMPLES INCLUDE MANUFACTURING PARTS FROM FLAT RAW MATERIAL SUCH AS SHEET METAL,0.0,0.0,0.0
+common_voice_en_22443921.wav,Problems related to quality control and unreliable electronics have not been uncommon.,POPULACE REPAIRED TO CALL THE CONTROL AND UNRELIABLE ELECTRONS HAD NOT BEEN UNCOMMON,0.5,0.46153846153846156,0.6858974358974359
+common_voice_en_21139529.wav,"McPharlin and his wife, Kalinz, have two daughters.",MC FAWLEEN AND HIS WIFE KALEN'S HAVE TWO DAUGHTERS,0.375,0.3333333333333333,0.5
+common_voice_en_28852504.wav,The summer starts with the Optimist Youth Days Carnival in June.,THE SUMMER STARTS WITH THE OPTIMIST YOUTH DAY'S CARNIVAL IN JUNE,0.0,0.0,0.0
+common_voice_en_26350163.wav,Numerous hotels are located there and the area has expanded into a tourist Mecca.,NUMEROUS MOTELS ARE LOCATED THERE AND THE AREA HAS EXPANDED INTO A TERRACED MECCA,0.14285714285714285,0.14285714285714285,0.26530612244897966
+common_voice_en_27637419.wav,"When it was raised to bring it indoors, two skeletons were found beneath it.",WHEN IT WAS RAISED TO BRING IT IN DOORS TWO SKELETONS WERE FOUND BENEATH IT,0.14285714285714285,0.13333333333333333,0.1952380952380952
+common_voice_en_21137563.wav,The role earned him an Academy Award nomination for Best Supporting Actor.,THE ROLL EARNED HIM AN ACADEMY AWARD NOMINATION FOR BEST SUPPORTING ACTOR,0.08333333333333333,0.08333333333333333,0.15972222222222232
+common_voice_en_25359215.wav,It is a green suburb with many parks and tree-lined streets.,IT IS A GREEN SABBATH WITH MANY PARKS AND TREE LINED STRAITS,0.36363636363636365,0.3333333333333333,0.5151515151515151
+common_voice_en_27284769.wav,"As its name suggests, the main towns are Merthyr Tydfil and Rhymney.",OTHERS NAMES ADJUSTS THE MAIN HOUNDS ARE MURDERED TYPEVILLE AND MUTINY,0.6666666666666666,0.6666666666666666,0.8787878787878788
+common_voice_en_19853465.wav,"Me, I don't want to write for people anymore.",ME I DON'T WANT TO WRITE FOR PEOPLE ANY MORE,0.2222222222222222,0.2,0.28888888888888886
+common_voice_en_21139281.wav,The color is green.,THE COLOR IS GRAIN,0.25,0.25,0.4375
+common_voice_en_19693342.wav,Inside is placed a silver globe inscribed with particulars of famous flights.,INSIDE IS PLACED A SILVER GRIBE INSCRIBED WITH PARTICULARS OF FAMOUS FLIGHTS,0.08333333333333333,0.08333333333333333,0.15972222222222232
+common_voice_en_18893934.wav,The band claims to never have performed the same show twice.,THE BAND CLAIMS TO NEVER HAD PERFORMED THE SAME SHOW TWICE,0.09090909090909091,0.09090909090909091,0.17355371900826455
+common_voice_en_27292360.wav,"Despite a curfew, the riots carried on for three days.",DESPITE A CURFEW THE RIOTS CARRIED ON FOR THREE DAYS,0.0,0.0,0.0
+common_voice_en_19946521.wav,What is wrong with you?,WHAT'S WRONG WITH YOU,0.4,0.4,0.55
+common_voice_en_27870847.wav,"The lead architect of the project was Edward F. Neild of Shreveport, Louisiana.",THE LEAD ARCHITECT OF THE PROJECT WAS EDWARD F KNEES OF SHRIEVE PORT LOUISIANA,0.23076923076923078,0.21428571428571427,0.3351648351648352
+common_voice_en_19612313.wav,"It was published by Crave Entertainment, and co-developed by Genki and Lightweight.",IT WAS PUBLISHED BY CRAVED ENTERTAINMENT AND CO DEVELOPED BY YANKEE AND LIGHT WEIGHT,0.5,0.42857142857142855,0.6190476190476191
+common_voice_en_18909318.wav,Crouse is now married to Rick Blue.,CROSS IS NOW MARRIED TRACK BLUE,0.42857142857142855,0.42857142857142855,0.6190476190476191
+common_voice_en_25380233.wav,Similar recipes are called Monmouth Pudding and Manchester Pudding.,SIMILAR RECIPES I CALLED MURMURTH PUDDING AND MAGISTER PUDDING,0.3333333333333333,0.3333333333333333,0.5555555555555556
+common_voice_en_19744540.wav,"His citation described him as ""an indefatigable campaigner, constant attender and independent-minded"".",THIS CITATION DESCRIBED HIM IS AN INDEFATIGABLE CAMPAIGNER CONSTANT ATTENDER AND INDEPENDENT MINDED,0.3333333333333333,0.3076923076923077,0.48076923076923084
+common_voice_en_30650421.wav,George Nicholson thought this was connected with moves to rehabilitate the Earl of Bothwell.,GEORGE NICHOLSON THOUGHT THIS WAS CONNECTED WITH MOVES TO REHABILITATE THE EARL OF BOTHWELL,0.0,0.0,0.0
+common_voice_en_21139189.wav,The team moved in that September.,THE TEA MOVED IN THAT SEPTEMBER,0.16666666666666666,0.16666666666666666,0.30555555555555547
+common_voice_en_21494110.wav,"He then joined Reading, where he was loaned out to Barnet and Hereford United.",IT ISN'T JOINT BREATHED BREATHING WHERE HE WILL FIND OUT SAINT BENNET AND HEREFORD UNITED,0.6428571428571429,0.6,0.8285714285714285
+common_voice_en_23893404.wav,Reaction intermediates are often free radicals or ions.,REACTION AND MEDIUMS ARE OFTEN FREE RADICALS OR IRONS,0.375,0.3333333333333333,0.5
+common_voice_en_27637623.wav,Car parking is available in the surrounding streets.,KARA PARKING IS AVAILABLE IN THE SURROUNDING STREETS,0.125,0.125,0.234375
+common_voice_en_21208403.wav,Agate Point is the northernmost point on Bainbridge Island.,A GOOD POINT IS THE NORTHERNMOST POINT ON BAINBRIDGE ISLAND,0.2222222222222222,0.2,0.28888888888888886
+common_voice_en_21183273.wav,He was a partner and then consultant with Simpson Grierson in Wellington.,HE WAS A PARTNER AND THEN CONSULTED WITH SIMPSON GREYERSON AND WELLINGTON,0.25,0.25,0.4375
+common_voice_en_19548001.wav,He was a cousin of physicist Lew Kowarski.,HE WAS A COUSIN OF PHYSICUS LOU CARRASCI,0.375,0.375,0.609375
+common_voice_en_20166624.wav,Two new additional reactors are planned.,TWO NEW ADDITIONAL REACTORS ARE PLANNED,0.0,0.0,0.0
+common_voice_en_21209953.wav,"It includes the villages of Royalton, South Royalton, and North Royalton.",IT INCLUDES THE VILLAGES OF ROYALTON SELF ROYALTON AND NORTH ROYALTY,0.18181818181818182,0.18181818181818182,0.3305785123966941
+common_voice_en_18985470.wav,Tommy Byrne the base runner at first.,TOMMY BURNED THE BASE FROM THE WRECK FIRST,0.5714285714285714,0.5,0.7142857142857143
+common_voice_en_22758695.wav,The local school district supports the E. Taylor Hatton Elementary School.,THE LOCAL SCHOOL DISTRICT SUPPORTS THE E TAILOR HAT AND ELEMENTARY SCHOOL,0.2727272727272727,0.25,0.38636363636363635
+common_voice_en_21493942.wav,Food can be stored in the backpack until it is needed.,FERD KIBBY STRODE ON THE BACKPACK UNTIL IT WAS NEEDED,0.5454545454545454,0.5454545454545454,0.7727272727272727
+common_voice_en_18893474.wav,The town is named after early landowner William Thurston.,THE TOWN WAS NAMED AFTER EARLY LANDOWNER WILLIAM THURSTON,0.1111111111111111,0.1111111111111111,0.2098765432098766
+common_voice_en_19519453.wav,She chooses to adopt a child on her own.,SHE CHOOSES TO ADOPT A CHILD ON THE RHYME,0.2222222222222222,0.2222222222222222,0.3950617283950617
+common_voice_en_23767406.wav,These rays produced a fluorescence when they hit the glass walls of the tubes.,THEN THEY HID THE GLASS VAULTS OF THE TROOPS,0.6428571428571429,0.6428571428571429,0.8015873015873016
+common_voice_en_18935340.wav,"""When It Hurts So Bad"" is musically old roots reggae mixed with soul.",WHEN IT HURTS SO BAD AS MUSICALLY OLD BRUTES ARE AGAIN MIXED WITH SALT,0.38461538461538464,0.35714285714285715,0.554945054945055
+common_voice_en_25380220.wav,She is looking to the left.,SHE IS LOOKING TO THE LEFT,0.0,0.0,0.0
+common_voice_en_19568017.wav,The executive producer is Sara Ford and the series producer is Miles Barton.,THE EXECUTIVE PROJECT IS SERAPHORED AND A SERIES CONDUCER AS MILES BOTTOM,0.5384615384615384,0.5384615384615384,0.7692307692307692
+common_voice_en_18714502.wav,It is identified as being the same color as periwinkle.,IT IS IDENTIFIED AS BEING THE SAME COLOR IS PERIWINKLE,0.1,0.1,0.18999999999999995
+common_voice_en_20167441.wav,See X mark for similar symbols that might be more accessible.,SEE EACH MARK FOR SIMILAR SYMBOLS THAT MIGHT BE MORE ACCESSIBLE,0.09090909090909091,0.09090909090909091,0.17355371900826455
+common_voice_en_20168260.wav,The name can be extended to puzzles that use non-alphabetic symbols instead of letters.,THE NAME CAN BE EXTENDED TO PUZZLES THAT USE NON ALPETIC SYMBOLS INSTEAD OF LETTERS,0.14285714285714285,0.13333333333333333,0.1952380952380952
+common_voice_en_25354177.wav,Animation production was split between A.,ANIMATION PRODUCTION WAS SPLIT BETWEEN A,0.0,0.0,0.0
+common_voice_en_22443931.wav,The Dejanira family of asteroids is named after it.,THE DEEDS ARE NEAR A FAMILY OF INSTRUMENTS IS NAMED AFTER IT,0.5555555555555556,0.4166666666666667,0.5462962962962963
+common_voice_en_22758593.wav,"He is known for his fluid skateboarding style and inventing the ""Bigspin"" skateboard trick.",HE IS KNOWN FOR HIS FLUID SCAPEBOARDING STYLE AND INVENTING THE BIG SPIN SCAPEBOARD TRICK,0.2857142857142857,0.26666666666666666,0.42380952380952386
+common_voice_en_18884681.wav,"At one time, there was a fourth flavor, banana.",AT ONE TIME THERE WAS A FOURTH FLAVOUR BANANA,0.1111111111111111,0.1111111111111111,0.2098765432098766
+common_voice_en_18893843.wav,The area is home to restaurants and fashion and jewellery outlets.,THE AREA IS HOME TO RESTAURANTS AND FASHIONABLE JEWELLERY OUTLETS,0.18181818181818182,0.18181818181818182,0.26363636363636356
+common_voice_en_21139242.wav,"When shown in sport uniforms, Aster is usually represented by the color green.",MISSUS SHERWIN AND SPORT UNIFORMS ESTABLISHED USUALLY REPRESENTED BY THE CALIFORN,0.5384615384615384,0.5384615384615384,0.7482517482517483
+common_voice_en_18963328.wav,This element involves two main steps.,THIS ELEMENT INVOLVES TWO MAIN STEPS,0.0,0.0,0.0
+common_voice_en_19693439.wav,This effect is often referred to as normal sinus arrhythmia.,THIS DEFECT IS OFTEN REFERRED TO AS NORMAL SCIENCE ARITHMEA,0.3,0.3,0.51
+common_voice_en_18893605.wav,It was the second signature model guitar released by Fender.,IT WAS THE SECOND SENATOR MODEL GUITAR RELEASED BY FINGER,0.2,0.2,0.3599999999999999
+common_voice_en_18900721.wav,The division's largest urban community is the Town of Hinton.,THE DIVISION'S LATEST OPEN COMMUNITY IS THE TOWN OF HUNTING,0.3,0.3,0.51
+common_voice_en_19852881.wav,"""Rihannsu"" has never been considered part of ""Star Trek"" canon.",PHENOMENA HAS NEVER BEEN CONSIDERED PART OF STAR TRACK CANNON,0.3,0.3,0.51
+common_voice_en_19547859.wav,"Deren and Hammid wrote, directed and performed in the film.",D'ARTAGNAN AND HAMLET WERE DIRECTED AND PERFORMED IN THE FILM,0.3,0.3,0.51
+common_voice_en_19547453.wav,"His major research interests include general relativity, relativistic astrophysics, and computational astrophysics.",HIS MAJOR RECENT INTERESTS AND CLUE GENERAL ACTIVITY PHILOSOPHISTIC HISTORY PHYSICS AND COMPUTATIONAL ESTRA PHYSICS,0.75,0.6,0.8
+common_voice_en_19547491.wav,"Other images include a lady talking on the phone, a motorbike, and two dogs.",OTHER IMAGES INCLUDE A LADY TALKING ON THE PHONE A MOTOR BAG AND TWO DOGS,0.14285714285714285,0.13333333333333333,0.1952380952380952
+common_voice_en_21185374.wav,The leaf can be used as an herb or garnish similar to parsley.,THE LEAF CAN BE USED AS AN HOOP OR GARNER SIMILAR TO PARSLEY,0.15384615384615385,0.15384615384615385,0.28402366863905326
+common_voice_en_18985498.wav,He was only the second scientist to hold the Principalship.,HE WAS ONLY THE SECOND SCIENTIST TO HOLD THE PRINCIPAL SHIP,0.2,0.18181818181818182,0.26363636363636356
+common_voice_en_18714965.wav,The Legion eventually learned that Lori had been using the H-dial.,THE LEGION EVINCEDLY LEARNED THAT LAURIE HAD BEEN USING THE H TOWER,0.36363636363636365,0.3333333333333333,0.5151515151515151
+common_voice_en_23893454.wav,"Agriculture includes vineyards, cereals, and olive groves.",AGRICULTURE AND CLOTHES VINEYARDS SERIALS AND OLIVE GROVES,0.42857142857142855,0.375,0.5535714285714286
+common_voice_en_22708435.wav,This is seen in the disagreement between scholars.,THIS IS SEEN IN THE DISAGREEMENT BETWEEN SCALLETS,0.125,0.125,0.234375
+common_voice_en_18627226.wav,The driver became agitated in the traffic.,THE DRIVER BECAME AGITATED AND TRAPPER,0.42857142857142855,0.42857142857142855,0.6190476190476191
+common_voice_en_18963320.wav,The various shades result from different concentrations of halochromic molecules with different conjugated systems.,THE VARIOUS SHADES RESOLVED FROM DIFFERENT CONCENTRATIONS OF HELOCRATIC MOLECULES WITH DIFFERENT CONJUGATED SYSTEMS,0.14285714285714285,0.14285714285714285,0.26530612244897966
+common_voice_en_30650389.wav,In November command of the ship briefly transferred to Captain Lord Henry Paulet.,IN NOVEMBER COMMANDED THE SHIP BRIEFLY TRANSFERRED TO CAPTAIN LORD HENRY POWLETT,0.23076923076923078,0.23076923076923078,0.3589743589743589
+common_voice_en_23846356.wav,"""Black Hawk"" was a name that Brigham Young, in jest, called the Ute leader.",BLAKE HOOK WAS A NAME THAT BRIGAND YOUNG AND JIST CALLED THE UTE LEADER,0.35714285714285715,0.35714285714285715,0.586734693877551
+common_voice_en_20168004.wav,"This ""River Victoria"" was later renamed the Barcoo River.",THIS RIVER AND VICTORIA WAS LATER RETINED THE BARCAVE RIVER,0.3333333333333333,0.3,0.4555555555555556
+common_voice_en_18909330.wav,Four Thai taekwondo jin qualified for the following events.,FOUR TIE PIKE ONDOJIN QUALIFIED FOR THE FOLLOWING EVENTS,0.3333333333333333,0.3333333333333333,0.5555555555555556
+common_voice_en_19867850.wav,"Two broad gauge engines: ""Queen"" and ""Raven"".",TWO BROAD GAUGE ENGINES CREAM AND RAVEN,0.14285714285714285,0.14285714285714285,0.26530612244897966
+common_voice_en_19867820.wav,"Since then, the village became known as Bishopthorpe.",SINCE THEN THE VILLAGE BECAME KNOWN AS BISHOP THORPE,0.25,0.2222222222222222,0.3194444444444444
+common_voice_en_18985422.wav,All tracks written by G. Love except as noted.,ALL TRACKS WRITTEN BY GEOGRAPHIC SITTERS NOTED,0.4444444444444444,0.4444444444444444,0.6031746031746031
+common_voice_en_18714950.wav,Kingswear is not mentioned in the Domesday Book.,KING'S WARE IS NOT MENTIONED IN THE DOOMSDAY BOOK,0.375,0.3333333333333333,0.5
+common_voice_en_20168221.wav,"Khemri was originally called Nehekhara, of which Khemri was a major city.",KENNEDY WAS URGENTLY CALLED NAKHKADA OF WHICH KENNEDY WAS THE MAJESTY,0.5833333333333334,0.5833333333333334,0.8106060606060606
+common_voice_en_18884769.wav,The University of South Florida won both.,THE UNIVERSITY OF SOUTH FLORIDA WON BOTH,0.0,0.0,0.0
+common_voice_en_19547406.wav,Yes; I went to Agathaâ€™s to tea.,YES I WENT TO ACCOMPANSE TO TEA,0.14285714285714285,0.14285714285714285,0.26530612244897966
+common_voice_en_19852715.wav,"To develop his contention, Toulmin introduced the concept of argument fields.",TO DEVELOP HIS CONTENTION TORMENT INTRODUCED THE CONCEPT OF ARGUMENT FIELDS,0.09090909090909091,0.09090909090909091,0.17355371900826455
+common_voice_en_21203551.wav,She borrowed her father's rifle for her first race.,SHE BORROWED HER FATHER'S RIFLE FOR HER FIRST RACE,0.0,0.0,0.0
+common_voice_en_18909367.wav,Haworth Band is one of the oldest secular musical organisations in the Keighley area.,HAWORTH BAND IS ONE OF THE OLDEST SECULAR MUSICAL ORGANIZATIONS AND THE KEITHLEY AREA,0.21428571428571427,0.21428571428571427,0.38265306122448983
+common_voice_en_25640234.wav,It is named after the characteristic shaped hill opposite it.,IT IS NAMED AFTER THE CHARACTERISTIC SHAPED HILL OPPOSITE IT,0.0,0.0,0.0
+common_voice_en_19793966.wav,"Before the twentieth century, the county was spelled Dumbartonshire.",BEFORE THE TWENTIETH CENTURY THE COUNTY WAS SPELLED DUMBARTONSHIRE,0.0,0.0,0.0
+common_voice_en_25641144.wav,The scrollability indicates the direction in which a cursor can move.,THE SCROLL ABILITY INDICATES THE DIRECTION IN WHICH ACCURSOR CAN MOVE,0.36363636363636365,0.3333333333333333,0.47107438016528924
+common_voice_en_27344629.wav,Day Boys and Boarders compete with rival rugby teams on an annual basis.,DAY BOYS AND BORDERS CAN PEEP WITH RIVAL RUDDY TEARS ON AN ANNUAL BASIS,0.38461538461538464,0.35714285714285715,0.554945054945055
+common_voice_en_23893828.wav,Most of the plants on the list originated in tropical or subtropical environments.,MOST OF THE PLANTS ON THE LIST ORIGINATED IN TROPICAL OR SUBTROPICAL ENVIRONMENTS,0.0,0.0,0.0
+common_voice_en_21159889.wav,Neighbouring South Korea is Japan's most important source of foreign tourists.,NEIGHBORING SOFT COURIER IS JAPAN'S MOST IMPORTANT SOURCE OF FOREIGN TOURISTS,0.2727272727272727,0.2727272727272727,0.47107438016528924
+common_voice_en_25640552.wav,The school is based on a long tradition of Lutheran education in the town.,THE SCHOOL IS BASED ON A LONG TRADITION OF LUTHERAN EDUCATION IN THE TOWN,0.0,0.0,0.0
+common_voice_en_19597454.wav,He left behind four children.,HE LEFT BEHIND FOUR CHILDREN,0.0,0.0,0.0
+common_voice_en_19547471.wav,"Today, the name is pronounced the same as ""Hollywood"".",TO DAY THE NAME IS PRONOUNCED THE SAME AS HOLLYWOOD,0.2222222222222222,0.2,0.28888888888888886
+common_voice_en_25639981.wav,"Wright Company, the manufacturer of Lincoln Logs.",RIGHT COMPANY THE MANUFACTURER OF LINCOLN LOGS,0.14285714285714285,0.14285714285714285,0.26530612244897966
+common_voice_en_27292581.wav,She co-stars with Steve Guttenberg and James Duval in the psycho horror film Cornered!,SHE COASTED WITH STEVE GUTTENBURG AND JAMES DU VALL IN THE CYCLE HORROR FIRM CORNERED,0.42857142857142855,0.4,0.6142857142857143
+common_voice_en_19551006.wav,"His son, Ramesses the Fifth, would succeed him to the throne.",HIS SON RAMESES THE FETE WOULD SUCCEED HIM TO THE THRONE,0.18181818181818182,0.18181818181818182,0.3305785123966941
+common_voice_en_23911983.wav,This is not coincidental.,THIS IS NOT COINCIDENTAL,0.0,0.0,0.0
+common_voice_en_18714930.wav,"Originally the mausoleum was a decorated cylinder, with a garden top and golden quadriga.",CERTAINLY THE MAUSOLEUM WAS A DECORATED CYLINDER WITH THE GARDEN TOP AND GOLDEN QUADRIGA,0.14285714285714285,0.14285714285714285,0.26530612244897966
+common_voice_en_89084.wav,A man in a black hat sells Russian hats and tourist goods at an outdoor stand.,A MAN IN A BLACK HAT SELLS RUSSIAN HATS AND TROUSERS AND NAPKINS STAND,0.3125,0.3125,0.4598214285714286
+common_voice_en_20031464.wav,Numerous businesses and industries were created and buildings were erected to service the railroad.,NUMEROUS BUSINESSES AND INDUSTRIES WERE CREATED AND BUILDINGS WERE ERECTED TO SERVICE THE RAILROAD,0.0,0.0,0.0
+common_voice_en_19744099.wav,"Despite doing so, Gabriel shoots Ginger.",DESPITE DOING SO GABRIEL SHOOTS GINGER,0.0,0.0,0.0
+common_voice_en_27637770.wav,The members of the older branch descending from Lars are still living in Sweden.,THE MEMBERS OF THE OLDER BRANCH DESCENDING FROM LAWS ARE STILL LIVING IN SWEDEN,0.07142857142857142,0.07142857142857142,0.1377551020408163
+common_voice_en_19547382.wav,Games between top players are rarely decided by more than a couple of moves.,GAMES BETWEEN TAUGHT PLAYERS ARE REALLY DECIDED BY MORE THAN A COUPLE OF MOVES,0.14285714285714285,0.14285714285714285,0.26530612244897966
+common_voice_en_19547720.wav,"Instantly, his frustration at the sloppy work changed and he had an insight.",INSTANTLY HIS FASCINATION AT THE SOPPY WORK CHANGED AND HE HIDDEN INSIDE,0.38461538461538464,0.38461538461538464,0.5897435897435898
+common_voice_en_19853796.wav,Such cases were dealt with by enclosing the content within comment blocks.,SUCH CASES WERE DEALT WITH BY ENCLOSING THE CONTENT WITHIN COMMENT BLOCKS,0.0,0.0,0.0
+common_voice_en_18893588.wav,The airport provides scheduled services to the Scottish mainland and other Hebridean islands.,THE APRIL PROVIDES SHADOWED SERVICES TO THE SCOTTISH MAINLAND AND OTHER HEBRIDEAN ISLANDS,0.15384615384615385,0.15384615384615385,0.28402366863905326
+common_voice_en_19744103.wav,Five thousand Japanese dead were counted on the battlefield.,FIVE THOUSAND JAPANESE DEAD WERE COUNTED ON THE BATTLEFIELD,0.0,0.0,0.0
+common_voice_en_20167541.wav,"Tropic hormones are contrasted with non-tropic hormones, which directly stimulate target cells.",TRUMPET HOLLOWS ARE CONTRASTED TOWARDS NON TROPICAL MOUNTS WHICH DIRECTLY STIMULATE TARGET SELVES,0.5833333333333334,0.5384615384615384,0.7692307692307692
+common_voice_en_18890729.wav,Harlow's Playhouse Theatre is in the town.,HARRY'S PLAYHOUSE THEATRE IS IN THE TOWN,0.14285714285714285,0.14285714285714285,0.26530612244897966
+common_voice_en_27284749.wav,"Increasingly, the portable surgical hospitals were manned with younger and less skilled surgeons.",INCREASINGLY THE PORTABLE SURGICAL HOSPITALS WERE MANAGED WITH YOUNGER ANIMA SKILL SURGEONS,0.3076923076923077,0.3076923076923077,0.48076923076923084
+common_voice_en_20168060.wav,"His lexicographical works, in particular his Latin-German glossaries are still cited in scholarship today.",ITS LEXICOGRAPHICAL WORKS AND PARTICULAR HAS LATIN GERMAN CROSSERIES ARE STILL CITED IN SCHOLARSHIP TO DAY,0.5714285714285714,0.5,0.7142857142857143
+common_voice_en_18884756.wav,The caucuses are generally defined as gatherings of neighbors.,THE CAUCASUS ARE GENERALLY DEFINED AS GATHERINGS OF NEIGHBOURS,0.2222222222222222,0.2222222222222222,0.3950617283950617
+common_voice_en_21209910.wav,While in Congress he served as the chairman of the Committee on Woman Suffrage.,WHILE IN CONGRESS HE SERVED AS THE CHAIRMAN OF THE COMMITTEE ON WOMAN'S SUFFRAGE,0.07142857142857142,0.07142857142857142,0.1377551020408163
+common_voice_en_18890754.wav,These consists of particular Slimes that are able to participate.,THESE CONSISTS OF PARTICULAR SLIMES THAT ARE ABLE TO PETTICOATE,0.1,0.1,0.18999999999999995
+common_voice_en_23893774.wav,Akaroa is entirely dependent upon rainfall on the hills.,ECHOED HOUR IS ENTIRELY DEPENDENT UPON RAINFALL ON THE HILLS,0.2222222222222222,0.2,0.28888888888888886
+common_voice_en_19693359.wav,"Justice Ian Josephson described the erasures as ""unacceptable negligence"".",JUSTICE IN JOSEPH'S SON DESCRIBED THE ERRORS AS UNACCEPTABLE NEGLIGENCE,0.4444444444444444,0.4,0.6000000000000001
+common_voice_en_25359153.wav,"A variant, though not unique to online shopping programs, is the intrinsic reward.",VARIANT THOUGH NOT UNIQUE TO ONLY SHOPPING PROGRAMMES AS AN INTRINSIC REWARD,0.38461538461538464,0.38461538461538464,0.5897435897435898
+common_voice_en_18985494.wav,Prospect's population is growing and reflective of a broader demographic.,PROSPECT'S POPULATION IS GROWING AND REFLECTED ABOVE THE BROADER DEMOGRAPHIC,0.3,0.3,0.51
+common_voice_en_18714545.wav,The first flight to America was fraught with drama.,THE CHEMIST'S FLAT TO AMERICA WAS FOUGHT WITH DRAMA,0.3333333333333333,0.3333333333333333,0.5555555555555556
+common_voice_en_18963324.wav,There are several trips daily.,THERE ARE CIVIL TRIPS DAILY,0.2,0.2,0.3599999999999999
+common_voice_en_22758629.wav,Gerry tries to tell Alfie but he thinks that Gerry has helped.,JERRY TRIES TO TELL ELSIE BUT HE THINKS THAT JERRY HAS HELPED,0.25,0.25,0.4375
+common_voice_en_21209868.wav,"Sunshine originated Vienna Fingers cookies, which are now sold under the Keebler brand.",SUNSHINE ORIGINATED VEHENER FINGERS COOKIES WHICH I HAD NOW SALT UNDER THE KIBBLER BRAND,0.38461538461538464,0.35714285714285715,0.554945054945055
+common_voice_en_27637730.wav,"It is known for its dynamic chorus, aggressive vocals, and prominent drum beat.",IT IS KNOWN FOR ITS DYNAMIC COURSE AGGRESSIVE VOCALS AND PROMINENT DRUM BEAT,0.07692307692307693,0.07692307692307693,0.1479289940828401
+common_voice_en_20999485.wav,Dickson was one of the earliest fellows of the Royal Geographical Society.,DIXON WAS ONE OF THE EARLIEST FELLOWS OF THE ROYAL GEOGRAPHICAL SOCIETY,0.08333333333333333,0.08333333333333333,0.15972222222222232
+common_voice_en_19642355.wav,Support for video game regulation has at times been linked to moral panic.,SUPPORT OF THE MEDIOCRE REGULATION HAS A TONGUE'S PEN WENT TO MORAL PANIC,0.5384615384615384,0.5384615384615384,0.7869822485207101
+common_voice_en_19693394.wav,"Location: Madhab Baptist Church, Mandwi Baptist Pastoral Circle.",LOCATION MADAM BAPTIST CHURCH MONTEREY BAPTISTS PASTORIAL CIRCLE,0.5,0.5,0.75
+common_voice_en_20996256.wav,"When he attended Florida Southern College, he was a member of the golf team.",WHEN HE ATTENDED FLORIDA'S SOUTHERN COLLEGE HE WAS A MEMBER OF THE GOLF TEAM,0.07142857142857142,0.07142857142857142,0.1377551020408163
+common_voice_en_21493957.wav,His German international scoring record stands at roughly a goal every three games.,HIS GERMAN INTERNATIONAL SCORING RECORD STANDS IT ROUGHLY A GOAL EVERY THREE GAMES,0.07692307692307693,0.07692307692307693,0.1479289940828401
+common_voice_en_20049204.wav,"Nevertheless, it was an overall success.",NEVERTHELESS IT WAS AN OVERALL SUCCESS,0.0,0.0,0.0
+common_voice_en_18893534.wav,Dried rose hips are also sold for primitive crafts and home fragrance purposes.,DRIED ROSETTES ARE ALSO SOLD FOR PRIMITIVE CRAFTS AND HOME FRAGRANCE PURPOSES,0.15384615384615385,0.15384615384615385,0.22435897435897445
+common_voice_en_20166648.wav,Stainback believed Communists were plotting to take over the Hawaiian Islands.,STERNBACK BELIEF COMMITTED HIS REPROSSING TO TAKE OVER THE HAWAIIAN ISLANDS,0.45454545454545453,0.45454545454545453,0.7024793388429753
+common_voice_en_83956.wav,Is it warm at the current location?,IS IT WARM AT THE CURRENT LOCATION,0.0,0.0,0.0
+common_voice_en_23893808.wav,We havenâ€™t any.,WE HAVEN'T IN IT,1.0,0.75,0.9166666666666666
+common_voice_en_27871238.wav,Little is known about this kingdom.,LITTLE IS KNOWN ABOUT THIS KINGDOM,0.0,0.0,0.0
+common_voice_en_22708466.wav,"Furthermore, he liked to photograph and owned a small fruit farm.",FURTHERMORE HE LIKED TO PHOTOGRAPH AND OWNED A SMALL FRUIT FAT FAWN,0.18181818181818182,0.16666666666666666,0.24242424242424243
+common_voice_en_18893506.wav,The project was much more daring than he had imagined.,THE PROJECT WAS MUCH MORE DARING THAN HE HAD IMAGINED,0.0,0.0,0.0
+common_voice_en_21139174.wav,Stream Processors is headed by computer architect Bill Dally.,IT IS HIDDEN BY A COMPUTER ARCHITECT BELL DALLY,0.5555555555555556,0.5,0.691358024691358
+common_voice_en_21207838.wav,"He was skilled in cartography and selenography, the skill of mapping the Moon.",HE WAS SKILLED IN PHOTOGRAPHY AND SELENOGRAPHY THE SKULL OF MAKING THE MOON,0.23076923076923078,0.23076923076923078,0.40828402366863903
+common_voice_en_21206844.wav,"Though it was a pushrod engine, it was advanced for the time.",THO IT WAS A PERSUADING JINN IT WAS ADVANCED FOR THE TIME,0.25,0.25,0.4375
+common_voice_en_21185628.wav,He has a neurotic personality and elitist attitude.,HE HAS A NEUROTIC PERSONALITY AND RELIGIOUS ATTITUDE,0.125,0.125,0.234375
+common_voice_en_18893938.wav,The primary vertical motion is upward.,THE PRIMARY VERTICAL MOTION IS UPWARD,0.0,0.0,0.0
+common_voice_en_27344688.wav,"Thompson and his wife Cathy have two daughters, Erika and Brooke.",THOMPSON AND HIS WIFE KATHIE HAVE TWO DAUGHTERS ERIKA AND BROOK,0.18181818181818182,0.18181818181818182,0.3305785123966941
+common_voice_en_19519466.wav,The newly named chain solved that problem.,THE NEWLY NAMED CHAIN SOLVED THAT PROBLEM,0.0,0.0,0.0
+common_voice_en_27637638.wav,Billy released an official statement to the press.,BILLY RELEASED AN OFFICIAL STATEMENT TO THE PRESS,0.0,0.0,0.0
+common_voice_en_31289393.wav,It sees Rod wave boasting his riches and flaunting his wealth.,IT SEIZED BROADWAY BOASTING HIS RICHES AND FLAUNTING HIS WEALTH,0.2727272727272727,0.2727272727272727,0.4181818181818181
+common_voice_en_19946555.wav,These accounts may also refer to the Selk'nam people.,THE COUNT'S MAIL FOR AFRAID OF THE WELCOME PEOPLE,0.7777777777777778,0.7777777777777778,0.9506172839506173
+common_voice_en_19867908.wav,Pepito left to form Reign Supreme.,PEPETA LEFT TO FORM ARRANGE SUPREME,0.3333333333333333,0.3333333333333333,0.5555555555555556
+common_voice_en_26985654.wav,The result is a wide outcrossing between all major strains.,THE RESULT IS A WIDE OUTCROSSING BETWEEN ALL MAJOR STRAINS,0.0,0.0,0.0
+common_voice_en_27871077.wav,"Historically, Henley has had several private lunatic asylums.",HISTORICALLY HENLEY HAS HAD SEVERAL PRIVATE LUNATIC ASYLUMS,0.0,0.0,0.0
+common_voice_en_19852680.wav,"Sullivan was born on a farm at Kilcrohane, west of Bantry, County Cork, Ireland.",SULLIVAN WAS BORN ON A FARM AT KILCROFANE WEST OF BANTRY COUNTY CORK ISLAND,0.14285714285714285,0.14285714285714285,0.26530612244897966
+common_voice_en_21185393.wav,Michael Schumacher started from pole position alongside McLaren driver David Coulthard.,MICHAEL SYMMACHUS STARTED FROM POLE POSITION ALONGSIDE MC CLAREN DRIVER DAVID COSFORD,0.36363636363636365,0.3333333333333333,0.5151515151515151
+common_voice_en_26986211.wav,The charges were eventually dropped.,THE CHARGES WERE EVENTUALLY DROPPED,0.0,0.0,0.0
+common_voice_en_28853355.wav,It flows into the Adriatic Sea at the city of Pescara.,IT FLOWS INTO THE ADRIATIC SEA AT THE CITY OF PESCARA,0.0,0.0,0.0
+common_voice_en_18909371.wav,"Uther's mind is plagued by madness and lust, and Britain is in civil war.",UTAH'S MIND IS PLAGUED BY MADNESS AND LUST AND BRITAINNESS AND CIVIL WAR,0.2857142857142857,0.2857142857142857,0.4505494505494505
+common_voice_en_19692949.wav,This hall features specimens of Bahrain's flora and fauna.,THE SCHOOL FEATURES SPECIMENS OF BEAURAIN'S FLORA AND FAUNA,0.3333333333333333,0.3333333333333333,0.5555555555555556
+common_voice_en_25641458.wav,"She is a long-term anti-nuclear campaigner, promoting the use of renewable energy.",SHE IS A LONG TORMENTING YOU CLEAR CAMPAIGNER PROMOTING THE USE OF RENEWABLE ENERGY,0.3333333333333333,0.2857142857142857,0.40476190476190477
+common_voice_en_18838274.wav,"He mentored future leaders of the league, including Wayne Wheeler and Ernest Cherrington.",HE MADE TOWARD THE FUTURE LEADERS OF THE LEAGUE INCLUDING WINE WHEELER AND EARNEST CHERRINGTON,0.38461538461538464,0.3333333333333333,0.4871794871794872
+common_voice_en_23893824.wav,The government of Japan does not consider it having any crucial value.,THE GOVERNMENT OF JAPAN DOES NOT CONSIDER IT HAVING ANY CRUCIAL VALUE,0.0,0.0,0.0
+common_voice_en_23893381.wav,There is also a buy on board service.,THERE IS ALSO A BUY ON BOARD SERVANTS,0.125,0.125,0.234375
+common_voice_en_23893792.wav,It is complementary to wisdom and is necessary for enlightenment.,IT IS COMPLIMENTARY TO WISDOM AND IS NECESSARY FOR ENLIGHTENMENT,0.1,0.1,0.18999999999999995
+common_voice_en_19547366.wav,The band also performed on the rock evening of the Intertalent Festival in Prague.,THE BAND WAS SO PERFORMED ON THE ROCK EVENING OF THE INTELLECT FESTIVAL AND PRAGUE,0.2857142857142857,0.26666666666666666,0.42380952380952386
+common_voice_en_18900782.wav,Only his soldiers never wavered in their devotion.,ONLY HIS SOLDIERS NEVER WAVERED IN THEIR DEVOTION,0.0,0.0,0.0
+common_voice_en_18985449.wav,"Hancock was born in the Bronx, New York City and raised in Westchester.",HANCOCK WAS BORN IN THE BRONZE NEW YORK CITY AND RACED AND WISCONSTER,0.3076923076923077,0.3076923076923077,0.5207100591715976
+common_voice_en_23846364.wav,Railguns may also be miniaturized for inertial confinement nuclear fusion.,RAOUL GUNS MAY ALSO BE MINIATURIZED FOR INNOCENT CONFINEMENT NUCLE EFFUSION,0.5,0.45454545454545453,0.6727272727272728
+common_voice_en_18893994.wav,"Part Deux, featuring a blue animal drumming through instead of the pink bunny.",PARDON FEATURING A BLUE ANIMAL DRUMMING TRUE AND STEP OF THE PINK BUNNY,0.38461538461538464,0.35714285714285715,0.5207100591715976
+common_voice_en_27270000.wav,"Historically, the sea lion has had only very slight commercial value.",HISTORICALLY THE SEA LINE HAS HAD ONLY A VERY SLIGHT COMMERCIAL VALUE,0.18181818181818182,0.16666666666666666,0.24242424242424243
+common_voice_en_25040769.wav,"The shops offer lingerie, underwear, cosmetics, swimwear and sex toys.",THE SHOPS OF THE LAUNDRY UNDERWEAR COSMETICS OF SWIMMING AND SIX TOYS,0.6,0.5,0.7
+common_voice_en_28852959.wav,They contributed six tracks along with other early Boston Hardcore band Gang Green.,THEY CONTRIBUTED SIX TRACTS ALONG WITH OTHER EARLY BOSTON HARD CALL BAND GANG GREEN,0.23076923076923078,0.21428571428571427,0.3351648351648352
+common_voice_en_23893750.wav,"The specimen does show the statocyst, however.",THE SPECIMEN DOES SHOW THE STATE OF SUCH HOWEVER,0.42857142857142855,0.3333333333333333,0.4285714285714286
+common_voice_en_19547479.wav,Some liquor stores and pawn shops were present.,SOME LIKE THE STORES AND PAWNSHOPS REPRESENT,0.75,0.6666666666666666,0.8392857142857143
+common_voice_en_24908811.wav,The metabolic pathway or rate did not differ between the sexes.,THE METABOLIC PATHWAY OR RATE DID NOT DIFFER BETWEEN THE SEXES,0.0,0.0,0.0
+common_voice_en_27292434.wav,Much of the stucco on the surface of the temple has vanished.,MUCH OF THE STUCCO ON THE SURFACE OF THE TEMPLE HAS VANISHED,0.0,0.0,0.0
+common_voice_en_22443833.wav,She subsequently spent several years in Italy.,SHE SUBSEQUENTLY SPENT SEVERAL YEARS IN ITALY,0.0,0.0,0.0
+common_voice_en_22749675.wav,Howgill was married first to a woman named Dorothy.,HUGO WAS MARRIED FIRST TO A WOMAN NAMED DOROTHY,0.1111111111111111,0.1111111111111111,0.2098765432098766
+common_voice_en_21185613.wav,It is sometimes called ringmail or ring mail.,IT IS SOMETIMES CALLED RING MAIL OR RING MAIL,0.25,0.2222222222222222,0.3194444444444444
+common_voice_en_19567926.wav,"It was Philip who marched away in August, and the city capitulated shortly thereafter.",IT WAS PHILIP WHO MARCHED AWAY IN AUGUST AND THE CITY CAPITULATED SHORTLY AFTER,0.07142857142857142,0.07142857142857142,0.1377551020408163
+common_voice_en_18935230.wav,The use of computers facilitates greatly the solution of fiber simulation problems.,THE USE OF COMPUTERS FACILITATES GREATLY THE SOLUTION OF PRIVATE SIMULATION PROBLEMS,0.08333333333333333,0.08333333333333333,0.15972222222222232
+common_voice_en_27871259.wav,It was also fitted to aerobatics.,IT WAS ALSO FITTED TO ARABATICS,0.16666666666666666,0.16666666666666666,0.30555555555555547
+common_voice_en_20284820.wav,This approach is intended to dissuade attacks before they happen.,THIS APPROACH IS INTENDED TO DISSUADE A TAX BEFORE THEY HAPPEN,0.2,0.18181818181818182,0.26363636363636356
+common_voice_en_21162455.wav,"Neal plays Jack Griffith, a Philadelphia reporter.",NEEL PLAYS JACK GRIFFITH A PHILADELPHIA REPORTER,0.14285714285714285,0.14285714285714285,0.26530612244897966
+common_voice_en_27270551.wav,The scrap material drops through as the workpiece is advanced for the next hole.,THE SCRAP MATERIAL DROPS THROUGH AS THE WORKPIECE IS ADVANCED FOR THE NEXT HOLE,0.0,0.0,0.0
+common_voice_en_19751560.wav,"Connelly manages Reckless Records, a record store in Wicker Park, Chicago.",COLONELLY MANAGERS RECKLESS RECORDS A RECORD STORE IN WICKER PARK CHICAGO,0.18181818181818182,0.18181818181818182,0.3305785123966941
+common_voice_en_20031867.wav,Access can be a problem.,EXCESS CAN BE A PROBLEM,0.2,0.2,0.3599999999999999
+common_voice_en_19547892.wav,"These designs are more ""pedestrian friendly"" than the same vehicle without any bullbar.",THESE DESIGNS ARE MORE PEDESTRIAN FRIENDLY THAN THE SAINT PIERRECOE WITHOUT ANY POPA,0.23076923076923078,0.23076923076923078,0.40828402366863903
+common_voice_en_25380121.wav,He earned his Ph.D. in English literature from New York University.,HE EARNED HIS PIETY AN ANGLER'S LITERATURE FROM NEW YORK UNIVERSITY,0.2727272727272727,0.2727272727272727,0.47107438016528924
+common_voice_en_19867842.wav,"Avishai was born in Kibbutz Kabri, Israel.",ALYOSHA WAS BORN IN CABOT'S COBURY ISRAEL,0.42857142857142855,0.42857142857142855,0.6734693877551021
+common_voice_en_27560876.wav,"All lyrics written by Michael Cretu and David Fairstein, music by Cretu.",ALL LYRICS WRITTEN BY MICHAEL CRETUR AND DAVID FAIRSTEIN MUSIC BY CRITO,0.16666666666666666,0.16666666666666666,0.30555555555555547
+common_voice_en_20031188.wav,Other groups include the Christchurch Archery club and New Brighton long boarders club.,OTHER GRIPS ENCLOSED THAT CRUSTED ARCHERY CLUB AND YOU BRIGHTENED LONG BORDER'S CUP,0.6153846153846154,0.6153846153846154,0.8520710059171598
+common_voice_en_19552424.wav,"Also, higher worker or student productivity can be factored into savings and cost deductions.",ALSO HIGHER WORKER OR STUDENT PRODUCTIVITY CAN BE EFFECTED INTO SAVINGS AND COST DEDUCTIONS,0.07142857142857142,0.07142857142857142,0.1377551020408163
+common_voice_en_20288435.wav,In a second vote the plan was approved.,IN A SECOND VOTE THE PLAN WAS A BOOT,0.25,0.2222222222222222,0.3194444444444444
+common_voice_en_19905289.wav,"Another neurologist, Franz Nissl, began to work in the same asylum with Alzheimer.",ANOTHER NEUROLOGIST FRANZ THE SOUL BEGAN TO WORK IN THE SAME ASYLUM WITH ELSAMA,0.23076923076923078,0.21428571428571427,0.3351648351648352
+common_voice_en_19561825.wav,Industrialists are shown cooperating to support the private venture.,INDUSTRIALISTS A SHOW INCORPORATING TO SUPPORT THE PRIVATE VENTURE,0.3333333333333333,0.3333333333333333,0.5555555555555556
+common_voice_en_19693138.wav,One was certified Platinum.,ONE WAS CERTIFIED PLATINUM,0.0,0.0,0.0
+common_voice_en_22749662.wav,It is set in the key of E major.,IT IS SICK IN THE KEY OF E MAJOR,0.1111111111111111,0.1111111111111111,0.2098765432098766
+common_voice_en_19550967.wav,"In his senior year of high school, he and his family moved to Germany.",IN A SENIOR YALE OF HIGH SKULL HE AND HIS FAMILY LIVED TO GERMANY,0.2857142857142857,0.2857142857142857,0.4897959183673469
+common_voice_en_20562232.wav,Copacabana is surrounded by pre-Columbian ruins of considerable interest.,TYPECABANA IS SURROUNDED BY PRE COLUMBIAN RUINS OF CONSIDERABLE INTEREST,0.3333333333333333,0.3,0.4555555555555556
+common_voice_en_20031375.wav,"Following along the route is the small, but quaint village of Old Brampton.",FOLLOWING ALONG THE ROUTE IS A SMALL BUT QUAINT VILLAGE OF OLD RENTON,0.15384615384615385,0.15384615384615385,0.28402366863905326
+common_voice_en_18985558.wav,Technological advancements have brought graphic design and digital displays to the forefront.,TECHNOLOGICAL ADVANCEMENTS HAD BROUGHT GRAPHIC DESIGN INDIVIDUAL DISPLAYS TO THE FOREFRONT,0.25,0.25,0.38636363636363635
+common_voice_en_27637677.wav,Schneider was a Woodrow Wilson Visiting Fellowship at Reed College.,SCHNEIDER WAS A WOODROW WILSON VISITING FELLOWSHIP AT REED COLLEGE,0.0,0.0,0.0
+common_voice_en_28853073.wav,They move independently and in concert.,THEY MOVE INDEPENDENTLY AND IN CONCERT,0.0,0.0,0.0
+common_voice_en_19519440.wav,His position as emperor was ratified by the Senate around this time.,HIS POSITION HIS EMPIRE WAS RATIFIED BY THE SENATE AROUND THIS TIME,0.16666666666666666,0.16666666666666666,0.30555555555555547
+common_voice_en_25640915.wav,"Candido's distinctive, four-octave speaking voice became familiar to radio listeners and moviegoers.",CANDIDO'S DISTINCTIVE FORCE OF SPEAKING VOICE BECAME FAMILIAR TO RADIO LISTENERS AND MOVING HOURS,0.3333333333333333,0.2857142857142857,0.40476190476190477
+common_voice_en_18906287.wav,"After graduation, he returned home to Arizona, where he began his law practice.",AFTER GRADUATION HE RETURNED HOME TO ARIZONA WHERE HE BEGAN A SCHOOL PRACTICE,0.15384615384615385,0.15384615384615385,0.28402366863905326
+common_voice_en_18893619.wav,Hunter was then sent to Bishop Bonner in London.,AND I WAS THEN SINK TO BISHOP HONOR AND LONDON,0.5555555555555556,0.5,0.7222222222222222
+common_voice_en_18985541.wav,"With Alexander term-limited, Republicans nominated former Governor Winfield Dunn.",WITH ALEXANDER TEN LIMITED REPUBLICANS NOMINATED FORMER GOVERNOR WON'T FEEL DONE,0.5555555555555556,0.45454545454545453,0.6363636363636365
+common_voice_en_19547402.wav,"By skillful maneuvering, the Austrians chased The Infant from Milan to Pavia.",BY SKILFUL MANOEUVRING THE AUSTRIANS CHASED THE INFANT FROM THE LATTERPATHIA,0.4166666666666667,0.4166666666666667,0.6287878787878788
+common_voice_en_28853218.wav,Four thousand Allied guns fired for four hours during the opening bombardment.,FOUR THOUSAND ALLIED GUNS FIRED FOR FOUR HOURS DURING THE OPENING BOMBARDMENT,0.0,0.0,0.0
+common_voice_en_27870696.wav,Carniola and Dalmatia joined Yugoslavia.,CANDIOLA AND DALMATIA JOINED LUCAS FLAVIA,0.6,0.5,0.7
+common_voice_en_18884664.wav,Most of the family members lie within the latter orbital distance.,MOST OF THE FAMILY MEMBERS WERE WITHIN THE LATTER ORBITAL DISTANCE,0.09090909090909091,0.09090909090909091,0.17355371900826455
+common_voice_en_19548005.wav,Yomogita Station has a single side platform serving bidirectional traffic.,YELLOW MORTGATA STATION HAS A SINGLE CYPRETFORM SURVEYING PIRATES NO TRAFFIC,0.6,0.5454545454545454,0.7727272727272727
+common_voice_en_20167244.wav,Sabina Police is headquartered in the first floor of the Sabina Municipal Building.,SURVEYING HIS POLICE AS HE CALLED IN THE FIRST FLOOR OF THE SABINA MUNICIPAL BUILDING,0.38461538461538464,0.3333333333333333,0.4871794871794872
+common_voice_en_19853457.wav,The station is a junction of the railway lines Brescia-Cremona and Brescia-Parma.,THE STATION IS A JUNCTION OF THE RAILWAY LINES BRESCIA CREMONA AND BRESCIA FARMER,0.3333333333333333,0.2857142857142857,0.40476190476190477
+common_voice_en_21208379.wav,Iron Age India enters the later Vedic period.,IRON AGE INDIA ENTERS THE LATTER VERDICT COURAGE,0.375,0.375,0.609375
+common_voice_en_20167832.wav,It is a part of the Carson City School District.,IT IS I OUT OF THE CASTLE CITY SCOLDER STRICT,0.5,0.5,0.75
+common_voice_en_21162431.wav,"Kinzie fled to Milwaukee, then in Indian territory.",KENZIE FLED TO MOWAUKEE THEN AN INDIAN TERRITORY,0.375,0.375,0.609375
+common_voice_en_19552838.wav,The station was close to the town centre.,THE STATION WAS CLOSE TO THE TOWN'S CENTRE,0.125,0.125,0.234375
+common_voice_en_27269975.wav,The usage has also extended to Breton and Cornish poetry.,THE USAGE HAS ALSO EXTENDED TO BRETON AND CORNISH POETRY,0.0,0.0,0.0
+common_voice_en_21185570.wav,The civil parish includes part of Rose Hill.,THE CIVIL PARISH INCLUDES PART OF ROSE HALL,0.125,0.125,0.234375
+common_voice_en_18985522.wav,"Thus, any exciting frequency lower than the cutoff frequency will attenuate, rather than propagate.",THUS ANY EXCITING FREQUENCY LONGER THAN THE CUT OF FREQUENCY WOULD ATTENUATE RATHER THAN PROPAGATE,0.2857142857142857,0.26666666666666666,0.42380952380952386
+common_voice_en_19852800.wav,"He has used a number of alter egos, including Patrick Ireland.",HE HAS USED A NUMBER OF ALTER EGOS INCLUDING PATRICK ISLAND,0.09090909090909091,0.09090909090909091,0.17355371900826455
+common_voice_en_20177025.wav,Significant communities from Vietnam and the Philippines were also reported.,SIGNIFICANT COMMUNITIES FROM VEIN MA'AM AND THE PHILIPPINES WERE ALSO REPORTED,0.2,0.18181818181818182,0.26363636363636356
+common_voice_en_27637362.wav,Nor was architecture the only science he was master of.,NOR WAS ARCHITECTURE THE ONLY SCIENCE HE WAS MASTER OF,0.0,0.0,0.0
+common_voice_en_21139537.wav,Its capital is Sebba.,IT'S CAPITAL AND SABBATH,0.5,0.5,0.75
+common_voice_en_27284741.wav,"Even these may forget, yet I will not forget you.",EVEN THESE MAY FORGET YET I WILL NOT FORGET YOU,0.0,0.0,0.0
+common_voice_en_19905253.wav,The winner becomes the representative of the Pacific League to the Japan Series.,THE WINNER BECOMES THE REPRESENTATIVE OF THE PACIFIC LEAGUE OF THE JAPANESE SERIES,0.15384615384615385,0.15384615384615385,0.28402366863905326
+common_voice_en_19612309.wav,"There is even very low friction, as long as the chain is sufficiently lubricated.",THERE IS EVEN VERY LOW FRICTION AS LONG AS THE CHAIN IS SUFFICIENTLY LUBRICATED,0.0,0.0,0.0
+common_voice_en_19868015.wav,The unincorporated community of Badger is in the town.,UNINCORPORATED COMMUNITY OF BADGER IS IN THE TONE,0.2222222222222222,0.2222222222222222,0.3194444444444444
+common_voice_en_19743941.wav,The foreword is by Japanese writer Banana Yoshimoto.,THE FOREWORD IS BY A JAPANESE WRITER BENEATH A YOSHIMOTUM,0.5,0.4,0.55
+common_voice_en_21207965.wav,Fishing with a hook and line is called angling.,FISHING WITH A HOOK AND LINE IS CALLED ANGLING,0.0,0.0,0.0
+common_voice_en_25354118.wav,Again I had to describe every detail of his appearance.,AGAIN I HAD TO DESCRIBE EVERY DETAIL OF HIS APPEARANCE,0.0,0.0,0.0
+common_voice_en_19853691.wav,The Northeast Arctic cod is found in the Barents Sea area.,THE NORTH EACH ARCTIC COT IS FOUND IN A BARREN SEA AREA,0.45454545454545453,0.4166666666666667,0.6287878787878788
+common_voice_en_19692962.wav,Today it is occupied by a golf club and the Musick Memorial Radio Station.,TO DAY IS OCCUPIED BY A GOLF CUP IN THE MUSIC MEMORIAL RADIO STATION,0.35714285714285715,0.35714285714285715,0.586734693877551
+common_voice_en_21185482.wav,"He is buried in Saint Philip's church yard, Birmingham.",HE IS BURIED IN SAINT PHILIP'S CHURCHYARD BURNHAM,0.3333333333333333,0.3333333333333333,0.5
+common_voice_en_21139517.wav,"With mobile dictation apps, one can record, edit, and send dictation files over networks.",WITH THE MOBILE DICTATION EBBS ONE CAN RECORD YET IT AND SEND DICTATION OF OURS OVER IN THE WORKS,0.6428571428571429,0.47368421052631576,0.6240601503759399
+common_voice_en_26985605.wav,This means users can compile their code with any of the available libraries.,THIS MEANS USES CAN COMPILELY CODE WITH ANY OF THE AVAILABLE LIBRARIES,0.23076923076923078,0.23076923076923078,0.3589743589743589
+common_voice_en_18893967.wav,Clasp brakes are one type of brakes historically used on trains.,CLASP BREAKS ON ONE CUP OF BRAKES HISTORICALLY USED ON TRAINS,0.2727272727272727,0.2727272727272727,0.47107438016528924
+common_voice_en_21494087.wav,"One of Rebecca's forebears was Quaker missionary, Elizabeth Webb.",ONE OF HER BAKER'S FULL BEARDS WHILST QUITE ADMISSIONARY IT IS A BIT WEEP,1.3333333333333333,0.8571428571428571,0.9682539682539683
+common_voice_en_30645533.wav,Morlan had arthritis and Asperger syndrome.,MORLAND HAD AUTHORITIS AND ASPARAGUS IN DRINK,0.8333333333333334,0.7142857142857143,0.9047619047619048
+common_voice_en_18977863.wav,There are many different standards and types of horsepower.,THERE ARE MANY DIFFERENT STANDARDS AND TYPES OF HORSE POWER,0.2222222222222222,0.2,0.28888888888888886
+common_voice_en_19693240.wav,"Their remains are interred at Woodlawn Cemetery in The Bronx, New York City.",THE REMAINS ARE INTERRED AT WOODLAND CEMETERY IN THE BRONX IN YORK CITY,0.23076923076923078,0.23076923076923078,0.40828402366863903
+common_voice_en_19606952.wav,I shall write no more!,I SHALL WRITE NO MORE,0.0,0.0,0.0
+common_voice_en_19867786.wav,"This is called ""stopping"" the strings.",THIS IS CALLED STOPPING THE STRINGS,0.0,0.0,0.0
+common_voice_en_19550973.wav,Two years later he succeeded his father as chief executive officer.,TWO YEARS LATER HE SUCCEEDED IN HIS FATHER HIS CHIEF EXECUTIVE OFFICER,0.18181818181818182,0.16666666666666666,0.24242424242424243
+common_voice_en_18714909.wav,Fife Constabulary was divided into three Territorial Divisions.,FIVE CONSTABULARY WAS DIVIDED INTO THREE TERRITORIAL DIVISIONS,0.125,0.125,0.234375
+common_voice_en_18344814.wav,"By golly, the boy wins.",BY GOLLY THE BOY WINDS,0.2,0.2,0.3599999999999999
+common_voice_en_22708416.wav,I was surprised to see Heathcliff there also.,I WAS SURPRISED TO SEE HEATHCLIFF THERE ALSO,0.0,0.0,0.0
+common_voice_en_18838393.wav,A shaftment is the width of the fist and outstretched thumb.,A SHARPMAN IS THE WIT OF THE FISTS AND OUTSTRETCHED THUMB,0.2727272727272727,0.2727272727272727,0.47107438016528924
+common_voice_en_21162464.wav,"The part, which is Barnes' most notable role, brought her instant public recognition.",THE PART WHICH IS BANDS MOST NETWORK BORDER INSTINCT PUBLIC RECOGNITION,0.46153846153846156,0.46153846153846156,0.6573426573426573
+common_voice_en_19511415.wav,"Afterwards, Napoleon intervened in the questions of Italian independence.",AFTERWARDS NAPOLEON HAD INTERVENED IN THE QUESTIONS OF ITALIAN INDEPENDENCE,0.1111111111111111,0.1,0.09999999999999998
+common_voice_en_26974785.wav,A disabled access ramp now covers the northern part of the station.,A DISABLED EXCESS RAMP NOW COVERS THE NORTHERN PART OF THE STATION,0.08333333333333333,0.08333333333333333,0.15972222222222232
+common_voice_en_23893770.wav,School nurses are often the only health professional serving students in an educational setting.,SCHOOL NURSES ARE OFTEN THE ONLY HALF PROFESSIONAL SOOTHING STUDENTS AND AN EDUCATIONAL SITTING,0.2857142857142857,0.2857142857142857,0.4897959183673469
+common_voice_en_18884159.wav,She also served as provost and dean of the College of Letters and Sciences.,SHE ALSO SERVED AS PROVOST AND DEEM OF THE COLLEGE OF LETTERS AND SCIENCES,0.07142857142857142,0.07142857142857142,0.1377551020408163
+common_voice_en_19547398.wav,"Her work gained her the accolade of being ""the greatest contemporary transcendent poet"".",WHO WOULD HAVE GAINED HER THE ECULATE OF BEING THE GREATEST CONTEMPORARY TRANSCENDANT CALLED,0.46153846153846156,0.42857142857142855,0.6483516483516483
+common_voice_en_19867846.wav,Redwood lumber from local sawmills was shipped to build San Francisco.,REDWOOD LUMBER FROM LOCAL SAWMILLS WAS SHIPPED TO BUILD SAN FRANCISCO,0.0,0.0,0.0
+common_voice_en_25359095.wav,The heat transfers ink from the ribbon to the paper.,THE HEAT TRANSFERS INK FROM THE RIBBON TO THE PAPER,0.0,0.0,0.0
+common_voice_en_18715615.wav,"Sam Adamsâ€”at above sea level, the highest point in the grantâ€”and Mt.",SAM ADAMS ET ABOVE SEA LEVEL THE HIGHEST POINT IN THE GRANT AND MOUNT,0.4166666666666667,0.35714285714285715,0.5178571428571428
+common_voice_en_22214263.wav,Otherwise they move using their flagella.,OTHERWISE THEY MOVE USING THEIR FRAGILLA,0.16666666666666666,0.16666666666666666,0.30555555555555547
+common_voice_en_19730727.wav,The church was dedicated to Saint Margaret.,THE CHURCH WAS DEDICATED TO SAINT MARGARET,0.0,0.0,0.0
+common_voice_en_19547615.wav,Genesis Storytime later ceased operations.,DENIS'S STORYTIME LATER CEASED OPERATIONS,0.2,0.2,0.3599999999999999
+common_voice_en_28852473.wav,"He lived in Cincinnati, Ohio.",HE LIVED IN CINCINNATI OHIO,0.0,0.0,0.0
+common_voice_en_21209797.wav,"""Acorn"" refers to a fictitious town somewhere in isolated west Texas.",ACORN REFERS TO A FICTITIOUS TOWN SOMEWHERE AND ISOLATED WITH TEXAS,0.18181818181818182,0.18181818181818182,0.3305785123966941
+common_voice_en_19547514.wav,The castle has also become the venue for a triathlon.,THE CASTLE HAS ALSO BECOME THE VINEYARD FOR A TRIUMPHANT ONE,0.3,0.2727272727272727,0.4181818181818181
+common_voice_en_18909358.wav,This list does not include the head coaches of the New Jersey Devils.,THIS LIST DOES NOT INCLUDE THE HEAD COACHES OF THE NEW JERSEY DEVILS,0.0,0.0,0.0
+common_voice_en_23912177.wav,A similar move in Sino-Japanese relations followed.,A SIMILAR MOVE IN SIMILAR JAPANESE RELATIONS FOLLOWED,0.2857142857142857,0.25,0.3571428571428572
+common_voice_en_27637796.wav,"According to one source, ""voodoo"" originated with the Aja.",ACCORDING TO ONE SOURCE VUDO ORIGINATED WITH THE ARCHER,0.2222222222222222,0.2222222222222222,0.3950617283950617
+common_voice_en_27871443.wav,"From earliest Sumerian times, a mina was a unit of weight.",FROM EARLIEST SUMMERIAN TIMES A MINER WAS A UNIT OF WEIGHT,0.18181818181818182,0.18181818181818182,0.3305785123966941
+common_voice_en_21139263.wav,"It was in the south-east of the county, roughly corresponding to today's Harborough district.",IT WAS IN THE SOUTH EAST OF THE COUNTY ROUGHLY CORRESPONDING TWO DAYS HARBORER DISTRICT,0.35714285714285715,0.3333333333333333,0.5238095238095238
+common_voice_en_20032079.wav,It is located in the newly renovated Dwire Hall.,IT'S LOCATED AND THE NEWLY RENOVATED SQUIRE HOPE,0.5555555555555556,0.5555555555555556,0.7777777777777778
+common_voice_en_18893520.wav,Boxes can be formed in the same plant as the corrugator.,BOXES CAN BE FORMED IN THE SAME PLANT AS THE CORREGATOR,0.09090909090909091,0.09090909090909091,0.17355371900826455
+common_voice_en_21139513.wav,"At an early stage in secondary education, Bush dropped out of school.",SIMILARLY EDUCATION WAS DROPPED OUT OF SCHOOL,0.5833333333333334,0.5833333333333334,0.7023809523809523
+common_voice_en_19852865.wav,The range may also vary due to the type of warhead.,THE RANGE MAY ALSO VERY DUE TO THE TYPE OF WAR HEAD,0.2727272727272727,0.25,0.38636363636363635
+common_voice_en_23893644.wav,The whole sequence is in the same direction.,THE WHOLE SEQUENCE IS IN THE SAME DIRECTION,0.0,0.0,0.0
+common_voice_en_21139170.wav,The channel simply used the word 'Alter' as its logo.,THE CHANNEL SIMPLY USED THE WORD ALTAR AS ITS LOGIC,0.2,0.2,0.3599999999999999
+common_voice_en_26985913.wav,"Most of the riding's residents were aboriginal, many living in isolated communities.",MOST OF THE WRITINGS RESTAURANTS WERE ABORIGINAL MANY LIVING IN ISOLATED COMMUNITIES,0.16666666666666666,0.16666666666666666,0.30555555555555547
+common_voice_en_19552148.wav,"In all models, however, a new dashboard was added.",THEN ALL MODELS HOWEVER A NEW DASHBOARD WAS ADDED,0.1111111111111111,0.1111111111111111,0.2098765432098766
+common_voice_en_25345789.wav,"While appearing in a one-man play, he met his ex-wife.",WHILE APPEARING IN THE ONE MAN PLAY HE MET A MAN'S WIFE,0.6,0.5,0.7
+common_voice_en_19547297.wav,They bribe the postman and manage to get hold of that letter.,HE BRIBED THE POSTMAN AND MANAGED TO GET HOLD OF THAT LETTER,0.25,0.25,0.4375
+common_voice_en_19573612.wav,PowerPoint eventually provided an equivalent feature.,TOWER POINT ADVANTAGEOUSLY PROVIDED AN EQUIVALENT FEATURE,0.5,0.42857142857142855,0.6190476190476191
+common_voice_en_19693146.wav,A splendid late flowering.,A SPLENDID LATE FLOURING,0.25,0.25,0.4375
+common_voice_en_21208399.wav,He was engaged on the Royalists' cause throughout the Civil Wars and afterwards.,HE WAS ENGAGED ON THE ROYALIST CAUSE THROUGHOUT THE CIVIL WARS AND AFTERWARDS,0.07692307692307693,0.07692307692307693,0.1479289940828401
+common_voice_en_19744856.wav,The Town of Plum Lake is located in central Vilas County.,THE TOWN OF PLUM LAKE IS LOCATED IN CENTRAL WILLIS COUNTY,0.09090909090909091,0.09090909090909091,0.17355371900826455
+common_voice_en_19751412.wav,It is a left tributary of the Ob River.,IT IS THE LEFT TRIBUTARY OF THE OAK RIVER,0.2222222222222222,0.2222222222222222,0.3950617283950617
+common_voice_en_18893976.wav,A toilet block formerly provided has been demolished.,A TOILET BLOCK FORMERLY PROVIDED HAS BEEN DEMOLISHED,0.0,0.0,0.0
+common_voice_en_23846360.wav,Concordia College is one of the most prosperous schools in the Northwest.,CONCORDIA COLLEGE IS ONE OF THE MOST PROSPEROUS SCHOOLS IN THE NORTHWEST,0.0,0.0,0.0
+common_voice_en_20661767.wav,The saying originated from early film studios' silent films.,A SAYING ORIGINATED FROM EARLY FILMED STUDIO SILENT FILMS,0.3333333333333333,0.3333333333333333,0.5555555555555556
+common_voice_en_26986024.wav,He was also a professional singer.,HE WAS ALSO A PROFESSIONAL SINGER,0.0,0.0,0.0
+common_voice_en_27284717.wav,Owners then have guaranteed access to that aircraft at any time.,OWLERS THEN HAVE A GUARANTEE ACCESS TO THAT AIRCRAFT AT ANY TIME,0.2727272727272727,0.25,0.38636363636363635
+common_voice_en_27270029.wav,"It was named ""Georgetown"" in honor of the older of the two brothers.",IT WAS NAMED GEORGETOWN IN HONOR OF THE OLDER OF THE TWO BROTHERS,0.0,0.0,0.0
+common_voice_en_23893812.wav,The process of removing a status effect varies as widely as the effects themselves.,THE PROCESS OF REMOVING A STATUS EFFECT VARIES AS WIDELY AS THAT E FIXED THEMSELVES,0.21428571428571427,0.2,0.3142857142857143
+common_voice_en_27292630.wav,There is a wind farm in this municipality as well.,THERE IS A WIND FARM IN THIS MUNICIPALITY AS WELL,0.0,0.0,0.0
+common_voice_en_25640260.wav,"""The Lust..."" ended up being much more influential than the band originally thought.",THE LUST ENDED THAT BEING MUCH MORE INFLUENTIAL THAN THE BAND ORIGINALLY THOUGHT,0.07692307692307693,0.07692307692307693,0.1479289940828401
+common_voice_en_25640929.wav,It is mandated to develop and review quality assurance and inspection procedures.,IT IS MENDATED TO DEVELOP AND REVIEW QUALITY ASSURANCE AND INSPECTION PRECEDES,0.16666666666666666,0.16666666666666666,0.30555555555555547
+common_voice_en_21183011.wav,This occurring alongside entry of Sino-Vietnamese vocabulary into the vernacular Vietnamese language.,THIS OCCURRING ALONGSIDE ENTRY OF SYNO VICTIME'S VOCABULARY INTO THE VINEGAR BEATIME'S LANGUAGE,0.3333333333333333,0.3076923076923077,0.48076923076923084
+common_voice_en_648166.wav,It never rains but it pours,IT NEVER RAISED BUT IT FORCE,0.3333333333333333,0.3333333333333333,0.5555555555555556
+common_voice_en_18893497.wav,"Weapons, tools, arrow heads and stone axes tell of long occupancy.",WEAPONS TOOLS ARROWHEADS AND STONE AXES TOWN OF LONG OCCUPANCY,0.2727272727272727,0.2727272727272727,0.4181818181818181
+common_voice_en_19552139.wav,The marketing campaign for Vanilla Coke aimed to appeal across all generations.,THE MARKETING CAMPAIGN FOR VANILLA COKE CAME TO APPEAL ACROSS ALL GENERATIONS,0.08333333333333333,0.08333333333333333,0.15972222222222232
+common_voice_en_27292789.wav,It documents the hard realities of Welsh coal miners' lives.,IT DOCUMENTS THE HARD REALITIES OF WELSH COAL MINERS LIVES,0.0,0.0,0.0
+common_voice_en_19744944.wav,Burkhart Grob was a power pilot and a glider pilot already.,THE CART ROPE WAS THE POWER PILOT AND GLIDE UPON IT ALREADY,0.6363636363636364,0.5833333333333334,0.8106060606060606
+common_voice_en_21493938.wav,Use cases can be viewed on the TenAsys website.,USE CASES CAN BE FEUD ON THE TEN ESSAYS WHIPSIGHT,0.4444444444444444,0.4,0.6000000000000001
+common_voice_en_19744544.wav,"He was educated by the Irish Christian Brothers at Saint Mary's College, Crosby.",HE WAS EDUCATED BY THE IRISH CHRISTIAN BROTHERS AT SAINT MARY'S COLLEGE CROSBIE,0.07692307692307693,0.07692307692307693,0.1479289940828401
+common_voice_en_26986070.wav,"It was founded as Air Alba, operating for four years as a flying school.",IT WAS FOUNDED AS ERE ELBOW OPERATING FOR FOUR YEARS AS A FLYING SCHOOL,0.14285714285714285,0.14285714285714285,0.26530612244897966
+common_voice_en_19616207.wav,"Although Shreve had completely removed the raft, it reformed later farther up the river.",ALTHOUGH SHRIEVE HAD COMPLETELY REMOVED THE RAFT THAT REFORMED LATER FARTHER UP THE RIVER,0.14285714285714285,0.14285714285714285,0.26530612244897966
+common_voice_en_21185486.wav,The interiors of the medieval kitchen and keep are mostly intact.,THE INTERIORS OF THE MEDIAEVAL KITCHEN AND KEEP ARE MOSTLY INTACT,0.09090909090909091,0.09090909090909091,0.17355371900826455
+common_voice_en_18714535.wav,"The school is in Wang Thong Lang, Bangkok.",THE SCHOOL ISN'T WING TONGUE LANG BANGCOCK,0.625,0.625,0.8392857142857143
+common_voice_en_18909375.wav,"""The Washington Post"" called him ""the best kept secret in contemporary horror fiction.",THE WASHINGTON POST CALLED HIM THE BEST KEPT SECRET IN CONTEMPORARY HORROR FICTION,0.0,0.0,0.0
+common_voice_en_20177067.wav,Global warming has occurred rapidly over the course of the past half-century.,GLOBAL WARMING HAS OCCURRED RAPIDLY OVER THE COURSE OF THE PAST HALF CENTURY,0.16666666666666666,0.15384615384615385,0.22435897435897445
+common_voice_en_21230340.wav,The film is about a group of characters living in a small Wyoming town.,THE FILM IS ABOUT A GROUP OF CHARACTERS LIVING IN A SMALL WIRE MEANTOWN,0.14285714285714285,0.14285714285714285,0.26530612244897966
+common_voice_en_25640633.wav,The parade has had several route changes in its history.,THE PARADE HAS HAD SEVERAL ROUTE CHANGES IN ITS HISTORY,0.0,0.0,0.0
+common_voice_en_27344593.wav,"But, oh-h-h, it feels so good!",BUT OH IT FEELS SO GOOD,0.16666666666666666,0.16666666666666666,0.30555555555555547
+common_voice_en_21208043.wav,It was further agreed that Winter Games would be held every four years.,IT WAS FURTHER AGREED THAT WENT AGAINST IT BEHELD EVERY FOUR YEARS,0.38461538461538464,0.38461538461538464,0.5897435897435898
+common_voice_en_27871360.wav,He had close relationship with the pro-democrats.,HE HAD A CLOSE RELATIONSHIP WITH THE PRO DEMOCRATS,0.42857142857142855,0.3333333333333333,0.4285714285714286
+common_voice_en_19005148.wav,"After the closure of this weather station, the nearest one is located at Pershore.",AFTER THE CLOSURE OF THE SWIFT STATION THE NEAREST ONE IS LOCATED AT PERSHORE,0.14285714285714285,0.14285714285714285,0.26530612244897966
+common_voice_en_28853198.wav,Leonski had been bullied by other neighborhood kids and called a mama's boy.,LINSKI HAD BEEN BULLIED BY OTHER NEIGHBORHOOD KIDS AND CALLED THE MAMMA'S BOY,0.23076923076923078,0.23076923076923078,0.40828402366863903
+common_voice_en_19693382.wav,It is the central settlement of the Municipality of Kamnik.,IT IS THE CENTRAL SENTIMENT OF THE MUNICIPALITY OF KILNIC,0.2,0.2,0.3599999999999999
+common_voice_en_20031816.wav,In the racecourse is a nine-hole golf course and a golf driving range.,IN THE RESCUE AS A DAWN FOLK OF COURSE AND THE GULF DRIVING RANGE,0.5384615384615384,0.5,0.7307692307692308
+common_voice_en_19547510.wav,The next day Magne again had trouble.,THE NEXT DAY MAGNIA AGAIN HAD TROUBLE,0.14285714285714285,0.14285714285714285,0.26530612244897966
+common_voice_en_20048850.wav,"After his death, the Ottoman Empire suffered further defeats.",AFTER HIS DEATH THE OTTOMAN EMPIRE SUFFERED FURTHER DEFEATS,0.0,0.0,0.0
+common_voice_en_19547555.wav,"In some cases a brute force approach can be used, as mentioned above.",IN SOME CASES A BRUTE FORCE APPROACH CAN BE USED AS MENTIONED ABOVE,0.0,0.0,0.0
+common_voice_en_25353881.wav,Two machine guns are also carried.,TWO MACHINE GUNS ARE ALSO CARRIED,0.0,0.0,0.0
+common_voice_en_27560852.wav,She has a rude awakening upon arriving in boot camp.,SHE HAS A RUDE AWAKENING UPON ARRIVING IN BOOT CAMP,0.0,0.0,0.0
+common_voice_en_18893571.wav,The role ultimately went to Batinkoff.,CROW ULTIMATELY WENT TO BAT AND COFFEE,0.8333333333333334,0.625,0.7857142857142857
+common_voice_en_18893575.wav,All digits of the numbering plan are used to identify a particular subscriber.,ALL DIGESTS OF THE NUMBERING PLAN ARE YEAST TO WIND AND FOR A PARTICULAR SUBSCRIBER,0.38461538461538464,0.3333333333333333,0.4871794871794872
+common_voice_en_23893587.wav,The model is essentially a rod puppet.,THE MOTTO IS ESSENTIALLY A BROAD PUPPET,0.2857142857142857,0.2857142857142857,0.4897959183673469
+common_voice_en_21203329.wav,"This estate in Compton, Sussex, had once belonged to Godwin's father.",THIS ESTATE INCOMPETENT SUSSEX HAD ONCE BELONGED TO GODWIN'S FATHER,0.18181818181818182,0.18181818181818182,0.26363636363636356
+common_voice_en_26985965.wav,Thirty-four nations sent biathletes to compete in the events.,THIRTY FOUR NATIONS SENT BY ATHLETES TO COMPETE IN THE EVENTS,0.4444444444444444,0.36363636363636365,0.505050505050505
+common_voice_en_19547506.wav,Rennert and his wife Ingeborg have made many charitable donations to various organizations.,RENNET AND HIS WIFE IN BAG HAVE MADE MANY CHARITABLE DONATIONS TO VARIOUS ORGANIZATIONS,0.23076923076923078,0.21428571428571427,0.3351648351648352
+common_voice_en_22758620.wav,He made significant contributions to the development of computer networks in mainland China.,HE MADE SIGNIFICANT CONTRIBUTIONS TO THE DEVELOPMENT OF COMPUTANATE WORKS IN MAINLAND CHINA,0.15384615384615385,0.15384615384615385,0.28402366863905326
+common_voice_en_21207750.wav,"After a nuclear war engulfs the earth, she is born as a half-medusa half-harpy.",AFTER A NUCLEAR WAR ENGULFS THE EARTH SHE IS BORN AS A HALF MEDUSA HALF HAPPY,0.2857142857142857,0.25,0.3571428571428572
+common_voice_en_20049373.wav,It is bordered to the north by the town of Hollywood.,IT IS BORDERED TO THE NORTH BY THE TOWN OF HOLLYWOOD,0.0,0.0,0.0
+common_voice_en_19962334.wav,He later studied in Antwerp under Joseph Van Luppen and Hippolyte Boulenger.,MISTER STUDY'S A NUT WHIPPED I'LL SEND HIM IN HIPPOLYTE ROGER,0.9166666666666666,0.9166666666666666,0.9924242424242424
+common_voice_en_21208022.wav,"General James Winchester arrived next at Fort Wayne, and relieved Harrison of command.",GENERAL JAMES WINCHESTER ARRIVED NEXT FORTNIGHT AND RELIEVED HARRISON OF COMMAND,0.23076923076923078,0.23076923076923078,0.30069930069930073
+common_voice_en_29742005.wav,"He is buried in Saint Andrew's Churchyard, Kingsbury, London.",HE IS BURIED IN SAINT ANDREW'S CHURCHYARD KINGSBURY LONDON,0.0,0.0,0.0
+common_voice_en_27871177.wav,"Despite the name, the station is located under Republic Avenue, beside the Kallang Basin.",DESPITE THE NAME THE STATION IS LOCATED UNDER REPUBLIC AVENUE BESIDE THE CALLING BASIN,0.07142857142857142,0.07142857142857142,0.1377551020408163
+common_voice_en_21229019.wav,It is south of the eastern part of Abu Dhabi's Liwa Oasis.,IT IS SOUTH OF THE EASTERN PART OF ABU DABBI'S LOWER OASIS,0.16666666666666666,0.16666666666666666,0.30555555555555547
+common_voice_en_20029446.wav,Lucas also served as the Associate Artistic Director.,LOOK AS ALSO SIR AS THE ASSOCIATE ARTISTIC DIRECTOR,0.375,0.3333333333333333,0.5
+common_voice_en_27292301.wav,The Town of Castile is on the east border of the county.,THE TURN OF CASTILE IS ON THE EAST BORDER OF THE COUNTY,0.08333333333333333,0.08333333333333333,0.15972222222222232
+common_voice_en_23893754.wav,"The name was altered first to ""Volenia"" and then to ""Volinia"".",THE NAME WAS ALTERED FIRST TO VIRGINIA AND THEN TO VOLUNTEER,0.18181818181818182,0.18181818181818182,0.3305785123966941
+common_voice_en_19547421.wav,It obtained federal and city landmark status in that same year.,IT OBTAINED FEDERAL AND CITY LANDMARKS STEADILY AND THE SAME YEAR,0.36363636363636365,0.36363636363636365,0.5950413223140496
+common_voice_en_18567513.wav,That's not on our agenda for this meeting.,THAT'S NOT HONOURABLE GENDER FOR THIS MEETING,0.375,0.375,0.5535714285714286
+common_voice_en_28852697.wav,"The casino is operated by Wyomissing, Pennsylvania-based Penn National Gaming of the United States.",THE CASINO IS OPERATED BY WIRE MISSING PENNSYLVANIA BEAST PEN NATIONAL GAMING OF THE UNITED STATES,0.35714285714285715,0.3125,0.4598214285714286
+common_voice_en_22749683.wav,The video ends with her back on the coast at night.,THE BLEAR ENDS WITH HER BACK ON THE COAST AT NIGHT,0.09090909090909091,0.09090909090909091,0.17355371900826455
+common_voice_en_23893417.wav,A similar use of the term can be found in Christian writers.,A SIMILAR USE OF THE TERM CAN BE FOUND IN CHRISTIAN WRITERS,0.0,0.0,0.0
+common_voice_en_21206865.wav,The term subcompact car is used for similar cars in North America.,THE TERM SUB COMPACT CAR IS USED FOR SIMILAR CARS IN NORTH AMERICA,0.16666666666666666,0.15384615384615385,0.22435897435897445
+common_voice_en_23912007.wav,He is currently a sports columnist with them.,HE IS CURRENTLY A SPORT'S COLUMNS WITH THIN,0.25,0.25,0.4375
+common_voice_en_18967321.wav,"National Bank's business is concentrated in Quebec, and it is expanding on other provinces.",NATIONAL BANK'S BUSINESS IS CONCENTRATED TO THE QUEBEC AND IT IS EXPANDING ON OTHER PROVINCES,0.14285714285714285,0.13333333333333333,0.1952380952380952
+common_voice_en_20029537.wav,It is the seat of Arque Province and Arque Municipality.,IT IS TO SEE TO THAT PROVINCE AND THAT MUNICIPALITY,0.5,0.5,0.75
+common_voice_en_23893579.wav,The possibility of abolition alarmed many people with British-born grandparents living in Commonwealth countries.,THE POSSIBILITY OF ABOLITION ALARMED MEANING PEOPLE WITH BRITISH BORN GRANDPARENTS LIVING IN COMMONWEALTH COUNTRIES,0.21428571428571427,0.2,0.3142857142857143
+common_voice_en_21162447.wav,He dedicated the new symphony to his friends Vera and Carl Johan Michaelsen.,HE DEDICATED THE NEW SYMPHONY TO HIS FRIENDS VERA AND KARL JOHAN MICHAELSON,0.15384615384615385,0.15384615384615385,0.28402366863905326
+common_voice_en_19867290.wav,Pileggi lives in New York City.,THE LADY LIVES IN NEW YORK CITY,0.3333333333333333,0.2857142857142857,0.40476190476190477
+common_voice_en_19552433.wav,"The name Skanke might mean ""a leg"" and the arms thus being canting arms.",THE NAME SKUNK MIGHT MEAN A LEAGUE AND THE ARM'S THUS BEEN KENT IN ARMS,0.35714285714285715,0.3333333333333333,0.5238095238095238
+common_voice_en_23893458.wav,The mausoleum resembled the shape of Lenin's Mausoleum but differed in color.,THE MAUSOLEUM RESEMBLED THE SHAPE OF LINEN'S MAUSOLEUM BUT DIFFERED IN COLOR,0.08333333333333333,0.08333333333333333,0.15972222222222232
+common_voice_en_30645515.wav,This explains why they were adorned with jewelry and fine clothes.,THIS EXPLAINS WHY THEY WERE ADORNED WITH JEWELLERY IN FINE CLOTHES,0.18181818181818182,0.18181818181818182,0.3305785123966941
+common_voice_en_21507169.wav,"Thou wilt say then unto me, Why doth He yet find fault?",THOU WILT SAY THEN UNTO ME WHY DON'T HE YET FIND FAULT,0.08333333333333333,0.08333333333333333,0.15972222222222232
+common_voice_en_27325818.wav,Rose City is owned by Microsoft co-founder and Portland Trail Blazers owner Paul Allen.,ROSE CITY IS OWNED BY MC CROSSOV PROFOUNDER IN PORTLAND TRAIL BLAZERS OWNER PAUL ELLEN,0.35714285714285715,0.3333333333333333,0.5238095238095238
+common_voice_en_19547564.wav,Some critics called it one of the best albums of the year.,SOME CRITICS CALLED UP ONE OF THE BEST AUTHORS OF THE YEAR,0.16666666666666666,0.16666666666666666,0.30555555555555547
+common_voice_en_30650409.wav,Reinforcement is attributed to the animalâ€™s correcting deficits in relative activity rates.,REINFORCEMENT IS ATTRIBUTED TO THE ANIMALS CORRECTING DEFICITS IN RELATIVE ACTIVITY RATES,0.08333333333333333,0.08333333333333333,0.15972222222222232
+common_voice_en_27637593.wav,"However, it is more frequently associated with pathologic processes.",HOWEVER IT IS MORE FREQUENTLY ASSOCIATED WITH PATHOLOGIC PROCESSES,0.0,0.0,0.0
+common_voice_en_27270109.wav,The debate squad travels nationally every year.,THAT A BASS SQUAW TRAILS NATIONALLY EVERY YEAR,0.7142857142857143,0.625,0.8392857142857143
+common_voice_en_27284703.wav,"Rowan originally worked for Ajax Electrothermic Corporation of Trenton, New Jersey.",ROWAN ORIGINALLY WORKED FOR AJAX ELECTRIC THOROUGHLY CORPORATION OF TRENTON NEW JERSEY,0.18181818181818182,0.16666666666666666,0.24242424242424243
+common_voice_en_30645586.wav,The Red Army encircled the German Fourth Army in the city of Minsk.,THE RED ARMY ENCIRCLED THE GERMAN FOURTH ARMY IN THE CITY OF MINSK,0.0,0.0,0.0
+common_voice_en_23893666.wav,It strikingly bespeaks the first-class man that he pre-eminently was.,IT STRIKINGLY BESPEAKS THE FIRST CLASS MAN THAT HE PRE EMINENTLY WAS,0.4,0.3333333333333333,0.4666666666666667
+common_voice_en_73425.wav,Why didn't they wake me?,WHY DIDN'T THEY WAKE ME,0.0,0.0,0.0
+common_voice_en_25640288.wav,"AllMusic, on the other hand, called it half inspired, half-embarrassing and completely self-indulgent.",ALL MUSIC ON THE OTHER HAND CALLED IT HALF INSPIRED HALF EMBARRASSING AND COMPLETELY SELF INDULGENT,0.46153846153846156,0.375,0.5192307692307692
+common_voice_en_18977851.wav,Clothes are soaked in a solvent other than water.,CLOTHES ARE SOAKED IN A SOLVENT UP OF THE WATER,0.3333333333333333,0.3,0.4555555555555556
+common_voice_en_21209835.wav,Congressman and also served in the North Carolina Senate.,CONGRESSMAN AND ALSO SERVED IN THE NORTH CAROLINA SENATE,0.0,0.0,0.0
+common_voice_en_20176967.wav,Their present representative is an excellent master.,THEIR PRESENT REPRESENTATIVE IS AN EXCELLENT MASTER,0.0,0.0,0.0
+common_voice_en_18893820.wav,Historian Marilyn B.,HISTORIAN MARYLAND B,0.3333333333333333,0.3333333333333333,0.5555555555555556
+common_voice_en_18985435.wav,The police department later resigned as well along with the mayor.,THE POLICE DEPARTMENT LATER RESIGNED AS WELL ALONG WITH THE MAYOR,0.0,0.0,0.0
+common_voice_en_27270014.wav,I wouldnâ€™t dare.,I WOULDN'T DARE,0.3333333333333333,0.3333333333333333,0.5555555555555556
+common_voice_en_19550830.wav,This endowment was confirmed by Royal Charter granted by Queen Elizabeth the First.,THIS ENDOWMENT WAS CONFIRMED BY ROYAL CHARTER GRANTED BY QUEEN ELIZABETH THE FIRST,0.0,0.0,0.0
+common_voice_en_21493946.wav,Counter-recruitment is an attempt to prevent military recruiters from enlisting civilians into the military.,MISTER RETIREMENT IS AN ATTEMPT TO PREVENT MILITARY RECRUITERS FROM ENLISTING CIVILIANS INTO THE MILITARY,0.14285714285714285,0.13333333333333333,0.1952380952380952
+common_voice_en_19852662.wav,They are commonly referred to as painted keelbacks.,THEY ARE COMMONLY REFERRED TO AS PAINTED KILLBACKS,0.125,0.125,0.234375
+common_voice_en_89070.wav,"Guys wearing yellow, red, and blue are running in the grass.",DYES WEARING YELLOW RED AND BLUE RUNNING IN THE GRASS,0.18181818181818182,0.18181818181818182,0.26363636363636356
+common_voice_en_21182028.wav,"This point, known as the ""near point"", varies with age.",THIS POINT NO ONE IS THE MERE POINT VARIES WITH AGE,0.4,0.36363636363636365,0.5545454545454546
+common_voice_en_23870230.wav,Most relational database management systems fall into the category of databases that support transactions.,MOST RELATIONAL DATE BASED MANAGEMENTS AS SINCE FALLEN TO THE CATEGORY OF DETAILS THAT SUPPORT HIS ACTIONS,0.7142857142857143,0.5882352941176471,0.7941176470588236
+common_voice_en_22708458.wav,This in turn contributes to the spread of the fungus to uninfected plants.,THIS IN TURN CONTRIBUTES TO THE SPREAD OF THE FUNGUS TO UNINFECTED PLANTS,0.0,0.0,0.0
+common_voice_en_21210051.wav,"The name was never changed, and became the permanent and official one.",THE NAME WAS NEVER CHANGED AND BECAME THE PERMANENT AND OFFICIAL ONE,0.0,0.0,0.0
+common_voice_en_23912072.wav,The Jackals were swept by Quebec three games to none in the opening round.,THE JACKALS WERE SWIFT BY CABICK THREE GAMES TO NUN AND THE OPENING ROUND,0.2857142857142857,0.2857142857142857,0.4897959183673469
+common_voice_en_19519432.wav,The flower depicted on the cover of the single is a Kangaroo paw.,THE FLOWER DEPICTED ON THE COVER OF THE SINGLE IS THE KANGAROO POOR,0.15384615384615385,0.15384615384615385,0.28402366863905326
+common_voice_en_20167743.wav,She would return to writing during lulls in her acting career.,SHE HAD RETURNED TO RUSHING TRAIN LOADS IN HER ACHING CAREER,0.5454545454545454,0.5454545454545454,0.7933884297520661
+common_voice_en_25359086.wav,The park was opened as a public leisure area.,THE PART WAS OPENED AS THE PUBLIC LEISURE AREA,0.2222222222222222,0.2222222222222222,0.3950617283950617
+common_voice_en_23767402.wav,It is possible that a completely clean cut will not generate scarred tissue.,IT IS POSSIBLE THAT A COMPLETELY CLEAN CUT WILL NOT GENERATE SCARRED TISSUE,0.0,0.0,0.0
+common_voice_en_30645554.wav,"Their final title defense occurred against Blue Nation at ""La Escalera"".",THE FINAL TITLE DEFENCE OCCURRED AT BLUE NATION AT LACE GALLERY,0.45454545454545453,0.45454545454545453,0.7024793388429753
+common_voice_en_18890763.wav,An escape character is a particular case of metacharacters.,AN ESCAPE CHARACTER IS A PECULIAR CASE OF META CHARACTERS,0.3333333333333333,0.3,0.4555555555555556
+common_voice_en_23830017.wav,"Ten days later, he discovered the island that was named for him, Beauchene Island.",DISCOVERED THE ISLAND WAS NAMED FOR HIM BY CHAIN ISLAND,0.5,0.4666666666666667,0.5428571428571429
+common_voice_en_18935403.wav,A clay-court specialist is a tennis player who excels on clay courts.,A TYPE SPECIALIST AS THE TENNIS PLAYER WHO EXCELS ON TYPHOTS,0.4166666666666667,0.4166666666666667,0.6287878787878788
+common_voice_en_19519436.wav,File rate is different from service level.,FILE WRIGHT IS DIFFERENT FROM THE SURFACE LEVEL,0.42857142857142855,0.375,0.5535714285714286
+common_voice_en_21507165.wav,She is unmarried and is a Deputy Lieutenant of the County of Renfrewshire.,SHE IS UNMARRIED AND IN SYMPATHY LIEUTENANT I'LL CATCH YOUR FRIEND FISHER,0.6153846153846154,0.6153846153846154,0.8397435897435898
+common_voice_en_18893567.wav,"Eventually, however, he ironed out the mistakes and found that the invention worked perfectly.",EVENTUALLY HOWEVER HE IRONED OUT THE MISTAKES AND FOUND THAT THE INVENTION WORKED PERFECTLY,0.0,0.0,0.0
+common_voice_en_19552186.wav,Saini was launched as a candidate in the constituency of Hoshiarpur in Punjab.,SIMON WAS LAUNCHED AS A CANDIDATE AND THE CONSTITUENCY OF HASHY APPLE AND PUDDINGSHIRE,0.46153846153846156,0.42857142857142855,0.6483516483516483
+common_voice_en_18714484.wav,The mill owners were initially taken by surprise by the scope of the strike.,HONORS WERE INITIALLY TAKEN BY SURPRISE BY THE SCOPE OF THE STRIKE,0.21428571428571427,0.21428571428571427,0.27976190476190477
+common_voice_en_20168269.wav,These are my people and that's how it is.,THESE ARE MY PEOPLE AND THAT SO IT IS,0.2222222222222222,0.2222222222222222,0.3950617283950617
+common_voice_en_23893395.wav,It is the state's largest hospital.,IT IS THE STATE'S LODGER'S HOSPITAL,0.16666666666666666,0.16666666666666666,0.30555555555555547
+common_voice_en_19005152.wav,The West was unable to break the Soviet encryption at this time.,THE WASTE WAS UNABLE TO BREAK THE SOVIET INSCRIPTION AT THIS TIME,0.16666666666666666,0.16666666666666666,0.30555555555555547
+common_voice_en_19005144.wav,China has become Vietnam's second-largest trading partner and the largest source of imports.,CHINA HAS BECOME THE ANNOUNCED SECOND MAGISTRATING PARTNER AND THE LARGEST SOURCE OF IMPORTS,0.3076923076923077,0.2857142857142857,0.4505494505494505
+common_voice_en_26985613.wav,"Likewise, the distinction, or overlap, between military and civilian security agencies varies between countries.",LIKEWISE THE DISTINCTION OR OVERLAP BETWEEN MILITARY AND CIVILIAN SECURITY AGENCIES VARIES BETWEEN COUNTRIES,0.0,0.0,0.0
+common_voice_en_18714493.wav,"Her mother was Gwladys Ilma Vile, a nurse, and a granddaughter of Job Vile.",THE MOTHER WAS GRILLED A SKULL MILE VILLEY A NURSE AND A GRANDDAUGHTER OF JOB VILLEY,0.5,0.4375,0.6383928571428571
+common_voice_en_20167965.wav,A student will receive a portfolio.,A STUDENT WILL RECEIVE A PORTFOLIO,0.0,0.0,0.0
+common_voice_en_18967268.wav,The two roles have since been recast due to scheduling conflicts for both actors.,THE TWO ROLLS HAS SINCE BEEN RECOUNTED DUE TO SHOOTING CONFLICTS FOR BY FACTORS,0.42857142857142855,0.42857142857142855,0.6734693877551021
+common_voice_en_19552537.wav,The prince-bishops however retained jurisdiction over the Cathedral of Worms inside the city.,THE PRINCE BISHOPS HOWEVER RETAINED THE RESTRICTION A BIT OF CATHEDRAL OF WILLIAMS INSIDE THE CITY,0.6153846153846154,0.5,0.6923076923076923
+common_voice_en_24957164.wav,"He lives in Orillia, Ontario, where he is active in local politics.",HE LIVES IN AURELIA ONTARIO WHERE HE IS ACTIVE IN LOCAL POLITICS,0.08333333333333333,0.08333333333333333,0.15972222222222232
+common_voice_en_23893408.wav,"Bulfinch himself lived on Bowdoin Street, briefly.",BULL FINCH HIMSELF LIVED ON BEAUJOIN'S STRAIT GRATEFULLY,0.7142857142857143,0.625,0.8392857142857143
+common_voice_en_22749704.wav,The neck is broken off of the body in a jagged line.,THE NECK IS BROKEN OFF OF THE BODY IN A JAGGED BLINDER,0.08333333333333333,0.08333333333333333,0.15972222222222232
+common_voice_en_21185463.wav,By now the team was struggling with injury.,BY NOW THE TEAM WAS STRUGGLING WITH INJURY,0.0,0.0,0.0
+common_voice_en_19519461.wav,"""Nasuno"" services stop at all stations en route.",NASOTA'S SERVICES DON'T AT ALL STATIONS ON ROUTES,0.5,0.5,0.75
+common_voice_en_18714572.wav,The unemployment rate in Consett became double the national average.,THE UNEMPLOYMENT RATE AND CONCERT BECAME DOUBLE THE NATIONAL AVERAGE,0.2,0.2,0.3599999999999999
+common_voice_en_19946692.wav,It offered innovative technology in its motor and bold styling.,IT OFFERED AN A BIT OF PICTOLOGY IN IT MUTTERED AND BOLD PILOT,0.8,0.6153846153846154,0.8076923076923077
+common_voice_en_18893905.wav,Windich's first exploratory expedition was the third expedition of the explorer Charles Hunt.,WINDICH'S FIRST EXPIRATORY EXPEDITION WAS THE THIRD EXPEDITION OF THE EXPLORER CHARLES HUNT,0.07692307692307693,0.07692307692307693,0.1479289940828401
+common_voice_en_18567526.wav,I thought of it too.,I THOUGHT OF IT TOO,0.0,0.0,0.0
+common_voice_en_26997523.wav,"He was lying in water, wearing only a pair of underpants.",HE WAS LYING IN THE WATER WEARING ONLY A PAIR OF UNDERPENCE,0.18181818181818182,0.16666666666666666,0.24242424242424243
+common_voice_en_20305491.wav,The Thames Chase Joint Committee oversees development of the community forest.,THE TEAMS CHASED JOINT COMMITTEE OVERSEAS DEVELOPMENT OF THE COMMUNITY FOREST,0.2727272727272727,0.2727272727272727,0.47107438016528924
+common_voice_en_19868023.wav,Various hackathons have been held to improve city transit systems.,VARIOUS HACOCONS HAVE BEEN HELD TO IMPROVE CITY TRANSMITTED SYSTEMS,0.2,0.2,0.3599999999999999
+common_voice_en_20288490.wav,The ooze was colored red by iron from hydrothermal springs.,THE OATH WAS COLORED RED BY IRON FROM HIDE AUTUMNAL SPRINKS,0.4,0.36363636363636365,0.5545454545454546
+common_voice_en_24569283.wav,"Unlike the Kiev Metro, Kharkiv is not privatised and owned by a municipal company.",UNLIKE THE KEY OF MEADOW KHAKI IS NOT PROVIDED ANNOUNCED ONE MUNICIPAL COMPANY,0.6428571428571429,0.6,0.8021978021978022
+common_voice_en_19905168.wav,This policy would not be lifted for over two hundred years.,THIS POLICY WOULD NOT BE LIFTED FOR OVER TWO HUNDRED YEARS,0.0,0.0,0.0
+common_voice_en_18967263.wav,"OpenT, a project to develop a compiler for Turing, is no longer in development.",OPEN TO A PROJECTED DEVELOP A COMPILER FOR TOURING IT IS NO LONGER IN DEVELOPMENT,0.42857142857142855,0.375,0.5238095238095238
+common_voice_en_28852439.wav,"Instead, they simply ""adapted"" the second of the above two alternative Latin words, ""traductio"".",INSTEAD THEY SIMPLY ADAPTED THE SECOND OF THE ABOVE TWO ALTERNATIVE LATIN WORDS TRADUCTIO,0.0,0.0,0.0
+common_voice_en_19868029.wav,She has also done many children's television programs.,SHE HAS ALSO DONE MANY CHILDREN'S TELEVISION PROGRAMMES,0.125,0.125,0.234375
+common_voice_en_21160136.wav,The Ansan Line is a major rail line in Ansan.,THAT AUNT SEND LINES IS A MAJOR RAILROAD AND AUNT SAID,0.8,0.7272727272727273,0.9181818181818182
+common_voice_en_27637830.wav,"While en route home, she assisted the sinking bulk carrier ""Mount Olympus"".",WHILE ON ROUTE HOME SHE ASSISTED THE SINKING BULK CARRIER MOUNT OLYMPUS,0.08333333333333333,0.08333333333333333,0.15972222222222232
+common_voice_en_21162443.wav,"Showgirls are often associated with Latin music and dance, particularly samba.",SHOE GIRLS ARE OFTEN ASSOCIATED WITH LATIN MUSIC AND DANCE PARTICULARLY SAMBA,0.18181818181818182,0.16666666666666666,0.24242424242424243
+common_voice_en_21207719.wav,"In the rainstorm, the French infantrymen could no longer fire their wet muskets.",IN THE RAIN STORM THE FRENCH INFANTRY MAN COULD NO LONGER FIRE THEIR WIT MUSKETS,0.38461538461538464,0.3333333333333333,0.4871794871794872
+common_voice_en_18977867.wav,It is completely surrounded by the City of Palmdale.,IT IS COMPLETELY SURROUNDED BY THE CITY OF PALM DALE,0.2222222222222222,0.2,0.28888888888888886
+common_voice_en_19853806.wav,"His father was Jack Mann, a pioneer of the wine industry in Western Australia.",HIS FATHER WAS JACK MAN A PIONEER OF THE WINE INDUSTRY AND WESTERN AUSTRALIA,0.14285714285714285,0.14285714285714285,0.26530612244897966
+common_voice_en_19693265.wav,"A four-time Pro Bowl selection, Madison also played for the New York Giants.",AFORETIME CROMWELL'S SELECTION MEDICINE ALSO PLEDGED THE NEW YORK GIANTS,0.5384615384615384,0.5384615384615384,0.7230769230769231
+common_voice_en_19867623.wav,"The Cebu Schools Athletic Foundation, Incorporated is based in the city.",THE CIVIL SCHOOLS ATHLETIC FOUNDATION INCORPORATED IS BASED IN THE CITY,0.09090909090909091,0.09090909090909091,0.17355371900826455
+common_voice_en_19974714.wav,The type of guidance depends on the type of target.,THE TYPE OF GUIDANCE DEPENDS ON THE TYPE OF TARGET,0.0,0.0,0.0
+common_voice_en_18667055.wav,"""Esther, dear,"" she said very quietly, ""I am not going home again.""",ESTHER DEAR SHE SAID VERY QUIETLY I'M NOT GOING HOME AGAIN,0.16666666666666666,0.16666666666666666,0.24242424242424243
+common_voice_en_19547374.wav,Cod fish are of course not found in fresh water.,CODFISH ARE OF COURSE NOT FOUND IN FRESH WATER,0.2,0.2,0.28888888888888886
+common_voice_en_20177039.wav,"They had two sons, Matthew and Daniel, and an adopted daughter, Genevieve.",THEY HAD TWO SONS MATTHEW AND DANIEL AND AN ADOPTED DAUGHTER GENEVIEVE,0.0,0.0,0.0
+common_voice_en_26792068.wav,She saw action in the Quasi-War.,SHE SAW ACTION IN THE QUASI WAR,0.3333333333333333,0.2857142857142857,0.40476190476190477
+common_voice_en_21208395.wav,It seems probable that he had some share in both.,IT SEEMS PROBABLE THAT HE HAD SOME SHARE IN BOTH,0.0,0.0,0.0
+common_voice_en_21493981.wav,Sheep are the most vulnerable.,SHEEP ARE THE MOST FOND OF ROPE,0.6,0.42857142857142855,0.5428571428571429
+common_voice_en_21229080.wav,Other foods widely associated with Central Europe are goulash and beer.,OTHER FOODS WIDELY ASSOCIATED WITH CENTRAL EUROPE ARE GLUTCH AND BEER,0.09090909090909091,0.09090909090909091,0.17355371900826455
+common_voice_en_23893762.wav,The Council meets once a year.,THE COUNCIL MEETS ONCE A YEAR,0.0,0.0,0.0
+common_voice_en_18909322.wav,Dolby developed a digital surround sound compression scheme for the cinema.,THEY'LL BE DEVELOPED A DIGITAL SURROUND SOUND COMPRESSION SCHEME FOR THE SYNONYMER,0.2727272727272727,0.25,0.38636363636363635
+common_voice_en_22758663.wav,Doubs was important as a portal to Switzerland through the pass at Joux.,DO WAS IMPORTANT AS A PORTAL TO SWITZERLAND THROUGH THE PASS AT JUNE,0.15384615384615385,0.15384615384615385,0.28402366863905326
+common_voice_en_19852734.wav,It has recently been placed on Japan's Red List of Threatened Amphibians.,IT HAS RECENTLY BEEN PLACED ON JAPAN'S RED LIST OF THREATENED AND PHOBIANS,0.16666666666666666,0.15384615384615385,0.22435897435897445
+common_voice_en_25640298.wav,There are several different theories concerning the origin of the city's name.,THERE ARE SEVERAL DIFFERENT THEORIES CONCERNING THE ORIGIN OF THE CITY'S NAME,0.0,0.0,0.0
+common_voice_en_19853447.wav,Whose tea was it?,WHOSE TEA WAS IT,0.0,0.0,0.0
+common_voice_en_26985708.wav,"They are replenished by an enzyme, telomerase reverse transcriptase.",THEY REPLENISHED BY AN INTIME TELEGRAPH'S REVERSE TRANSCRIPTIES,0.4444444444444444,0.4444444444444444,0.6527777777777778
+common_voice_en_25357984.wav,"This game is similar in concept to the venerable ""Starfire"" system.",THIS GAME A CELLAR AND CONCERT A VENERABLE STAR FIRE SYSTEM,0.7272727272727273,0.7272727272727273,0.9256198347107438
+common_voice_en_22214321.wav,These represent alternating current which can be used to power a load.,MEANS ALTERNATING CURRENT WHICH CAN BE USED TO POWER A LOAD,0.16666666666666666,0.16666666666666666,0.24242424242424243
+common_voice_en_23566567.wav,"The town most likely was named after Bethany, a biblical place.",THE TOWN MOST LIKELY WAS NAMED AFTER BETHANY A GOOD LOCAL PLACE,0.18181818181818182,0.16666666666666666,0.24242424242424243
+common_voice_en_21139152.wav,It was never very successful against formidable competition in that format.,IT WAS NEVER VERY SUCCESSFUL AGAINST FORMIDABLE COMPETITION AND THAT FAULT,0.18181818181818182,0.18181818181818182,0.3305785123966941
+common_voice_en_18890746.wav,It served on the Western Front for the duration of the First World War.,IT SERVED ON THE WESTERN FRONT FOR THE DURATION OF THE FIRST WORLD WAR,0.0,0.0,0.0
+common_voice_en_27871299.wav,"Theoretically, these areas were closed to European colonization.",THEORETICALLY THESE AREAS WERE CLOSED TO EUROPEAN COLONIZATION,0.0,0.0,0.0
+common_voice_en_25354197.wav,"He also did illustrations for Random House, Harper and Row, and Doubleday.",HE INSERTED ILLUSTRATIONS FOR RANDOM HOUSE PAPA AND ROB AND DOUBLE DAY,0.5,0.46153846153846156,0.6597222222222221
+common_voice_en_24569297.wav,Many parishes have been created since then.,MANY PARISHES HAVE BEEN CREATED SINCE THIN,0.14285714285714285,0.14285714285714285,0.26530612244897966
+common_voice_en_19905202.wav,Its county seat is Ashland City.,ITS COUNTY SEAT IS ASHLAND CITY,0.0,0.0,0.0
+common_voice_en_21139233.wav,The ages progressively decrease from east to west.,THE AGES PROGRESSIVELY DECREASE FROM EAST TO WEST,0.0,0.0,0.0
+common_voice_en_21183215.wav,It lives in water at about above sea level.,IT LIVES IN MORTAR AT ABOUT ABOVE SEA LEVEL,0.1111111111111111,0.1111111111111111,0.2098765432098766
+common_voice_en_21162485.wav,He was charged with leaving the scene of an accident.,HE WAS CHARGED WITH LEAVING THE SCENE OF AN ACCIDENT,0.0,0.0,0.0
+common_voice_en_19519457.wav,He runs the publishing house Wild Honey Press.,HE RUNS THE PUBLISHING HOUSE WILD HONEY CHRIS,0.125,0.125,0.234375
+common_voice_en_21162469.wav,Competitive auctions determine the stumpage fees to be paid.,COMPETITIVE AUCTIONS DETERMINE THE STUMPAGE FEES TO BE PAID,0.0,0.0,0.0
+common_voice_en_19552195.wav,I thought it was a perfect name for the album.,I THOUGHT IT WAS A PERFECT NAME FOR THE ALGER,0.1,0.1,0.18999999999999995
+common_voice_en_19868040.wav,"His father is British, his mother is German.",HIS FATHER IS BRITISH HIS MOTHER IS GERMAN,0.0,0.0,0.0
+common_voice_en_18838365.wav,"They eventually settled in King George, Virginia.",THEY EVENTUALLY SETTLED IN KING GEORGE VIRGINIA,0.0,0.0,0.0
+common_voice_en_20167825.wav,"Starting in ""Mr. Monk Helps Himself"", Natalie studies for a private investigations licensing exam.",STUDYING AND MISTER MARK HELPS HIMSELF NATURALLY STUDIES FOR A PRIVATE INVESTIGATIONS FORCED SING EXAMPLE,0.5714285714285714,0.5333333333333333,0.7666666666666666
+common_voice_en_27637723.wav,"To provide for its population, China has a vast and varied school system.",TO PROVIDE FOR ITS POPULATION CHINA HAS A VAST AND VARIED SCHOOL SYSTEM,0.0,0.0,0.0
+common_voice_en_21494106.wav,On their way back they were stopped by the crowd.,ON THE WAY BACK THEY WERE STOPPED BY THE CROWD,0.1,0.1,0.18999999999999995
+common_voice_en_25380216.wav,Advantages of managed storage are that more space can be ordered as required.,ADVANTAGES OF MANAGE STORAGE ARE THAT MORE SPACE CAN BE ORDERED AS REQUIRED,0.07692307692307693,0.07692307692307693,0.1479289940828401
+common_voice_en_25640115.wav,"When the Egyptians attacked Kadesh, Suppililiuma besieged and retook the town.",WHEN THE EGYPTIANS ATTACKED CADDISH SUPILLUMA BESIEGED AND RETOOK THE TOWN,0.18181818181818182,0.18181818181818182,0.3305785123966941
+common_voice_en_19547532.wav,How many Spaniards came to Brazil before independence are unknown.,HOW MANY SPANIARDS CAME TO BRAZIL BEFORE INDEPENDENCE ARE UNKNOWN,0.0,0.0,0.0
+common_voice_en_19962234.wav,It was organized by the Pasadena Junior Chamber of Commerce.,IT WAS ORGANIZED BY THE PASODINA JUNIOR CHAMBER OF COMMERCE,0.1,0.1,0.18999999999999995
+common_voice_en_31289251.wav,The treatment was criticized as extreme and other medical authorities found the treatment unfavourable.,IT WAS CRITICISED AS EXTREME AND OTHER MEDICAL AUTHORITIES FOUND THE TREATMENT UNFAVORABLE,0.2857142857142857,0.2857142857142857,0.4505494505494505
+common_voice_en_25345793.wav,This usually recalls the historical ownership of lands or manors by the Crown.,THIS USUALLY RECALLS THE HISTORICAL OWNERSHIP OF LANDS OR MANNERS BY THE CROWN,0.07692307692307693,0.07692307692307693,0.1479289940828401
+common_voice_en_20029442.wav,Muraoka made this into the most complete and up-to-date reference grammar.,YOU'RE A YOKAH MAY DESCEND TO ONE OF THE MOST COMPLETE AND UP TO DATE REFERENCE CRAFT,1.0909090909090908,0.7058823529411765,0.8663101604278075
+common_voice_en_21139212.wav,The America First Committee had officially dissolved four days after Pearl Harbor.,THE AMERICAN FIRST COMMITTEE HAD OFFICIALLY DISSOLVED FOUR DAYS AFTER PEARL HARBOR,0.08333333333333333,0.08333333333333333,0.15972222222222232
+common_voice_en_18893959.wav,"Objecting to cold-blooded murder, Elsa draws a pistol.",OBJECTING TO COLD BLOODED MURDER ALSO DRAWS A PISTOL,0.375,0.3333333333333333,0.5
+common_voice_en_19867368.wav,The route ran on Coors Boulevard from Cottonwood Mall to the Alamosa Community Center.,THE ROUTE RAN ON COARSE BOULEVARD FROM COTTON WOOD MALL TO THE ALAMOSA COMMUNITY CENTRE,0.2857142857142857,0.26666666666666666,0.42380952380952386
+common_voice_en_19562753.wav,She continued to show concern for the poor by contributing generously to Washington charities.,SHE CONTINUED TO SHOW CONSENT FOR THE PAUSE BY CONTRIBUTING IN HER SIGHT TO WASHINGTON CHARITIES,0.35714285714285715,0.3125,0.4598214285714286
+common_voice_en_27270467.wav,"At Liotta's urging, Hill entered alcohol rehabilitation two days after the shoot.",AT LEOTA'S ARGUING HELL ENTERED ALCOHOL REABILITATION TWO DAYS AFTER THE SHOOT,0.3333333333333333,0.3333333333333333,0.5555555555555556
+common_voice_en_21183049.wav,They did the whole album.,THEY DID THE WHOLE ALBUM,0.0,0.0,0.0
+common_voice_en_27270483.wav,There are some basic restaurants and internet cafes.,THERE ARE SOME BASIC RESTAURANTS AND INTIMATE CAFES,0.125,0.125,0.234375
+common_voice_en_25353913.wav,The distillery uses malted barley sourced from the maltings in Port Ellen.,THE DISTILLERY USED AS MALTA BAILEY'S SOURCE FROM THE MALTINGS AND PORT ALLAN,0.5833333333333334,0.5384615384615384,0.7692307692307692
+common_voice_en_24206657.wav,"His mission succeeded, and Emmaus was henceforward known as Nicopolis.",HIS MISSION SUCCEEDED AND IMMORTAL WAS HENCEFORWARD KNOWN AS IN NICOPOLIS,0.2,0.18181818181818182,0.26363636363636356
+common_voice_en_18909334.wav,Nilsen was assigned to surveil allied military activity in northern Norway.,NELSON WAS ASSIGNED TO SURVEIL ALLIED MILITARY ACTIVITY IN NORTHERN NORWAY,0.09090909090909091,0.09090909090909091,0.17355371900826455
+common_voice_en_23893583.wav,"Its sequel, ""Victory Unintentional"", is a robot story.",IT'S SACRED VICTORY UNINTENTIONAL AS A ROBOT STORY,0.25,0.25,0.4375
+common_voice_en_25640387.wav,"Occasionally, cases of hip dysplasia can occur.",OCCASIONALLY CASES OF HIP DISPLEASURE CAN OCCUR,0.14285714285714285,0.14285714285714285,0.26530612244897966
+common_voice_en_27284774.wav,"The name ""carduelis"" is the Latin word for the European goldfinch.",THE NAME CADWELLIS IS THE LATIN WORD THE EUROPEAN GULFISH,0.2727272727272727,0.2727272727272727,0.4181818181818181
+common_voice_en_19946623.wav,He built several fortresses and castles to build out the new capital.,YOU KNOW CIVIL FORTRESSES AND CASTLES BUILT OUT THE NEW CAPITAL,0.4166666666666667,0.4166666666666667,0.6287878787878788
+common_voice_en_18893627.wav,"However, due to its natural fortifications along with castles and walls it never fell.",HOWEVER DUE TO ITS NATURAL FORTIFICATIONS ALONG WITH CASTLES AND WALLS IT NEVER FELL,0.0,0.0,0.0
+common_voice_en_20032072.wav,She had a half brother Alfred Ledersteger.,SHE HAD A HALF BROTHER ALFRED LATER STRICKEN,0.2857142857142857,0.25,0.3571428571428572
+common_voice_en_19547601.wav,Each has its own episode list.,EACH HAS ITS OWN YOU PRECEDE LUST,0.5,0.42857142857142855,0.6190476190476191
+common_voice_en_19751408.wav,The ad aired again during the Republican National Convention.,THE AIR AIRED AGAIN DURING THE REPUBLICAN VESTAL CONVENTION,0.2222222222222222,0.2222222222222222,0.3950617283950617
+common_voice_en_26986552.wav,Jakobek is the son-in-law of former veteran Scarborough councillor Ken Morrish.,IT IS THE SON IN LAW OF FORMER VETERAN SCARBOROUGH COUNSELLOR KEEN MORRIS,0.6363636363636364,0.5384615384615384,0.7482517482517483
+common_voice_en_19946681.wav,One hemisphere of Oerth was dominated by a massive continent called Oerik.,ONE HYMN OCCURRED OR WAS DOMINATED BY A METAL ACCOMPANIMENT CALLED ORGAN,0.5,0.5,0.75
+common_voice_en_19867782.wav,It is the smallest number with exactly seven divisors.,IT IS THE SMALLEST NUMBER WITH EXACTLY SEVEN DEVISERS,0.1111111111111111,0.1111111111111111,0.2098765432098766
+common_voice_en_26985737.wav,The modern building was actually built around the chapel it now harbours.,THE MODERN BUILDING WAS ACTUALLY BUILT AROUND THE CHAPEL IT NOW HARBOURS,0.0,0.0,0.0
+common_voice_en_30645449.wav,The Lancasterâ€“Tolstoi Border Crossing is now the westernmost border crossing between Minnesota and Manitoba.,THE LANCASTER TOLD STUDY BORDER CROSSING IS NOW THE WESTERNMOST BORDER CROSSING BETWEEN MINNESOTA AND MANITOBA,0.21428571428571427,0.1875,0.2455357142857143
+common_voice_en_25640561.wav,"At Pine View, students must enroll at the beginning of each school year.",AT PINE VIEWS STUDENTS MUST ENROLL AT THE BEGINNING OF EACH SCHOOL YEAR,0.07692307692307693,0.07692307692307693,0.1479289940828401
+common_voice_en_19547538.wav,"As now witnessed in the ""radio communications"" field.",AS NOW WITNESSED IN THE RADIO COMMUNICATIONS FIELD,0.0,0.0,0.0
+common_voice_en_19853461.wav,Northpointe Academy is a charter school located in Highland Park.,ACADEMY IS A CHARGE OF SCHOOL LOCATED IN HIGHLAND PARK,0.3,0.2727272727272727,0.3599999999999999
+common_voice_en_21185595.wav,Several low-charting singles would follow for the band.,SEVERAL BLUE CHATTING SINGLES WOULD FOLLOW FOR THE BAND,0.25,0.2222222222222222,0.3194444444444444
+common_voice_en_25380196.wav,"If standing, loss of consciousness can result in substantial head trauma through falling.",IF STANDING LOST THE CONSCIOUSNESS CAN RESULT IN SUBSTANTIAL HEAD DRAMA THROUGH FALLING,0.23076923076923078,0.23076923076923078,0.40828402366863903
+common_voice_en_27284712.wav,Sherman's text was presented uncensored.,SHERMAN'S TEST WAS PRESENTED UNCENSORED,0.2,0.2,0.3599999999999999
+common_voice_en_19034547.wav,Mastermind were musically very different from Journey.,MASTER MIND WERE MUSICALLY VERY DIFFERENT FROM JOURNEY,0.2857142857142857,0.25,0.3571428571428572
+common_voice_en_19547693.wav,In Wales it is often referred to as a gambo.,YES IT IS OFTEN REFERRED TO HIS CHAMBER,0.5,0.5,0.6875
+common_voice_en_18935244.wav,Some lasted several years and appeared in subsequent series.,SOME LASTED SEVERAL YEARS AND APPEARED IN SUBSEQUENT SERIES,0.0,0.0,0.0
+common_voice_en_24949178.wav,He was particularly noted for his work on protecting the natural environment.,HE WAS PARTICULARLY NOTED FOR HIS WORK ON PROTECTING THE NATURAL ENVIRONMENT,0.0,0.0,0.0
+common_voice_en_19519444.wav,The dog subsequently retrieved the item given its name.,THE DOG SUBSEQUENTLY RETRIEVED THE HEIGHT AND GIVEN ITS NAME,0.2222222222222222,0.2,0.28888888888888886
+common_voice_en_19552442.wav,Kliper's design was another attempt to solve the geometric problems of spacecraft.,PAPA'S DESIGN WAS ANOTHER ATTEMPT TO SOLVE THE GERMANIC PROBLEMS OF SPACE CRAFT,0.3333333333333333,0.3076923076923077,0.48076923076923084
+common_voice_en_19867854.wav,"The village was once larger than today, though probably always scattered in plan.",THE VILLAGE WAS ONCE LARGER THAN TO DAY THOUGH PROBABLY ALWAYS SCATTERED AND PLANNED,0.3076923076923077,0.2857142857142857,0.4505494505494505
+common_voice_en_18715678.wav,The lead vocalist for The Crystals' biggest hits is La La Brooks.,THE LEAD VOCALIST FOR THE CRYSTAL'S BIGGEST HITS IS LILY BROOKS,0.16666666666666666,0.16666666666666666,0.24242424242424243
+common_voice_en_25380091.wav,"After back to entertainment scene, Chow works as part-time and obsesses with community services.",AFTER BACK TO ENTERTAINMENT SCENE CHARLES WAKES'S PART TIME AND OBSESSES WITH COMMUNITY SERVICE,0.35714285714285715,0.35714285714285715,0.586734693877551
+common_voice_en_608679.wav,They climbed a tall crane without securing themselves and filmed it for their YouTube channel.,THEY CLIMBED A TALL CRANE WITHOUT SECURING THEMSELVES AND FILLED IT FOR THEIR FUTURE CHANNEL,0.13333333333333333,0.13333333333333333,0.24888888888888883
+common_voice_en_20996270.wav,The town is located in the Shire of Yilgarn.,THE TOWN IS LOCATED IN THE SHIRE OF YELKAN,0.1111111111111111,0.1111111111111111,0.2098765432098766
+common_voice_en_21162473.wav,And we are resolved to share it equally.,AND WE ARE RESOLVED TO SHARE IT EQUALLY,0.0,0.0,0.0
+common_voice_en_23893565.wav,I am sure I am not mean about her.,I AM SURE I AM NOT MEAN ABOUT HER,0.0,0.0,0.0
+common_voice_en_19553005.wav,"Lalo Guerrero has been lauded as the ""father of Chicano music"".",PHILOSOPHERO IN SPAIN BORDERED AS FATHER OF SCARNEL MUSIC,0.6363636363636364,0.6363636363636364,0.8383838383838385
+common_voice_en_18977843.wav,The architects were Sir William Holford and Partners and the theatre consultant Michael Warre.,THE ARCHITECTS WERE SIR WILLIAM HOLFORD AND PARTNERS AND THE THEATRE CONSULTED MICHAEL WAR,0.14285714285714285,0.14285714285714285,0.26530612244897966
+common_voice_en_25359269.wav,Bassal survived less than a month.,BUT I'LL SPARE LESS THAN A MONTH,0.5,0.42857142857142855,0.6190476190476191
+common_voice_en_19547559.wav,A stone in the churchyard is sometimes pointed out as bearing the Devil's footprint.,A STONE AND THE TWO YARDS SOMETIMES POINTED OUT IS BURYING THE DEVIL'S FOOTPRINT,0.35714285714285715,0.35714285714285715,0.586734693877551
+common_voice_en_18838317.wav,Hexton stands in well wooded and hilly country adjacent to the Bedfordshire border.,HEXTON'S STANDS AND WELL WOODED AND HILLY COUNTRY ADJACENT OF A METHOD CHAMBORDER,0.46153846153846156,0.46153846153846156,0.7100591715976332
+common_voice_en_30650399.wav,It consists of hills and valleys covered in dense native bush.,IT CONSISTS OF HILLS AND VALLEYS COVERED IN DENSE NATIVE BUSH,0.0,0.0,0.0
+common_voice_en_19730834.wav,In a sheltered cove they founded a settlement.,IN A SHELTERED COVE THEY FOUNDED A SETTLEMENT,0.0,0.0,0.0
+common_voice_en_23893743.wav,"Louis K. Church was born in Brooklyn, New York.",LEWIS KAY CHURCH WAS BORN IN BROOKLYN NEW YORK,0.2222222222222222,0.2222222222222222,0.3950617283950617
+common_voice_en_19853816.wav,The Act is administered by the Kaieteur National Park Commission.,THE ACT IS ADMINISTERED BY THE CALDER NATIONAL PARK COMMISSION,0.1,0.1,0.18999999999999995
+common_voice_en_22758602.wav,"Cordero, who was of African ancestry, was self-educated.",POOR DARROW WHO WAS OF AFRICAN ANCESTRY WAS SELF EDUCATED,0.5,0.4,0.55
+common_voice_en_18838361.wav,All characters should be able to resist the pressure during printing.,ALL CHARACTERS SHALL BE ABLE TO RESIST THE PRESSURE DURING PRINTING,0.09090909090909091,0.09090909090909091,0.17355371900826455
+common_voice_en_20284778.wav,The soundtrack became a chartbuster upon release and was highly acclaimed.,THE SOUND TRACK BECAME A CHARRED BUSTER UPON RELEASE AND WAS HIGHLY ACCLAIMED,0.36363636363636365,0.3076923076923077,0.43356643356643354
+common_voice_en_20167671.wav,Geologists only define the gypsum variety as alabaster.,GEOLOGIST ONLY TO FIND THE GYPSUM VARIETY IS ALABASTER,0.5,0.4444444444444444,0.6527777777777778
+common_voice_en_18967259.wav,"He speaks English, French, and Arabic fluently.",HE SPEAKS ENGLISH FRENCH AND ARABIC FLUENTLY,0.0,0.0,0.0
+common_voice_en_21162460.wav,Weston was educated at the Westminster School.,WESTERN WAS EDUCATED AT THE WESTMINSTER SCORE,0.2857142857142857,0.2857142857142857,0.4897959183673469
+common_voice_en_21185647.wav,"During this first stage, the terrain is steeper and more irregular.",DURING THIS FIRST STAGE THE TERRAIN IS STEEPER AND MORE IRREGULAR,0.0,0.0,0.0
+common_voice_en_19867829.wav,"The likelihood that it will rain is, however, something ""suggested"".",THE LIKELIHOOD THAT IT WILL RAIN IS HOWEVER SOME THING SUGGESTED,0.2,0.18181818181818182,0.26363636363636356
+common_voice_en_19547444.wav,"Malcolm McDowell played the ballet company's artistic director, a character based on Gerald Arpino.",MALCOLM MAC DOWELL PLAYED THE BELLY ACCOMPANY'S ARTISTIC DIRECTOR A CHARACTER BASED ON GERALD D'ARTAGNAN,0.35714285714285715,0.3333333333333333,0.5238095238095238
+common_voice_en_18896498.wav,"Speed is crucial in this manga, unlike in Blame!",SPEED IS CRUCIAL MISS MAGDA AND LIGHT AND BLAME,0.5555555555555556,0.5555555555555556,0.8024691358024691
+common_voice_en_29375420.wav,"Normally colorless, they are stained purplish-red by trichrome.",NORMALLY COLOURLESS THEY ARE STAINED PURPLISH RED BY TRACING,0.5,0.4444444444444444,0.6527777777777778
+common_voice_en_18884167.wav,Rosenthal's usually malicious wit was legendary.,ROSAMOND'S USUALLY MALICIOUS WIT WAS ANCIENT DERRY,0.5,0.42857142857142855,0.6190476190476191
+common_voice_en_20167581.wav,Spring and fall are transition seasons featuring warmer temperatures than in winter.,SPRING IN FULL A TRANSITION SEASONS FEATURING WARMER TEMPERATURES TEN IN WINTER,0.3333333333333333,0.3333333333333333,0.5555555555555556
+common_voice_en_20177043.wav,"Her style has been described as ""glamorous"" meets ""sexy elegance"" by Holt Renfrew executives.",HER STYLE HAS BEEN DESCRIBED AS GLAMOROUS MAKES SIXTY ELEGANCE BY A HALT OR IN FEW EXECUTIONS,0.5714285714285714,0.47058823529411764,0.6596638655462185
+common_voice_en_19793976.wav,These partnerships provide most but not all of the rights of marriage.,THESE PARTNERSHIPS PROVIDE MOST BUT NOT ALL OF THE RIGHTS OF MARRIAGE,0.0,0.0,0.0
+common_voice_en_27871213.wav,"Brooke McEldowney is also the creator of the webcomic ""Pibgorn"", a spin-off.",BROOK MECKLEDOWNY IS ALSO THE CREATOR OF THE WEB COMIC PIBCORN A SPINNOW,0.5,0.46153846153846156,0.6858974358974359
+common_voice_en_19547582.wav,The company purchased additional land in the vicinity.,ACCOMPANY PURCHASED ADDITIONAL LAND IN THE VICINITY,0.25,0.25,0.3571428571428572
+common_voice_en_27637700.wav,He was twice elected to the National Assembly following the restoration of democratic rule.,HE WAS TWICE ELECTED TO THE NATIONAL ASSEMBLY FOLLOWING THE RESTORATION OF DEMOCRATIC RULE,0.0,0.0,0.0
+common_voice_en_19567984.wav,The Gambia has an embassy in Moscow.,D'ARTAGNAN IS AN EMBASSY AND MOSCOW,0.5714285714285714,0.5714285714285714,0.7857142857142857
+common_voice_en_20031862.wav,"Three days later Ivan made Vasili, autocrat of all Russia.",THREE DAYS LATER IVAN MADE VASSILI AUTOCRAT OF ALL RUSSIA,0.1,0.1,0.18999999999999995
+common_voice_en_18884863.wav,Forselius spoke good Estonian as well as Swedish and German.,FOR SALIUS SPOKE GOOD ASTONIAN AS WELL AS SWEDISH AND GERMAN,0.3,0.2727272727272727,0.4181818181818181
+common_voice_en_19852699.wav,"In reality, the talks radically altered the shape of the Polish government and society.",IN REALITY THE TALKS RADICALLY ALTERED THE SHAPE OF THE POLISH GOVERNMENT AND SOCIETY,0.0,0.0,0.0
+common_voice_en_20284797.wav,Weld was recorded by David Hewitt on Remote Recording Services' Silver Truck.,IT WAS RECORDED BY DAVID HEWETT ON REMOTE RECORDING SERVICES SILVER TRUCK,0.16666666666666666,0.16666666666666666,0.30555555555555547
+common_voice_en_21139521.wav,The number was used during his days as a graffiti tagger.,THE NUMBER WAS USED DURING HIS DAYS AS A GREEK FETETAGA,0.18181818181818182,0.18181818181818182,0.3305785123966941
+common_voice_en_20166973.wav,The Seimas of the Republic of Lithuania exercises legislative power in Lithuania.,THE PSALMS OF THE REPUBLIC OF PHILOSOPHANIA EXERCISES LEISURE OF POWER AND THE TWADIAN,0.5833333333333334,0.5,0.7083333333333333
+common_voice_en_25358074.wav,One of the purposes stated in the document was the explicit condemnation of Communism.,ONE OF THE PURPOSES STATED IN THE DOCUMENT WAS THE EXPLICIT CONDEMNATION OF COMMUNISM,0.0,0.0,0.0
+common_voice_en_19573608.wav,This led to significantly better compression ratios on almost all files.,IT IS SIGNIFICANT MY BITTER COMPRESSION RACIER IS ON ALMOST ALL FILES,0.6363636363636364,0.5833333333333334,0.8106060606060606
+common_voice_en_20049245.wav,The enzyme also breaks down stored proteins into their amino acid derivatives.,THE ENSIGN ALSO BREAKS DOWN STORED PROTEINS INTO THEIR MINERAL ACID DERIVATIVES,0.16666666666666666,0.16666666666666666,0.30555555555555547
+common_voice_en_21185295.wav,"Over time, O'Brien becomes increasingly irritable and reclusive.",FOR A TIME OUR BRYAN BECOMES INCREASINGLY IRRITABLE AND EXCLUSIVE,0.625,0.5,0.6875
+common_voice_en_25640408.wav,Incumbent President George W. Bush ran unopposed.,INCUMBENT PRESIDENT GEORGE W BUSH RAN UNOPPOSED,0.0,0.0,0.0
+common_voice_en_26986246.wav,Adam believes that he is the cheese.,EDWIN BELIEVES THAT HE IS THE CHEESE,0.14285714285714285,0.14285714285714285,0.26530612244897966
+common_voice_en_19550928.wav,Emergency iron sights are also fitted.,EMERGENCY IRON SIGHTS ARE ALSO FITTED,0.0,0.0,0.0
+common_voice_en_19867752.wav,Hood's division accompanied Bragg's army to the siege of Chattanooga.,HOOD'S DIVISION ACCOMPANIED BRAGG'S ARMY TO THE SIEGE OF CHATTANOOGA,0.0,0.0,0.0
+common_voice_en_27870757.wav,"The list below is organized by state and, within each state, by population size.",THE LIST BELOW IS ORGANIZED BY STATE AND WITHIN EACH STATE BY POPULATION SIZE,0.0,0.0,0.0
+common_voice_en_24569304.wav,"Adair, to begin with, was a very good bowler indeed.",A DARE TO BEGIN WITH WAS A VERY GOOD BOWLER INDEED,0.2,0.18181818181818182,0.26363636363636356
+common_voice_en_18838389.wav,Track rebuild projects covered the system.,TRACK REBEL PROJECTS COVERED THE SYSTEM,0.16666666666666666,0.16666666666666666,0.30555555555555547
+common_voice_en_23911916.wav,"Various species of ""Cassytha"" bear flowers in racemes, spikes, or heads.",VARIOUS SPECIES OF CASSYPHO THE FLOWERS AND RACINES SPIKES OR HINTS,0.45454545454545453,0.45454545454545453,0.7024793388429753
+common_voice_en_24908806.wav,He is one of the pioneers of rap and hip-hop culture in Poland.,HE IS ONE OF THE PIONEERS OF RAPID HYPOTHECOCHA AND POLAND,0.38461538461538464,0.35714285714285715,0.43356643356643354
+common_voice_en_18893971.wav,The album was praised by Kerrang!,THE ELBOW WAS PRAISED BY KARAIN,0.3333333333333333,0.3333333333333333,0.5555555555555556
+common_voice_en_19867862.wav,"She is interred at Grandview Memory Gardens in Bluefield, Virginia.",SHE HAS INTERRED AT GRANVILLE MEMORY GARDENS IN BLUEFIELD VIRGINIA,0.2,0.2,0.3599999999999999
